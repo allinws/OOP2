@@ -1,7 +1,12 @@
-from sqlalchemy import create_engine, ForeignKey, Column, String, Integer, CHAR
+from sqlalchemy import create_engine, ForeignKey, Column, String, Integer
 from sqlalchemy.orm import sessionmaker, declarative_base
 
+# Import SQLAlchemy's base class to be inherited from all python classes
 Base = declarative_base()
+
+# Define which DB to use, and if to log queries to terminal
+# engine = create_engine('sqlite:///mydb.db', echo=False)
+engine = create_engine('sqlite:///person_car.db', echo=True)
 
 class Person(Base):
     __tablename__ = 'people'
@@ -38,17 +43,9 @@ class Car(Base):
     def __repr__(self) -> str:
         return f'({self.id}) {self.brand} {self.model}'
     
-
-# No prints of queries
-engine = create_engine('sqlite:///mydb.db', echo=False)
-
-# To have prints of the queries, etc
-# engine = create_engine('sqlite:///mydb.db', echo=False)
-
+# Create all classes above in Db
 Base.metadata.create_all(bind=engine)
 
-Session = sessionmaker(bind=engine)
-session = Session()
 
 person_one = Person(
     personal_number='900806-2020', 
@@ -76,6 +73,11 @@ people_to_add = [
     person_two,
     person_three
 ]
+
+# Session used to communicate with DB
+Session = sessionmaker(bind=engine)
+session = Session()
+
 
 for person in people_to_add:
     existing_person = session.query(Person).filter_by(personal_number=person.personal_number).first()
