@@ -1,0 +1,14 @@
+id,first_name,last_name,gender,age,height,weight
+1,John,Doe,Male,25,180,75
+2,Jane,Doe,Female,30,160,50
+3,Bob,Smith,Male,40,170,80
+4,Sara,Johnson,Female,35,,60
+5,Alex,Williams,Male,20,185,90
+6,Maria,Garcia,Female,,155,45
+7,James,Lee,Male,28,175,70
+8,Emma,Wilson,Female,32,165,55
+9,John,Doe,Male,25,180,75
+10,Eric,Johnson,Male,120,200,400
+11,Lisa,Chen,,,,,
+12,Kate,Wang,Female,twenty-two,160,50
+13,John,Doe,Male,25,180,75
