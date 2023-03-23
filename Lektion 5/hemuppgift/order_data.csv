@@ -1,0 +1,1001 @@
+order_id,customer_id,product_list,total_price,order_date
+1,10,"Jacket, Jeans, T-shirt",656.96,08/18/2022 09:14:45
+2,4,"Sneakers, Jacket, Watch, T-shirt, Jeans",1424.43,07/23/2022 13:31:52
+3,2,"Jacket, Sneakers, Jeans",1027.78,05/09/2022 03:40:01
+4,18,"Sneakers, Watch, Jacket, T-shirt, Jeans",1218.61,08/04/2022 18:43:45
+5,1,,1612.33,01/28/2023 17:30:06
+6,7,Sneakers,193.51,09/13/2022 01:15:41
+7,19,"Jeans, Watch, T-shirt",334.83,01/24/2023 04:42:22
+8,9,"Watch, T-shirt, Jeans, Jacket",940.14,10/27/2022 09:01:55
+9,7,"T-shirt, Sneakers, Jacket",1095.69,10/24/2022 16:29:20
+10,16,"Jeans, Watch",578.8,12/28/2022 18:26:00
+11,9,Jeans,167.41,03/11/2022 06:08:09
+12,11,Jeans,103.84,01/28/2022 01:58:08
+13,13,"Watch, T-shirt, Sneakers, Jacket",861.48,11/18/2022 09:30:32
+14,20,"Jeans, Jacket, T-shirt, Sneakers",959.54,02/10/2022 00:55:22
+15,18,Watch,166.15,05/25/2022 13:01:35
+16,12,"Sneakers, T-shirt, Jacket, Jeans, Watch",993.96,02/15/2023 13:49:47
+17,22,"Watch, Jeans, Sneakers, T-shirt, Jacket",1078.77,07/05/2022 09:34:52
+18,20,"Jeans, Watch, Sneakers, T-shirt, Jacket",1431.49,07/31/2022 12:52:24
+19,9,T-shirt,333.87,04/25/2022 23:20:33
+20,15,"Jeans, T-shirt, Sneakers, Watch, Jacket",1176.34,04/01/2022 14:41:21
+21,17,"Jacket, Jeans, Watch, T-shirt, Sneakers",1075.91,05/06/2022 15:39:35
+22,13,"T-shirt, Jeans, Sneakers, Jacket, Watch",1041.71,04/17/2022 15:15:31
+23,19,"Watch, T-shirt",419.97,08/11/2022 00:11:20
+24,1,"Jeans, T-shirt, Jacket",971.08,10/17/2022 23:26:33
+25,4,"Jacket, Sneakers, Jeans",440.32,05/06/2022 11:26:25
+26,16,"Watch, T-shirt, Jeans, Jacket",1278.54,02/03/2022 16:57:50
+27,22,"Sneakers, Jacket, T-shirt, Watch, Jeans",1078.11,03/29/2022 21:49:39
+28,1,"Jacket, T-shirt",800.61,06/26/2022 15:41:22
+29,20,"T-shirt, Jacket, Watch",1125.02,09/02/2022 00:04:21
+30,15,"Jeans, Jacket, Sneakers",1060.81,03/02/2022 05:50:47
+31,4,"Sneakers, Jeans",428.56,01/09/2023 19:23:23
+32,1,Sneakers,303.27,12/24/2022 19:39:36
+33,3,"Watch, Jacket",390.53,01/05/2022 02:07:53
+34,21,"Watch, Sneakers",557.84,02/22/2022 10:23:14
+35,5,Watch,140.51,12/07/2022 01:12:54
+36,7,Watch,215.7,02/22/2023 09:02:05
+37,14,"Sneakers, Jeans, Watch, T-shirt",539.04,12/10/2022 00:42:08
+38,8,"Jeans, Sneakers",388.64,08/14/2022 07:38:41
+39,18,"Jeans, Jacket, Watch",800.53,02/24/2023 20:13:24
+40,5,"T-shirt, Watch",480.03,01/14/2023 11:48:09
+41,3,"T-shirt, Jeans, Jacket, Watch",716.97,04/14/2022 06:39:04
+42,0,"Sneakers, Watch",514.29,03/15/2022 07:33:23
+43,22,"Jacket, T-shirt, Jeans, Watch, Sneakers",1146.07,01/04/2023 00:07:07
+44,16,"Jeans, T-shirt, Jacket",797.34,11/29/2022 09:35:31
+45,9,Watch,56.83,06/28/2022 10:03:03
+46,8,"Watch, Jeans, T-shirt",894.76,06/17/2022 11:18:54
+47,,"T-shirt, Jacket, Jeans, Watch, Sneakers",1732.55,05/25/2022 22:56:00
+48,1,"T-shirt, Jacket, Jeans",636.57,02/26/2022 00:23:52
+49,13,"Sneakers, Jacket, Jeans, T-shirt, Watch",1148.48,03/11/2022 23:44:52
+50,5,Jacket,487.43,07/05/2022 11:59:34
+51,1,Jeans,120.56,01/23/2023 05:27:29
+52,7,"Jacket, Sneakers",517.07,03/14/2023 18:19:55
+53,16,"Jeans, Sneakers",706.2,02/15/2022 18:13:00
+54,8,"Sneakers, Jeans, Jacket, Watch",988.96,06/01/2022 00:40:17
+55,8,Jacket,368.94,10/25/2022 13:32:23
+56,22,"Jeans, T-shirt",114.08,07/21/2022 20:48:41
+57,17,"Sneakers, Watch, T-shirt",769.31,08/15/2022 15:52:14
+58,2,"Watch, Sneakers, Jacket",714.88,09/25/2022 09:12:11
+59,4,Watch,434.09,03/02/2023 05:52:20
+60,8,"Jacket, Jeans, T-shirt",1121.92,02/18/2023 00:54:33
+61,15,"Jeans, Watch",408.54,01/05/2023 08:01:09
+62,14,"Jacket, Sneakers",633.5,02/01/2022 01:07:12
+63,22,"T-shirt, Jacket, Watch, Sneakers",1311.43,02/13/2023 14:17:11
+64,0,"Sneakers, Watch, T-shirt, Jacket",1461.27,01/04/2022 14:37:31
+65,7,"Jeans, Sneakers",664.83,08/23/2022 19:49:27
+66,2,"Watch, Sneakers, Jeans, Jacket",971.98,01/01/2022 04:25:28
+67,16,"Jacket, Sneakers",718.68,04/08/2022 03:50:28
+68,5,Jeans,58.17,01/10/2022 21:00:42
+69,15,"Jacket, Jeans, T-shirt",416.09,10/22/2022 05:45:25
+70,13,"Watch, Sneakers, T-shirt",819.0,03/18/2022 17:17:41
+71,10,"Jeans, Sneakers, Watch",794.65,10/23/2022 16:09:02
+72,21,"Jeans, Sneakers, Jacket, T-shirt",1117.26,09/02/2022 01:43:12
+73,15,"T-shirt, Sneakers, Jeans, Watch",1270.49,12/17/2022 23:55:49
+74,0,"Sneakers, Jacket, Jeans",527.83,03/06/2022 13:55:16
+75,14,"Jacket, Sneakers",454.78,02/19/2023 13:05:12
+76,16,Watch,272.67,02/17/2022 12:54:51
+77,1,"Watch, Jacket, Jeans, T-shirt, Sneakers",1431.03,09/13/2022 11:50:55
+78,13,Jacket,197.67,08/14/2022 16:48:47
+79,17,"Watch, Sneakers, T-shirt, Jacket, Jeans",899.56,04/23/2022 01:28:06
+80,1,Watch,467.37,02/23/2022 13:08:09
+81,11,"T-shirt, Jeans, Sneakers",571.35,03/14/2023 12:41:38
+82,21,"Watch, T-shirt, Sneakers, Jeans",1256.58,10/22/2022 01:52:52
+83,18,"Watch, Jeans, T-shirt, Sneakers",663.35,01/26/2022 07:34:40
+84,14,"T-shirt, Watch, Jeans, Jacket, Sneakers",1283.23,09/28/2022 10:00:20
+85,20,"Sneakers, Jacket, Jeans, Watch, T-shirt",1026.13,05/19/2022 17:45:14
+86,16,"Sneakers, T-shirt, Jeans, Watch",1207.6,02/23/2022 23:00:51
+87,14,"Watch, Jacket, Jeans",869.54,07/03/2022 05:57:37
+88,9,Jeans,246.22,06/16/2022 20:36:01
+89,10,"Watch, Jacket, T-shirt, Sneakers, Jeans",1451.12,10/20/2022 09:14:15
+90,1,"Watch, Sneakers, Jacket, T-shirt, Jeans",1408.63,07/26/2022 03:54:53
+91,3,"Watch, Jeans, Sneakers",967.68,07/23/2022 17:38:53
+92,10,"Jeans, Watch, T-shirt, Sneakers, Jacket",1729.9,06/07/2022 00:14:08
+93,16,"Jeans, Jacket, T-shirt, Sneakers, Watch",1013.76,02/23/2022 21:28:15
+94,9,"Jeans, Watch, T-shirt, Jacket",1474.61,02/08/2022 05:30:01
+95,3,"T-shirt, Jeans, Sneakers, Jacket, Watch",1592.33,07/02/2022 22:44:46
+96,15,"Jeans, Watch, Sneakers, T-shirt",874.44,02/22/2023 10:09:49
+97,9,"Jeans, Sneakers, Jacket",961.43,09/01/2022 17:08:13
+98,14,"Jacket, Sneakers, Jeans, T-shirt",737.72,02/21/2022 16:09:17
+99,16,"Sneakers, Jeans, Watch, Jacket",1122.33,09/19/2022 03:17:57
+100,0,"Jacket, Watch, Jeans, T-shirt",760.44,02/06/2022 11:03:22
+101,19,"Sneakers, Watch, Jeans, T-shirt, Jacket",1181.43,03/08/2022 05:31:15
+102,7,"Jeans, Sneakers",558.05,01/11/2022 20:46:56
+103,16,Jacket,285.97,06/15/2022 04:09:17
+104,7,"Jacket, Watch, T-shirt, Sneakers",795.11,12/06/2022 11:06:46
+105,3,"Watch, Jacket",157.13,01/19/2023 19:27:48
+106,12,"Jacket, Sneakers, Watch, T-shirt, Jeans",1132.44,05/22/2022 03:37:07
+107,19,"Sneakers, Watch, Jeans, Jacket",938.29,05/17/2022 04:55:39
+108,13,"Watch, T-shirt, Sneakers, Jeans, Jacket",1469.27,02/02/2023 19:06:24
+109,7,"Jacket, T-shirt, Watch, Jeans",846.2,02/20/2022 09:47:54
+110,18,"Watch, T-shirt, Jeans, Jacket, Sneakers",1231.1,04/14/2022 22:18:57
+111,22,Jeans,409.62,04/11/2022 17:44:19
+112,6,"Watch, Sneakers, Jacket, T-shirt, Jeans",677.08,12/07/2022 21:13:48
+113,15,"Watch, Jeans",10000,10/27/2022 02:37:12
+114,3,"Watch, Jacket, T-shirt, Sneakers",843.66,02/08/2022 22:26:44
+115,22,"T-shirt, Watch",607.6,01/21/2022 15:17:28
+116,12,Sneakers,377.1,04/07/2022 02:40:26
+117,17,"Jeans, T-shirt",487.59,10/30/2022 07:50:54
+118,2,"T-shirt, Watch, Jacket, Jeans",805.24,04/18/2022 03:45:16
+119,21,"Jacket, Watch, Sneakers, Jeans, T-shirt",782.55,01/15/2023 18:24:28
+120,7,"Jacket, Jeans, Sneakers, T-shirt, Watch",1501.71,01/19/2022 19:42:54
+121,1,"Sneakers, T-shirt, Jeans, Jacket",1072.8,09/15/2022 07:51:13
+122,11,Watch,477.34,09/29/2022 01:32:27
+123,5,"Jacket, Jeans",339.82,08/08/2022 20:58:48
+124,13,T-shirt,89.65,09/10/2022 16:05:20
+125,22,T-shirt,458.82,06/08/2022 15:28:49
+126,10,"T-shirt, Jeans, Watch, Jacket, Sneakers",904.32,12/10/2022 21:24:01
+127,21,T-shirt,300.08,03/11/2023 04:25:08
+128,0,"Jeans, Watch, Sneakers, T-shirt, Jacket",1598.5,11/01/2022 14:40:58
+129,22,"Sneakers, Jeans",881.61,08/07/2022 22:09:36
+130,0,"Jeans, Watch, Jacket, T-shirt, Sneakers",903.95,02/18/2022 07:09:12
+131,4,"Sneakers, Jacket, Watch, T-shirt",1000.9,07/26/2022 02:04:43
+132,22,"T-shirt, Sneakers, Jeans, Jacket, Watch",1917.68,01/20/2023 14:05:26
+133,15,"Watch, T-shirt, Sneakers, Jeans",960.58,02/24/2022 23:16:52
+134,12,"Sneakers, Jeans",409.03,01/2022/01 01:00:00
+135,8,"Jeans, Jacket, Sneakers",704.73,01/07/2022 16:04:25
+136,14,Watch,149.25,12/17/2022 00:56:00
+137,8,Jeans,408.87,01/10/2023 22:42:01
+138,0,"T-shirt, Jacket, Jeans, Watch",852.64,08/23/2022 02:01:14
+139,22,"Jacket, T-shirt, Sneakers",262.73,10/04/2022 07:59:50
+140,16,"Jacket, Jeans, Watch",439.91,12/20/2022 10:32:16
+141,21,"Watch, Sneakers, Jeans, Jacket",556.49,11/11/2022 20:28:02
+142,17,"Jeans, Watch, Sneakers, Jacket",956.01,12/09/2022 09:38:45
+143,0,"Jeans, Jacket",76.85,11/28/2022 06:16:57
+144,15,"T-shirt, Sneakers, Watch",715.06,01/25/2023 07:10:59
+145,0,"Jeans, Jacket, Sneakers, T-shirt, Watch",1324.08,12/26/2022 12:22:48
+146,22,"Watch, T-shirt, Jacket, Sneakers",1046.32,02/12/2022 04:15:48
+147,22,"Sneakers, Jeans",692.45,02/25/2022 09:21:22
+148,21,"Jeans, Watch",663.73,11/12/2022 01:33:28
+149,18,Watch,208.61,02/24/2023 06:11:39
+150,18,"Jacket, Jeans, T-shirt, Watch",1614.51,07/26/2022 06:12:53
+151,17,"Jeans, Jacket, Sneakers, Watch",1155.57,12/14/2022 14:27:13
+152,18,"Sneakers, Watch, Jeans, T-shirt",1150.67,08/17/2022 02:31:29
+153,9,"Watch, Jeans",355.78,01/18/2023 22:21:47
+154,9,"Sneakers, T-shirt, Jacket, Jeans, Watch",670.3,09/23/2022 10:44:31
+155,4,"Sneakers, Jeans, Watch, T-shirt, Jacket",1315.41,03/30/2022 02:02:17
+156,3,"Watch, Jeans",261.14,03/09/2023 21:29:42
+157,9,"T-shirt, Watch, Sneakers, Jacket, Jeans",1697.99,06/20/2022 19:51:12
+158,6,Watch,157.87,06/29/2022 09:06:08
+159,17,"Jacket, Jeans",218.53,02/01/2022 02:46:13
+160,12,"Sneakers, T-shirt, Jacket",574.65,02/26/2022 15:41:31
+161,9,Jeans,214.48,01/09/2022 11:44:04
+162,14,"T-shirt, Jeans, Watch",925.8,02/23/2023 01:42:49
+163,2,"Watch, T-shirt",449.65,08/27/2022 17:51:22
+164,10,"Sneakers, Jacket",452.28,03/30/2022 21:56:34
+165,20,"Sneakers, Watch",391.89,01/07/2023 05:18:07
+166,16,"Jeans, T-shirt, Jacket, Watch",1484.36,09/15/2022 01:50:20
+167,19,"Sneakers, T-shirt",220.48,06/12/2022 16:56:47
+168,17,"Watch, T-shirt, Jacket, Sneakers",1338.09,08/25/2022 07:45:42
+169,18,T-shirt,491.27,03/21/2022 00:07:13
+170,18,"Watch, Jeans, T-shirt, Jacket, Sneakers",1680.85,06/06/2022 04:07:01
+171,10,"Sneakers, Jeans",441.07,11/02/2022 12:58:32
+172,17,"Sneakers, T-shirt, Jeans, Watch",802.11,07/08/2022 22:59:09
+173,21,T-shirt,176.1,09/25/2022 05:46:46
+174,10,"Sneakers, Jeans, T-shirt, Jacket, Watch",1447.57,01/2022/01 01:00:00
+175,6,"Sneakers, Jacket, Jeans, Watch",719.84,02/28/2022 10:29:53
+176,,"Watch, Jacket, Sneakers",632.85,06/07/2022 20:16:22
+177,13,Jeans,33.26,07/14/2022 17:32:22
+178,0,"Sneakers, T-shirt, Jeans, Jacket",829.43,05/01/2022 10:19:13
+179,17,"Jacket, Sneakers, Watch, Jeans",744.19,07/22/2022 14:33:16
+180,4,,422.2,02/27/2023 21:56:29
+181,3,"Watch, Sneakers",650.37,01/20/2022 14:31:21
+182,0,"Sneakers, Jacket, Jeans, Watch",1215.56,11/18/2022 20:04:36
+183,13,Sneakers,41.12,08/13/2022 01:07:09
+184,20,"Sneakers, Jeans",488.93,02/03/2023 01:08:14
+185,17,"Jeans, Sneakers",256.44,01/2022/01 01:00:00
+186,15,"T-shirt, Sneakers, Jacket",679.09,03/11/2022 14:12:29
+187,22,Sneakers,19.19,10/31/2022 11:37:09
+188,11,"Jeans, Jacket, T-shirt",1322.88,11/13/2022 17:33:29
+189,14,Jeans,493.9,05/13/2022 04:34:17
+190,19,"Jacket, Watch, T-shirt, Sneakers, Jeans",1065.38,12/26/2022 21:52:40
+191,5,,436.94,01/16/2022 16:37:03
+192,15,"Sneakers, T-shirt, Jacket, Watch",970.24,06/11/2022 04:09:30
+193,21,"T-shirt, Watch, Sneakers, Jacket, Jeans",1356.59,01/21/2022 16:33:22
+194,2,"Watch, Jeans, Sneakers, Jacket",793.31,03/02/2022 19:26:35
+195,6,Jeans,107.48,05/27/2022 04:07:47
+196,13,"Jeans, Sneakers, Watch, T-shirt",1048.48,12/25/2022 21:25:53
+197,22,"Jeans, T-shirt, Jacket, Sneakers, Watch",1111.37,12/03/2022 21:44:50
+198,7,"Jacket, Sneakers, Jeans, Watch",775.62,04/02/2022 21:14:45
+199,20,"T-shirt, Jeans, Sneakers",1032.99,12/26/2022 02:44:08
+200,19,Sneakers,198.25,10/07/2022 08:35:42
+201,7,,262.1,06/12/2022 05:47:15
+202,13,"Sneakers, Jeans, T-shirt, Jacket, Watch",772.74,08/01/2022 12:29:15
+203,4,Sneakers,81.87,02/19/2022 19:16:10
+204,12,"Jeans, T-shirt, Watch, Jacket, Sneakers",1395.71,08/08/2022 00:18:24
+205,9,T-shirt,11.43,01/13/2022 04:17:29
+206,19,"Jeans, Watch, Jacket, T-shirt",456.6,01/04/2022 12:11:20
+207,11,Sneakers,311.2,01/2022/01 01:00:00
+208,18,"Sneakers, Watch",539.78,03/23/2022 07:47:07
+209,14,"Watch, Sneakers, T-shirt, Jeans",586.14,01/02/2023 02:13:44
+210,8,"Jacket, Jeans, Sneakers, Watch, T-shirt",725.78,10/18/2022 11:24:37
+211,4,Jeans,76.24,12/21/2022 03:42:38
+212,,"Jacket, Watch, Jeans",365.75,06/20/2022 15:38:30
+213,17,"T-shirt, Watch",937.0,05/02/2022 01:44:53
+214,14,"Jeans, T-shirt, Sneakers",369.76,01/21/2023 00:20:39
+215,7,"Jacket, T-shirt, Sneakers",268.96,03/13/2022 12:05:32
+216,3,Jeans,412.69,10/04/2022 01:01:24
+217,21,,1461.12,02/13/2023 03:08:27
+218,8,"T-shirt, Jeans, Jacket, Watch, Sneakers",1481.59,01/10/2023 10:49:43
+219,10,"Watch, Jacket, Jeans",526.55,11/02/2022 18:50:44
+220,5,"Jacket, T-shirt, Jeans, Watch",1182.5,08/06/2022 12:09:32
+221,0,"T-shirt, Jeans, Watch, Sneakers, Jacket",764.41,08/19/2022 23:23:41
+222,5,Jacket,476.75,05/08/2022 17:19:58
+223,17,"Watch, Jacket, Sneakers, Jeans",843.68,12/25/2022 15:27:19
+224,19,"Jeans, Sneakers, Jacket",511.97,01/19/2022 15:41:08
+225,4,"T-shirt, Jeans",447.6,01/10/2023 23:34:19
+226,16,"T-shirt, Watch, Jeans, Sneakers, Jacket",1391.65,07/23/2022 23:56:06
+227,21,"Jeans, T-shirt",667.53,02/02/2022 00:08:26
+228,0,"Jeans, T-shirt, Watch, Jacket, Sneakers",1339.38,02/17/2022 05:28:22
+229,21,Watch,247.45,06/15/2022 17:19:19
+230,6,Watch,61.81,10/30/2022 05:01:06
+231,17,"T-shirt, Watch, Jacket, Sneakers",1310.34,10/07/2022 05:37:23
+232,14,T-shirt,450.83,12/10/2022 11:32:55
+233,11,"Watch, Jeans",325.49,02/20/2023 07:19:36
+234,19,Jeans,371.17,01/03/2022 12:24:34
+235,4,"Sneakers, Jeans, Watch",340.79,06/25/2022 06:54:21
+236,13,"T-shirt, Watch, Jacket",565.21,09/06/2022 22:34:22
+237,11,Jacket,197.84,06/18/2022 10:22:46
+238,21,"T-shirt, Jacket",292.21,08/02/2022 04:24:39
+239,7,Jacket,449.7,01/20/2022 09:41:40
+240,13,T-shirt,231.36,10/30/2022 17:40:01
+241,7,"T-shirt, Watch, Jacket, Jeans, Sneakers",1232.92,02/06/2022 18:20:21
+242,10,"Jacket, Jeans, Sneakers, Watch, T-shirt",1244.16,04/08/2022 17:50:30
+243,11,"Sneakers, Jeans, Watch, T-shirt, Jacket",629.61,12/13/2022 23:22:38
+244,11,"T-shirt, Sneakers, Watch, Jacket",808.35,09/08/2022 16:01:09
+245,4,"Watch, Sneakers, Jacket, Jeans",1312.51,06/10/2022 03:12:52
+246,11,"Watch, T-shirt, Sneakers, Jacket, Jeans",1671.93,02/13/2023 18:09:00
+247,4,"Sneakers, T-shirt, Jacket",849.4,10/21/2022 16:49:13
+248,18,Sneakers,86.73,01/29/2022 23:18:44
+249,21,Sneakers,264.0,03/07/2023 06:12:04
+250,1,"T-shirt, Watch, Jeans",754.16,06/07/2022 01:48:14
+251,4,"T-shirt, Jacket, Sneakers, Watch, Jeans",877.69,05/07/2022 11:33:35
+252,20,"Watch, Jeans, Sneakers",1136.36,08/19/2022 09:40:02
+253,20,"Sneakers, T-shirt, Jeans, Watch",679.66,08/08/2022 20:43:04
+254,21,"Jacket, Watch",102.44,01/10/2023 17:19:57
+255,12,"Jacket, Watch, Jeans, Sneakers, T-shirt",1365.91,05/23/2022 13:25:51
+256,6,"Jeans, T-shirt, Watch",1378.89,12/13/2022 01:20:18
+257,14,"Jeans, T-shirt, Watch",644.52,03/11/2023 20:54:03
+258,17,Watch,46.79,10/02/2022 13:17:30
+259,3,"Jeans, Watch, Sneakers, T-shirt",922.77,08/01/2022 23:11:00
+260,21,"T-shirt, Jacket",526.78,03/11/2023 20:39:52
+261,0,"Sneakers, T-shirt, Jacket, Jeans",806.21,03/16/2023 12:40:44
+262,5,"T-shirt, Watch, Sneakers, Jacket",574.93,02/17/2022 01:15:45
+263,3,T-shirt,461.41,03/12/2023 10:30:08
+264,7,"Watch, Sneakers",442.69,03/16/2023 06:12:07
+265,1,"T-shirt, Sneakers",545.88,08/14/2022 10:21:22
+266,18,"Jeans, T-shirt",328.67,08/20/2022 02:54:18
+267,5,"Jacket, Jeans, T-shirt, Sneakers, Watch",584.45,02/22/2022 22:38:07
+268,13,"Watch, Sneakers",616.02,12/06/2022 19:22:39
+269,5,"Jacket, Jeans, Watch, T-shirt, Sneakers",1258.53,03/05/2023 15:38:10
+270,0,"Watch, Jeans",566.55,07/19/2022 08:20:36
+271,8,"Sneakers, T-shirt, Jacket",450.85,11/23/2022 01:56:26
+272,0,"Sneakers, Jeans",746.24,05/23/2022 18:50:19
+273,10,Watch,324.3,03/15/2022 12:54:44
+274,11,"Jacket, Watch, Sneakers, T-shirt, Jeans",787.03,04/28/2022 08:03:52
+275,10,"Sneakers, Jacket, T-shirt, Watch",714.25,07/22/2022 12:12:30
+276,8,"Jacket, Sneakers",439.37,12/29/2022 23:11:19
+277,21,"Jacket, T-shirt, Sneakers",640.76,01/05/2022 18:55:28
+924,9,Jacket,101.47,02/04/2023 19:15:15
+279,4,"Jeans, Jacket, T-shirt",368.17,01/03/2022 11:05:47
+280,3,"Jeans, Watch, Sneakers, Jacket, T-shirt",1880.05,10/25/2022 23:09:25
+281,20,"Jeans, T-shirt, Watch, Sneakers",1203.03,03/31/2022 18:14:35
+282,15,"T-shirt, Sneakers, Watch",728.13,01/02/2022 22:39:46
+283,17,T-shirt,264.93,05/11/2022 08:07:55
+284,13,Jacket,113.49,04/28/2022 06:32:57
+285,10,Jeans,239.19,07/31/2022 12:51:36
+286,4,"T-shirt, Watch, Jeans",976.95,09/21/2022 22:21:52
+287,16,"Jacket, Jeans",53.55,03/03/2022 01:44:08
+288,21,"Jacket, Watch, T-shirt, Sneakers, Jeans",766.32,02/18/2022 12:07:08
+289,16,"Watch, T-shirt, Sneakers, Jacket",1284.1,04/26/2022 22:55:23
+290,15,"T-shirt, Watch, Jacket",660.36,05/02/2022 17:40:20
+291,16,"T-shirt, Sneakers, Jacket, Watch",1329.36,02/24/2023 21:07:05
+292,,Watch,165.44,12/11/2022 05:35:44
+293,13,"Sneakers, T-shirt, Jacket, Jeans, Watch",10000,01/2022/01 01:00:00
+294,1,T-shirt,347.75,01/27/2023 07:50:43
+295,14,Watch,274.21,07/16/2022 19:02:55
+296,19,"Jacket, Sneakers, Jeans, T-shirt, Watch",1313.27,10/09/2022 23:51:10
+297,12,"Watch, Jacket, T-shirt, Jeans",780.24,11/20/2022 10:02:05
+298,6,"Watch, Jacket",278.15,04/23/2022 05:43:13
+299,17,"Jacket, Watch, Jeans, T-shirt",489.9,01/14/2023 06:57:39
+300,18,"Jeans, Jacket, Watch, Sneakers",982.87,03/29/2022 04:38:41
+301,14,"Sneakers, Jacket, T-shirt",359.11,11/29/2022 21:32:47
+302,22,"T-shirt, Watch",535.07,02/27/2022 01:56:26
+303,3,"Jacket, Watch, Jeans",831.41,05/01/2022 03:14:58
+304,1,"Watch, Sneakers, T-shirt, Jacket, Jeans",1957.47,04/23/2022 11:39:51
+305,16,"Sneakers, T-shirt, Jacket",1058.75,11/20/2022 09:29:33
+306,4,"Jacket, T-shirt, Sneakers, Jeans",1248.59,02/18/2023 01:17:00
+307,6,"Jeans, Watch, T-shirt, Jacket, Sneakers",1355.45,12/20/2022 05:09:02
+308,7,T-shirt,228.71,02/27/2022 19:01:46
+309,8,Watch,410.75,10/29/2022 07:19:10
+310,6,T-shirt,20.12,05/18/2022 09:39:52
+311,3,,108.14,08/06/2022 04:50:24
+312,15,Jacket,445.16,06/09/2022 15:52:05
+313,16,"Watch, T-shirt",336.96,07/28/2022 16:19:24
+314,21,"T-shirt, Sneakers",645.04,08/31/2022 12:16:36
+315,18,"Jacket, Watch, Sneakers",1104.56,01/11/2022 00:30:35
+316,1,"Sneakers, Jacket, Jeans, Watch, T-shirt",1109.76,09/18/2022 04:10:01
+317,0,"Jeans, Watch, Sneakers, Jacket",1106.4,02/03/2023 04:30:09
+318,11,"Watch, Jacket",352.82,05/09/2022 05:44:44
+319,16,"Jeans, T-shirt, Sneakers",979.86,04/18/2022 00:54:02
+320,16,"Jacket, Watch, Sneakers",748.24,03/06/2023 05:08:17
+321,12,"Jacket, Jeans, Sneakers, T-shirt, Watch",1716.65,03/10/2023 02:34:13
+322,14,Jacket,241.6,03/16/2023 18:08:01
+323,6,"Sneakers, T-shirt, Watch, Jacket",1030.76,03/05/2022 11:45:01
+324,19,Jeans,238.67,10/07/2022 16:30:44
+325,5,"Watch, Sneakers",786.33,11/25/2022 10:51:01
+326,4,"Jeans, T-shirt, Sneakers",462.33,02/16/2023 16:00:37
+327,5,"Jacket, Sneakers, T-shirt, Jeans, Watch",1730.9,06/15/2022 14:38:00
+328,6,"Jacket, Jeans",283.33,01/21/2023 01:46:32
+329,10,"Watch, T-shirt, Sneakers, Jacket, Jeans",1221.6,11/19/2022 16:59:50
+330,20,"Jacket, Watch, Sneakers, T-shirt, Jeans",1024.49,03/10/2023 18:17:42
+331,4,"Jeans, T-shirt",332.84,06/28/2022 08:59:12
+332,17,"T-shirt, Sneakers, Jeans, Jacket",1143.59,01/03/2023 03:39:18
+333,15,"T-shirt, Jeans, Jacket",566.59,02/02/2022 08:49:24
+334,5,"T-shirt, Jacket",683.15,04/02/2022 22:24:27
+335,8,"Sneakers, Jeans, Jacket, Watch",796.23,02/28/2023 11:02:37
+336,7,"T-shirt, Jacket, Jeans, Sneakers",308.24,01/21/2023 05:56:10
+337,15,"Jacket, Sneakers",186.38,08/13/2022 06:46:37
+338,19,"T-shirt, Sneakers",561.3,08/27/2022 10:09:36
+339,21,"T-shirt, Jacket, Watch, Sneakers, Jeans",1464.29,12/12/2022 19:24:04
+340,3,"Jacket, Sneakers, T-shirt, Jeans, Watch",1304.97,03/14/2023 21:29:21
+341,0,"T-shirt, Sneakers",72.3,01/30/2022 09:20:20
+342,12,"T-shirt, Sneakers",481.14,11/07/2022 11:53:12
+343,10,Sneakers,272.88,03/04/2023 14:59:12
+344,19,"T-shirt, Jacket, Watch",993.24,09/09/2022 19:10:12
+345,6,"Jacket, Sneakers",704.21,01/10/2022 16:30:18
+346,20,Watch,192.4,11/04/2022 13:40:42
+347,17,"Sneakers, Jacket",247.51,11/06/2022 05:45:35
+348,10,,652.27,02/06/2023 13:08:28
+349,21,"Jacket, T-shirt",10000,03/04/2022 02:46:02
+350,11,Jeans,476.21,03/06/2022 16:44:08
+351,14,"T-shirt, Jacket",321.4,05/30/2022 20:29:24
+352,14,Sneakers,457.05,08/06/2022 06:23:18
+353,3,"T-shirt, Sneakers, Jeans, Watch, Jacket",1365.07,11/20/2022 06:11:25
+354,13,"Sneakers, T-shirt, Watch",573.39,09/23/2022 23:17:00
+355,1,"Sneakers, T-shirt, Jeans, Watch",1706.98,12/05/2022 13:22:41
+356,2,"T-shirt, Watch, Jacket, Sneakers",819.31,03/20/2022 09:08:38
+357,4,Jacket,322.94,07/27/2022 09:14:00
+358,6,"Jacket, Jeans, Watch, Sneakers",1269.38,02/02/2023 01:15:59
+359,18,"Jeans, Watch, Jacket, T-shirt",1110.62,04/28/2022 18:38:25
+360,13,"Jacket, Jeans, Sneakers, T-shirt",1094.01,08/05/2022 23:44:59
+361,2,"Jeans, Watch, T-shirt, Sneakers, Jacket",1131.11,03/24/2022 21:48:15
+362,13,"T-shirt, Sneakers",837.12,10/26/2022 10:17:53
+363,3,"Jeans, Jacket, T-shirt, Sneakers, Watch",1393.35,08/22/2022 09:06:01
+364,18,"Sneakers, Jacket, T-shirt",533.17,04/08/2022 10:06:41
+365,17,"Sneakers, Jeans, Watch, Jacket",546.78,02/11/2022 19:16:11
+366,22,"Jeans, T-shirt, Jacket",1060.0,01/10/2022 13:45:01
+367,10,"Watch, Jeans, Jacket, T-shirt, Sneakers",764.6,01/20/2023 06:03:46
+368,6,"Jeans, T-shirt, Sneakers",619.92,11/24/2022 06:16:05
+369,10,"Sneakers, Jacket",347.29,02/26/2022 17:25:24
+370,2,"T-shirt, Jeans",537.78,12/02/2022 23:58:15
+371,22,"Sneakers, Watch, Jeans",494.31,02/14/2022 21:57:07
+372,1,Watch,465.48,10/01/2022 02:18:58
+373,22,"Sneakers, Jeans, T-shirt",1271.23,08/18/2022 03:18:14
+374,4,"Sneakers, Jeans, Jacket, Watch",704.8,02/22/2023 21:05:12
+375,20,"Watch, T-shirt, Sneakers",741.22,12/27/2022 12:05:36
+376,11,"Jacket, Watch",576.76,06/19/2022 05:51:52
+377,15,"Sneakers, Watch",819.93,01/29/2023 07:01:12
+378,16,"T-shirt, Watch",250.77,06/17/2022 11:04:06
+379,14,"Jacket, Jeans, T-shirt",793.0,12/10/2022 20:50:08
+380,17,"Jacket, T-shirt, Jeans, Watch",1144.99,01/28/2022 12:58:57
+381,11,"Jeans, T-shirt",378.8,02/18/2023 12:02:31
+382,5,Jeans,480.82,02/08/2023 07:41:40
+383,2,"Jeans, Sneakers, Watch, T-shirt",1077.02,10/15/2022 19:00:41
+384,0,Jacket,487.95,12/23/2022 19:04:52
+385,17,"Watch, T-shirt, Sneakers, Jacket, Jeans",1771.54,06/26/2022 23:37:54
+386,14,"Sneakers, Jacket, Watch",960.83,02/20/2022 01:34:53
+387,4,"Jeans, Jacket, Watch, Sneakers, T-shirt",10000,03/11/2022 02:24:39
+388,0,"Sneakers, Jeans, Watch",704.5,06/29/2022 00:25:36
+389,0,"Jeans, T-shirt",443.24,10/18/2022 01:18:12
+390,16,"T-shirt, Sneakers",227.26,11/09/2022 15:17:48
+391,0,"Sneakers, T-shirt, Jeans, Jacket",1037.5,04/06/2022 08:34:48
+392,12,"T-shirt, Watch, Jeans",587.43,04/07/2022 08:48:57
+393,15,Sneakers,496.07,10/29/2022 21:26:08
+394,21,"Jacket, Jeans",614.09,03/26/2022 16:42:02
+395,20,"Sneakers, Watch",609.84,09/25/2022 04:33:11
+396,9,"Sneakers, Jeans",366.99,08/19/2022 19:08:35
+397,11,Jacket,94.02,03/18/2022 16:50:16
+398,15,T-shirt,24.09,04/15/2022 09:35:31
+399,,"Jacket, Jeans, Sneakers, T-shirt",1074.58,03/26/2022 20:39:50
+400,19,"Jeans, T-shirt, Jacket, Sneakers, Watch",1045.45,10/16/2022 07:46:24
+783,19,"Jacket, Jeans",135.91,01/16/2023 16:06:07
+402,17,"Jacket, T-shirt",373.66,01/2022/01 01:00:00
+403,13,"Jacket, Jeans, Sneakers, T-shirt, Watch",744.94,02/12/2023 20:38:54
+404,1,"T-shirt, Jeans, Watch, Sneakers, Jacket",1849.28,01/2022/01 01:00:00
+405,1,"Jeans, T-shirt, Watch, Sneakers, Jacket",1301.35,12/06/2022 20:00:17
+406,8,"Jeans, Jacket, Sneakers, Watch",1002.51,05/16/2022 07:51:47
+407,17,"Sneakers, T-shirt",381.05,01/2022/01 01:00:00
+408,7,"Jeans, Jacket, Watch",929.28,07/10/2022 04:10:18
+409,21,Watch,398.53,06/28/2022 12:51:33
+410,8,"T-shirt, Watch, Sneakers",851.08,02/06/2023 18:05:00
+411,9,"Jeans, Sneakers, T-shirt, Watch, Jacket",1264.15,12/14/2022 03:32:06
+412,17,"T-shirt, Jacket, Sneakers",986.83,08/12/2022 02:22:52
+413,20,"Jacket, Watch, Jeans, Sneakers, T-shirt",803.08,05/17/2022 13:08:11
+414,4,"Watch, Jeans, Sneakers, T-shirt",771.95,02/18/2023 18:29:13
+415,16,"T-shirt, Sneakers",595.48,02/20/2023 08:59:48
+416,22,Watch,13.42,03/07/2023 19:46:26
+417,,"T-shirt, Jacket, Jeans, Watch",918.75,08/12/2022 04:25:33
+418,0,"Jeans, Sneakers, Jacket, T-shirt, Watch",1050.58,03/21/2022 14:53:17
+419,4,"Sneakers, Watch",710.36,06/06/2022 18:25:57
+420,8,"Jeans, Watch, Sneakers, Jacket",1427.0,01/31/2023 21:10:57
+421,8,"Jeans, Watch",562.49,07/04/2022 13:02:36
+422,22,Jacket,341.69,02/15/2023 18:40:42
+423,20,"Jeans, Jacket, T-shirt",863.8,01/18/2023 17:49:50
+424,11,"Jacket, Jeans",462.9,05/31/2022 09:34:28
+425,17,"Sneakers, Jeans",222.99,04/17/2022 12:01:01
+426,10,Jacket,68.2,10/14/2022 21:45:44
+427,13,"T-shirt, Jeans, Sneakers",673.87,01/28/2022 00:45:44
+428,16,Sneakers,33.45,02/24/2023 02:11:08
+429,8,"Jeans, T-shirt",630.35,07/13/2022 11:02:48
+430,14,,395.79,06/26/2022 08:22:23
+431,9,Watch,442.95,08/09/2022 13:26:54
+432,4,"Jacket, T-shirt, Sneakers, Watch, Jeans",859.0,01/11/2022 21:42:44
+433,16,"Jacket, Sneakers, Jeans",888.45,04/11/2022 22:47:25
+434,15,"T-shirt, Watch",691.88,01/20/2022 08:55:11
+435,11,"Sneakers, Jeans, Jacket",879.13,05/11/2022 12:59:31
+436,1,"T-shirt, Watch, Jeans, Sneakers, Jacket",828.65,02/22/2022 12:37:47
+437,11,Sneakers,178.27,01/20/2023 12:55:09
+438,12,"Watch, T-shirt",854.5,02/11/2023 02:16:48
+742,1,"Watch, Sneakers, Jacket, T-shirt, Jeans",1429.07,02/01/2022 02:33:32
+440,14,Jeans,244.1,06/12/2022 14:37:07
+441,22,"T-shirt, Jeans",197.88,01/10/2022 04:47:08
+442,11,"Watch, Sneakers, T-shirt, Jeans",960.12,04/27/2022 02:28:57
+443,12,"Watch, Jeans, Jacket, Sneakers, T-shirt",10000,03/25/2022 08:47:10
+444,11,"Sneakers, Jeans",436.12,11/09/2022 05:44:31
+445,16,"Sneakers, Jacket, T-shirt, Jeans, Watch",1494.07,08/27/2022 16:24:24
+446,5,"Jacket, T-shirt, Watch, Sneakers",991.03,04/24/2022 03:57:48
+447,6,"Jacket, T-shirt, Jeans, Sneakers",954.61,01/14/2022 04:13:52
+448,8,"Jeans, Sneakers, Watch",610.31,07/28/2022 10:08:30
+449,19,"Jeans, Sneakers, Watch",777.07,06/20/2022 01:38:01
+450,11,Jacket,214.62,02/11/2023 00:38:11
+451,22,"Watch, Jeans, Jacket",552.21,03/14/2022 23:41:39
+452,20,"T-shirt, Sneakers, Jeans, Watch, Jacket",1169.55,09/05/2022 18:58:54
+453,12,"Watch, Jacket, T-shirt",631.37,03/19/2022 22:06:06
+454,6,"Watch, Sneakers, Jacket",453.65,09/04/2022 10:49:04
+455,20,"Jacket, Jeans",798.78,01/28/2022 02:55:59
+456,13,"Watch, Jacket, Jeans, Sneakers",1234.68,03/06/2023 07:01:37
+457,11,T-shirt,287.67,01/09/2022 14:12:45
+458,7,"T-shirt, Sneakers",672.77,06/12/2022 01:19:55
+459,,"T-shirt, Watch, Jacket, Sneakers, Jeans",910.05,05/14/2022 05:04:20
+460,10,"Jeans, Sneakers, Watch",742.74,01/20/2023 10:30:39
+461,14,Watch,315.93,08/23/2022 20:46:34
+462,11,Jeans,44.08,02/17/2023 08:39:14
+463,19,T-shirt,195.7,01/29/2023 18:51:21
+464,17,"Jeans, Sneakers, Watch",486.0,02/03/2022 15:39:05
+465,14,"Sneakers, Watch, T-shirt, Jeans",758.31,05/05/2022 23:18:30
+466,12,"Jeans, Watch, Sneakers",492.68,02/06/2023 01:43:58
+467,8,"Jacket, T-shirt, Jeans",503.09,04/07/2022 21:45:54
+468,15,"T-shirt, Jacket, Jeans, Sneakers, Watch",1477.09,07/01/2022 10:54:25
+469,1,"T-shirt, Watch, Jeans, Sneakers, Jacket",1058.16,01/22/2022 03:20:42
+470,22,"Watch, Sneakers, Jeans, T-shirt, Jacket",918.06,11/23/2022 00:15:38
+471,9,"T-shirt, Sneakers",497.88,02/14/2023 01:25:51
+472,16,Jacket,416.18,07/15/2022 15:51:44
+473,5,"Watch, Jacket, Jeans",906.63,01/06/2023 12:45:16
+474,19,"T-shirt, Jacket, Sneakers, Jeans, Watch",1042.27,01/29/2022 07:25:47
+475,13,"Jeans, Watch, T-shirt",774.21,08/22/2022 19:49:46
+476,2,"Watch, Sneakers",734.33,04/12/2022 05:45:32
+477,16,"Watch, Jeans, Jacket, T-shirt",1376.92,03/24/2022 00:06:41
+478,11,"Jacket, Jeans, T-shirt, Watch, Sneakers",1231.57,12/13/2022 03:16:38
+479,16,"Sneakers, Jacket, Watch, T-shirt",821.44,12/16/2022 15:17:41
+480,18,"Watch, T-shirt, Sneakers",657.74,12/02/2022 12:29:45
+481,15,"Sneakers, T-shirt, Jacket, Jeans",718.23,11/04/2022 04:15:16
+482,6,"T-shirt, Jacket, Watch, Jeans, Sneakers",1357.14,11/28/2022 15:00:30
+483,9,Jacket,471.55,04/22/2022 06:43:03
+484,16,Watch,257.97,04/17/2022 07:41:39
+485,6,"Jacket, Jeans, T-shirt",833.52,10/20/2022 20:46:21
+486,3,"Sneakers, T-shirt, Jeans, Watch, Jacket",704.18,11/16/2022 06:25:40
+487,17,"Sneakers, Watch, T-shirt, Jacket, Jeans",1633.89,01/22/2023 01:23:33
+488,0,"Jeans, Jacket",286.08,12/14/2022 11:25:38
+489,19,"Watch, T-shirt, Jacket",604.21,09/08/2022 22:13:53
+490,11,"Jacket, Sneakers, T-shirt, Watch",1041.06,01/24/2022 13:27:55
+491,17,"T-shirt, Jacket, Jeans, Sneakers",1100.37,07/13/2022 07:03:30
+492,2,"Watch, Sneakers, Jeans, T-shirt",1236.77,10/15/2022 22:44:45
+493,13,"Jacket, Watch",443.05,10/18/2022 08:34:57
+494,2,Jacket,74.8,07/05/2022 08:46:56
+495,14,"Sneakers, Jeans",227.12,03/12/2022 12:58:21
+496,7,"Sneakers, Jeans, Watch",1102.94,01/29/2022 18:19:35
+497,0,"Jacket, T-shirt",263.76,01/06/2023 03:17:53
+498,10,Watch,157.8,11/06/2022 03:52:02
+499,20,"Jeans, Jacket, Watch, T-shirt, Sneakers",930.96,04/18/2022 07:37:41
+500,21,"Jacket, Watch, Sneakers",399.55,01/22/2022 17:23:03
+501,21,Jacket,490.37,05/01/2022 15:44:09
+502,9,"Sneakers, Watch, T-shirt",331.51,08/08/2022 01:31:32
+503,12,Jeans,299.47,04/13/2022 23:00:32
+504,4,"Watch, Sneakers, Jeans",428.81,07/08/2022 09:33:55
+505,16,"Jeans, T-shirt, Watch, Jacket",1054.71,03/11/2022 10:46:02
+506,22,"Jeans, Sneakers, T-shirt, Watch, Jacket",1087.26,09/03/2022 22:09:44
+507,9,Jacket,77.22,12/04/2022 18:20:09
+508,2,"Watch, Sneakers, Jacket, T-shirt",1034.9,04/12/2022 06:31:50
+509,14,"Watch, Jeans, Jacket",966.91,01/24/2022 04:05:09
+510,9,"Jacket, Watch, Jeans, T-shirt",1468.45,11/18/2022 02:52:49
+511,13,"T-shirt, Jeans, Watch",991.0,09/18/2022 07:04:24
+512,17,"Jeans, Jacket, Watch",644.86,06/02/2022 22:09:57
+513,18,"Sneakers, Watch, T-shirt, Jacket",926.67,03/24/2022 06:04:30
+514,16,"Watch, Jacket, T-shirt, Sneakers",957.89,01/17/2022 06:57:29
+515,10,"Sneakers, Jacket",630.16,01/02/2022 01:38:58
+516,11,"Watch, T-shirt, Jeans",505.44,01/07/2022 19:50:56
+517,5,Jacket,388.26,05/02/2022 22:42:55
+518,6,"Jacket, Jeans, Sneakers",421.84,11/03/2022 00:21:30
+519,6,"Jacket, T-shirt, Sneakers, Watch, Jeans",1881.51,07/10/2022 00:11:45
+520,2,"Sneakers, Jacket, Watch",512.67,02/01/2022 04:07:53
+521,5,"Jeans, Sneakers, Watch, Jacket, T-shirt",1713.11,07/15/2022 05:34:05
+522,10,"Jeans, Jacket",405.06,01/25/2023 18:08:30
+523,21,"Jeans, Watch, Sneakers",655.23,08/01/2022 01:53:35
+524,12,Watch,331.75,02/19/2022 00:49:21
+525,16,"Sneakers, Watch, Jacket, T-shirt",548.06,05/05/2022 20:07:30
+526,20,"Jeans, T-shirt",802.56,12/05/2022 08:51:49
+527,21,"Watch, T-shirt, Sneakers, Jacket, Jeans",1205.76,09/08/2022 14:04:00
+528,6,"T-shirt, Jacket",452.25,03/18/2022 01:06:12
+529,16,"Watch, Sneakers, Jeans, T-shirt, Jacket",1230.49,01/25/2023 19:44:48
+530,18,"Watch, Jacket, T-shirt, Jeans",690.0,09/30/2022 01:00:47
+531,18,"Watch, Jeans, Sneakers",713.65,01/13/2022 08:54:17
+532,10,"Watch, T-shirt, Jacket, Sneakers, Jeans",1610.28,02/27/2022 21:51:15
+533,17,"Watch, T-shirt, Sneakers, Jeans, Jacket",1611.05,01/16/2022 12:24:15
+534,20,"T-shirt, Watch, Jacket, Jeans",1077.31,01/14/2023 10:31:51
+535,15,"Watch, Jacket, T-shirt",563.56,06/13/2022 17:05:26
+536,20,"Watch, Jeans, Jacket, Sneakers",792.12,03/06/2022 12:32:53
+537,8,"Watch, Sneakers, Jacket, Jeans",1072.93,11/25/2022 15:31:28
+538,16,"Sneakers, Watch, Jeans, Jacket, T-shirt",760.03,04/30/2022 08:09:40
+539,16,T-shirt,52.44,11/17/2022 17:52:08
+540,0,"Jeans, Sneakers, T-shirt, Watch, Jacket",1343.32,12/08/2022 11:28:01
+541,16,"Watch, Sneakers, T-shirt, Jacket, Jeans",1932.02,01/01/2022 00:26:45
+542,18,,1037.6,09/29/2022 00:43:16
+543,21,"Jacket, Sneakers, Jeans, T-shirt",1383.24,02/04/2022 01:52:26
+544,15,"Jeans, Sneakers, Watch, T-shirt, Jacket",1595.55,01/2022/01 01:00:00
+545,14,"Sneakers, Watch, Jacket",690.15,03/26/2022 00:50:40
+546,19,"T-shirt, Jeans, Jacket",1005.22,05/01/2022 14:43:35
+547,19,"Jacket, Sneakers, T-shirt, Jeans, Watch",1271.6,02/15/2023 04:55:32
+548,7,Jacket,13.91,10/31/2022 00:05:53
+549,6,"Sneakers, Watch, Jeans",658.34,01/23/2022 20:17:49
+550,19,"Watch, Jeans, Sneakers, Jacket, T-shirt",935.21,07/26/2022 07:56:47
+551,22,"Jeans, T-shirt, Sneakers, Jacket, Watch",1439.32,01/29/2022 18:51:17
+552,15,"Watch, Jacket",353.16,06/15/2022 14:05:49
+553,22,"T-shirt, Watch, Jeans, Sneakers, Jacket",1081.68,03/21/2022 01:36:00
+554,17,"Watch, Jacket, T-shirt, Jeans",546.34,12/14/2022 17:21:42
+555,1,,1000.32,11/03/2022 08:59:32
+556,8,"Jeans, Jacket",169.03,09/06/2022 13:14:40
+557,11,"Watch, T-shirt, Jeans, Jacket, Sneakers",1450.51,10/26/2022 01:24:59
+558,3,,433.6,09/26/2022 22:45:50
+559,10,"Jeans, Watch, T-shirt",300.14,04/30/2022 17:03:00
+560,18,"Sneakers, Jacket",527.98,12/22/2022 18:21:11
+561,,"Sneakers, Watch, Jeans, Jacket, T-shirt",10000,02/12/2022 09:57:40
+562,13,"Jeans, T-shirt",560.61,11/28/2022 00:21:17
+563,10,"Sneakers, Watch, Jacket",890.79,07/18/2022 18:08:39
+564,4,"Jacket, Watch",10000,11/30/2022 00:36:05
+565,7,"Jacket, Watch, Jeans, Sneakers",565.24,06/26/2022 15:18:07
+566,20,"Watch, Jacket",324.66,08/02/2022 09:49:53
+567,20,"Jacket, T-shirt",325.93,01/05/2022 21:33:40
+568,8,"Jacket, Sneakers, Watch, Jeans",1233.54,02/26/2023 13:40:14
+569,15,Sneakers,295.59,02/02/2023 20:42:37
+570,15,"Watch, Sneakers, Jacket",803.98,09/16/2022 02:39:29
+571,9,"Jacket, Jeans, Sneakers",1032.9,04/27/2022 17:12:27
+572,13,"T-shirt, Jeans, Watch",506.91,04/11/2022 15:29:29
+573,0,"Jeans, Watch",459.77,02/13/2023 14:38:29
+769,5,Jeans,346.77,05/10/2022 21:05:37
+575,3,"T-shirt, Sneakers, Jeans, Jacket",10000,09/13/2022 19:22:55
+576,15,"Sneakers, Watch, Jacket, T-shirt",1000.69,11/06/2022 14:42:39
+577,13,"Watch, T-shirt, Jacket",1005.01,12/26/2022 12:38:58
+578,16,Sneakers,486.46,11/06/2022 03:39:55
+579,13,"Watch, Jacket, Sneakers",884.33,03/01/2023 16:50:42
+580,13,"Jacket, Watch, Jeans, T-shirt, Sneakers",1323.47,04/20/2022 15:27:07
+581,13,"Sneakers, Watch",540.5,03/10/2022 06:46:10
+582,8,"T-shirt, Jacket, Jeans, Watch",1277.67,03/12/2022 18:21:08
+583,11,"Sneakers, Jeans, Jacket, Watch, T-shirt",1226.61,12/03/2022 21:35:01
+584,20,"Sneakers, Watch, Jeans, T-shirt",1507.92,02/16/2022 12:20:06
+585,9,"Jacket, Watch",376.24,11/03/2022 20:09:32
+586,19,"Jeans, T-shirt, Jacket",964.22,03/09/2022 02:41:39
+587,7,"T-shirt, Watch",467.95,06/08/2022 11:27:34
+588,1,"Jeans, Sneakers, Jacket, T-shirt, Watch",1076.33,04/04/2022 18:41:23
+589,21,Jeans,364.15,03/13/2023 11:09:24
+590,18,"Jeans, Sneakers, T-shirt",1125.39,05/04/2022 13:07:33
+591,4,"Sneakers, Jeans, T-shirt",564.35,11/18/2022 00:14:05
+592,1,T-shirt,49.13,07/11/2022 07:03:09
+593,2,"Jeans, Jacket",525.1,02/24/2022 04:50:30
+594,3,"Jeans, Watch, Jacket, Sneakers",736.23,09/02/2022 09:53:40
+595,13,"Watch, Sneakers, T-shirt",1222.07,10/21/2022 01:33:39
+596,,"Sneakers, Jeans, Watch",738.96,02/18/2022 19:44:43
+597,16,"Sneakers, Jeans",10000,01/31/2023 01:06:40
+598,1,"Jacket, T-shirt, Sneakers",816.4,07/02/2022 06:16:33
+599,22,"T-shirt, Jacket, Jeans",1336.37,01/2022/01 01:00:00
+600,19,Jacket,27.03,07/29/2022 13:38:36
+601,13,Watch,227.23,03/12/2022 14:26:46
+602,8,"Watch, Sneakers",814.05,10/19/2022 09:57:29
+603,3,"Watch, Jacket, Jeans, Sneakers",992.23,06/30/2022 15:15:20
+604,8,Watch,278.39,03/14/2023 18:56:15
+605,1,,680.21,08/06/2022 03:46:37
+606,8,"Jacket, Jeans, Sneakers, Watch",962.18,12/24/2022 15:48:54
+607,10,"Jeans, T-shirt, Jacket, Sneakers",811.54,03/19/2022 15:51:55
+608,10,"Sneakers, Watch",819.6,01/14/2022 06:11:51
+609,17,Jacket,312.69,02/25/2023 07:57:11
+610,19,"Watch, Sneakers, T-shirt, Jeans, Jacket",1081.78,06/18/2022 19:39:14
+611,20,"Watch, T-shirt, Jeans, Jacket",1125.27,10/24/2022 09:25:11
+612,1,"Watch, Jeans, Sneakers",661.71,10/28/2022 12:21:00
+613,14,Jeans,359.15,04/10/2022 09:59:53
+614,4,"Jeans, Jacket, Sneakers, Watch, T-shirt",1822.49,02/17/2023 00:51:04
+615,10,"Sneakers, Watch, Jacket, T-shirt",740.74,09/16/2022 08:49:02
+616,20,"Sneakers, T-shirt, Watch, Jacket",1075.06,05/25/2022 04:16:34
+617,14,"Sneakers, T-shirt, Watch, Jeans",736.72,08/20/2022 02:00:15
+618,13,"Watch, Sneakers",689.16,12/10/2022 19:04:04
+619,7,T-shirt,82.59,09/07/2022 15:25:22
+620,20,Watch,15.22,06/18/2022 23:33:07
+621,13,"Jeans, Sneakers",330.86,02/21/2023 16:26:00
+622,14,"Jacket, Sneakers",473.8,10/06/2022 15:26:27
+623,8,"Sneakers, Watch, Jacket, Jeans, T-shirt",1476.48,08/13/2022 18:28:03
+624,14,"Jacket, Jeans, T-shirt",846.61,08/18/2022 09:03:47
+625,0,"Jacket, Watch, Jeans, T-shirt, Sneakers",1397.34,07/20/2022 09:08:46
+626,7,"Sneakers, Watch",224.76,02/11/2022 08:10:42
+627,3,"Jacket, T-shirt, Sneakers, Jeans",944.28,01/28/2022 07:29:18
+628,1,"Watch, Sneakers, Jacket, Jeans, T-shirt",1129.84,10/30/2022 14:03:04
+629,13,Jacket,243.69,03/07/2022 14:13:23
+630,20,Watch,181.93,01/23/2022 12:09:53
+631,8,"Jacket, T-shirt, Jeans, Sneakers, Watch",1530.27,12/29/2022 22:24:52
+632,2,"T-shirt, Jacket, Watch, Sneakers, Jeans",1636.58,10/30/2022 03:53:50
+633,3,Jacket,497.41,05/02/2022 04:43:54
+634,10,"Jeans, Jacket, T-shirt, Watch",1238.53,12/10/2022 00:37:49
+635,19,"Sneakers, Jeans, Watch, Jacket, T-shirt",927.39,07/09/2022 20:38:11
+636,4,"Jeans, T-shirt",948.41,05/17/2022 00:45:05
+637,20,"Jeans, Sneakers, Jacket",107.37,01/03/2022 03:01:19
+638,3,"Sneakers, Jacket, T-shirt, Watch, Jeans",1231.54,07/08/2022 16:08:54
+639,12,Jacket,407.45,04/06/2022 01:52:37
+640,8,"Sneakers, T-shirt, Jeans, Watch, Jacket",1134.78,06/28/2022 14:46:18
+641,11,"T-shirt, Sneakers, Jeans, Jacket, Watch",1540.07,06/29/2022 17:41:48
+642,20,T-shirt,445.45,03/21/2022 22:24:22
+643,7,Jacket,339.86,07/23/2022 12:20:19
+644,22,Sneakers,408.07,05/26/2022 12:21:41
+645,9,"Watch, T-shirt",282.51,07/30/2022 15:13:58
+646,1,"Jeans, Sneakers, Jacket, Watch, T-shirt",1035.53,06/11/2022 02:32:25
+647,20,"Watch, T-shirt, Jeans, Jacket",1066.89,02/24/2023 14:23:47
+648,7,Jeans,140.08,01/08/2022 13:37:02
+649,16,"Jeans, Watch",137.16,05/10/2022 06:40:49
+650,4,"T-shirt, Jacket, Jeans",799.7,10/07/2022 23:01:20
+651,0,"Jeans, Watch, T-shirt",742.78,03/17/2022 01:09:15
+652,1,"Sneakers, Watch, Jacket, T-shirt, Jeans",1074.46,01/22/2023 01:32:07
+653,1,"Jacket, Watch, Sneakers, Jeans",1118.17,05/24/2022 07:09:14
+654,1,Jeans,195.04,05/31/2022 08:38:54
+655,17,"Sneakers, Watch, Jeans, Jacket",592.22,11/10/2022 04:46:53
+656,11,Sneakers,264.62,06/25/2022 22:21:07
+657,13,"Sneakers, T-shirt, Watch",716.23,03/28/2022 22:03:05
+658,14,"Sneakers, Jacket, Jeans",697.99,02/03/2022 12:52:52
+659,7,"Jacket, Watch, Sneakers, Jeans",856.29,10/28/2022 20:46:10
+660,16,"Jacket, Watch, Jeans, T-shirt",778.45,02/03/2022 18:11:31
+661,11,T-shirt,407.76,01/19/2023 07:14:46
+662,11,"T-shirt, Sneakers, Jeans, Watch",529.32,12/01/2022 05:27:27
+663,5,"Sneakers, Jacket, T-shirt, Jeans",1120.24,02/16/2022 06:51:02
+664,1,"Watch, Sneakers, T-shirt",1183.19,11/06/2022 20:54:14
+665,10,"T-shirt, Jacket, Sneakers, Jeans",666.82,09/08/2022 23:54:18
+666,20,"Watch, Sneakers, Jeans",1062.27,02/08/2023 23:39:51
+667,1,"Jacket, Watch, T-shirt, Sneakers, Jeans",1027.28,01/01/2023 21:40:56
+668,5,"Jeans, Jacket, Watch",757.99,05/09/2022 19:51:20
+669,3,"Watch, Sneakers",458.2,05/04/2022 05:40:56
+670,4,"Sneakers, Jacket, Watch, Jeans",1084.68,02/11/2023 01:14:00
+671,13,"Sneakers, T-shirt",448.23,02/14/2023 14:31:58
+672,6,"Watch, Jacket",475.42,06/06/2022 00:50:08
+673,3,"Watch, Sneakers, Jacket",742.26,06/01/2022 05:54:06
+674,12,"Jacket, T-shirt, Jeans, Sneakers, Watch",1158.69,03/22/2022 13:00:19
+675,16,"T-shirt, Jacket, Jeans, Watch",1301.76,02/21/2023 03:53:29
+676,14,"T-shirt, Sneakers",488.08,01/25/2022 09:35:51
+677,15,Jacket,401.61,01/30/2022 10:47:49
+678,20,Jacket,425.19,10/13/2022 19:34:20
+679,2,"Jeans, Sneakers",700.97,03/16/2022 20:45:46
+680,20,"Sneakers, Jacket",387.1,12/13/2022 02:30:32
+681,9,Watch,105.86,01/11/2022 14:30:05
+682,20,T-shirt,305.61,02/13/2022 08:19:15
+683,6,"Sneakers, Watch, T-shirt, Jacket, Jeans",672.49,01/14/2022 05:23:13
+684,19,"Sneakers, Watch, Jacket",959.69,02/15/2022 18:12:57
+685,4,"Jacket, T-shirt, Sneakers, Jeans, Watch",1438.97,05/02/2022 03:03:05
+686,17,Watch,280.36,01/24/2023 02:08:57
+687,13,"Jeans, Sneakers, Jacket, T-shirt, Watch",1432.33,02/28/2023 13:14:25
+688,2,"Jacket, T-shirt, Jeans, Watch, Sneakers",952.84,01/25/2022 11:59:47
+689,9,"Jeans, Jacket, Sneakers, T-shirt, Watch",1017.29,08/08/2022 10:15:10
+690,22,Sneakers,101.25,01/22/2023 04:11:54
+691,5,T-shirt,97.26,10/03/2022 04:52:56
+692,19,Jeans,234.64,11/15/2022 19:45:21
+693,8,T-shirt,267.5,11/05/2022 09:28:21
+694,13,T-shirt,132.43,01/07/2022 13:20:13
+695,8,"T-shirt, Jacket, Watch, Jeans, Sneakers",1449.44,07/31/2022 11:41:29
+696,20,"Sneakers, T-shirt, Jeans, Watch, Jacket",679.88,09/01/2022 16:40:33
+697,9,"Jeans, Watch",719.05,02/24/2022 22:41:27
+698,1,"Jacket, Sneakers, Watch, Jeans",10000,03/20/2022 20:18:15
+699,13,"Jacket, Jeans, T-shirt",1094.49,01/27/2022 06:37:27
+700,17,"Sneakers, Watch",496.36,02/28/2022 23:52:05
+701,16,"Watch, Jacket",909.63,05/21/2022 17:53:59
+702,17,"T-shirt, Sneakers",287.1,02/07/2022 03:22:04
+703,9,"T-shirt, Watch, Sneakers, Jeans",1314.56,05/02/2022 21:58:19
+704,19,Jacket,171.46,06/08/2022 13:25:06
+705,11,"Jeans, Jacket, T-shirt",965.93,07/23/2022 14:51:50
+706,9,"Jeans, Sneakers",583.13,06/25/2022 06:29:53
+707,8,T-shirt,315.53,12/24/2022 11:48:09
+670,14,"Watch, Sneakers, T-shirt",960.54,03/13/2023 06:05:48
+709,17,"Watch, Jeans, T-shirt, Jacket",486.2,11/19/2022 19:20:52
+710,18,"Jeans, Watch",472.19,07/06/2022 18:45:13
+711,18,Watch,161.81,08/01/2022 11:08:41
+712,15,"T-shirt, Watch",788.87,03/27/2022 00:07:23
+713,18,"T-shirt, Jeans",416.1,02/16/2022 11:33:59
+714,1,"Jeans, Sneakers, Jacket",1127.97,07/16/2022 14:46:02
+715,3,Jeans,379.52,12/20/2022 12:45:53
+716,3,"Watch, Jacket, Jeans, Sneakers, T-shirt",1707.49,07/28/2022 13:25:27
+717,10,"T-shirt, Jacket, Jeans, Sneakers, Watch",1333.33,07/26/2022 09:39:04
+718,1,"Sneakers, Jeans",438.03,07/31/2022 06:08:14
+719,13,Jeans,234.61,02/19/2022 17:45:01
+720,13,"T-shirt, Jacket, Watch, Jeans",967.87,03/09/2023 15:16:55
+721,1,"Jeans, Jacket, Sneakers, Watch",911.81,08/12/2022 01:37:46
+722,2,"Jeans, Watch, Sneakers, Jacket",651.78,09/28/2022 21:50:02
+723,21,"Sneakers, Jacket, Jeans, Watch",615.62,08/27/2022 17:41:04
+724,12,T-shirt,328.06,07/09/2022 18:53:02
+725,0,Jacket,144.76,01/31/2023 16:24:16
+726,0,"Jacket, T-shirt, Jeans, Watch, Sneakers",1625.23,11/27/2022 22:45:03
+727,21,Jacket,215.78,11/22/2022 12:06:23
+728,18,Jeans,214.56,11/07/2022 19:28:10
+729,3,"Sneakers, T-shirt, Jeans",558.56,12/22/2022 21:37:39
+730,6,"Watch, T-shirt",275.54,01/31/2023 12:29:10
+731,22,"Jeans, Jacket",168.77,08/28/2022 01:28:36
+732,13,"Watch, Jacket",715.1,03/15/2023 06:01:51
+733,12,"Jacket, Watch, Sneakers, T-shirt, Jeans",1059.97,01/08/2023 07:41:25
+734,7,"Jeans, Sneakers, Watch",819.88,06/25/2022 12:42:33
+735,10,T-shirt,113.61,06/18/2022 22:00:08
+736,14,"Jacket, T-shirt, Sneakers, Watch, Jeans",1409.11,10/09/2022 15:19:36
+737,5,"Sneakers, Jacket, T-shirt",876.01,03/08/2023 14:10:59
+738,13,"Jeans, Jacket, Watch",803.79,01/07/2022 13:41:05
+739,2,T-shirt,233.9,03/14/2022 16:09:52
+740,4,"Sneakers, Watch",858.33,03/26/2022 00:02:45
+741,13,"Jacket, T-shirt, Sneakers",825.1,09/18/2022 09:51:50
+742,19,"T-shirt, Jeans, Sneakers, Jacket",1413.36,07/11/2022 02:56:12
+743,9,"Sneakers, Watch",218.82,01/09/2022 17:23:08
+744,15,"Jacket, T-shirt",378.37,06/27/2022 02:02:45
+745,13,"Jacket, Sneakers, Watch, T-shirt",1244.24,07/17/2022 20:48:28
+746,16,"Jacket, Jeans, T-shirt",839.11,04/25/2022 21:28:46
+747,0,"Watch, T-shirt, Sneakers, Jacket",539.58,05/31/2022 13:47:24
+748,6,"T-shirt, Jeans, Watch, Jacket",932.05,03/15/2023 22:28:57
+749,13,"Sneakers, Watch, Jacket",814.38,01/10/2022 19:23:15
+750,9,"Jacket, Sneakers, Jeans, Watch",983.29,01/09/2023 09:46:47
+751,10,"T-shirt, Sneakers, Jacket, Watch, Jeans",1062.78,01/08/2023 22:02:04
+752,14,"Jeans, Jacket",478.87,01/28/2022 09:11:56
+753,10,"Jacket, Jeans, Sneakers",516.5,06/08/2022 06:23:17
+754,15,"Sneakers, T-shirt",267.98,06/09/2022 21:02:53
+755,15,"Watch, Sneakers, Jacket",887.18,02/17/2022 22:35:56
+756,0,"Jeans, T-shirt",772.13,03/09/2023 00:42:29
+757,18,"Watch, Jeans, Jacket, Sneakers, T-shirt",1099.61,05/03/2022 18:58:17
+758,20,"Watch, Jeans, Sneakers",1186.87,11/02/2022 03:41:41
+759,7,Jeans,261.15,01/13/2022 16:53:45
+760,12,"Jacket, Watch, Sneakers, Jeans, T-shirt",1014.41,01/28/2022 10:27:59
+761,4,"Sneakers, Jeans, Watch",1220.56,10/18/2022 22:01:08
+762,0,"Jacket, Jeans, Watch, Sneakers, T-shirt",1667.16,05/09/2022 23:47:43
+763,15,"Jacket, Jeans, Sneakers",569.9,12/02/2022 14:06:39
+764,15,"Watch, Jacket, Sneakers, T-shirt, Jeans",1003.52,07/27/2022 15:38:02
+765,18,"Jeans, Jacket",667.38,06/18/2022 13:36:14
+766,0,"Jacket, T-shirt, Jeans, Sneakers",944.09,04/17/2022 11:14:14
+767,1,"T-shirt, Jeans, Watch, Sneakers",1276.01,02/20/2022 19:18:48
+768,4,Jacket,106.96,01/03/2023 18:03:08
+769,20,"Jacket, T-shirt",609.52,10/27/2022 15:38:27
+770,7,"Watch, Jeans, Jacket, Sneakers",1524.15,07/02/2022 08:16:41
+771,5,"T-shirt, Jacket, Watch",763.32,02/03/2023 19:56:23
+772,,"Jacket, T-shirt, Jeans, Watch, Sneakers",1655.73,10/19/2022 04:44:04
+773,6,Jacket,167.19,01/2022/01 01:00:00
+774,12,"T-shirt, Sneakers",476.49,01/02/2022 17:01:21
+775,0,"Watch, Jeans, Sneakers, Jacket",681.42,12/10/2022 01:18:45
+776,1,"Jeans, Watch, Jacket, T-shirt",853.12,02/10/2023 20:27:46
+777,21,"Sneakers, Jeans, T-shirt, Watch, Jacket",545.93,04/06/2022 09:17:51
+778,18,"Jacket, Sneakers, T-shirt, Watch, Jeans",1263.63,06/26/2022 02:27:04
+779,3,"Jacket, Watch, Jeans, T-shirt, Sneakers",1289.56,02/08/2022 12:02:42
+780,10,"Sneakers, Jacket, Watch, Jeans, T-shirt",870.22,05/23/2022 01:43:35
+781,9,"Watch, T-shirt",549.53,05/18/2022 07:48:12
+782,11,"T-shirt, Sneakers",167.86,02/24/2022 03:26:55
+783,0,Watch,279.34,11/12/2022 12:33:47
+784,4,T-shirt,303.55,07/14/2022 02:15:09
+785,6,Jacket,191.84,02/05/2022 22:39:24
+786,11,"Jeans, Watch",361.63,09/03/2022 10:15:50
+787,,"Watch, Jeans, Sneakers",849.8,01/17/2022 02:16:36
+788,11,"Jeans, Jacket",608.43,01/26/2022 04:01:49
+789,21,"T-shirt, Jeans, Jacket, Watch",1245.99,03/22/2022 21:18:13
+790,4,"Jacket, Sneakers, Jeans, T-shirt",1263.59,02/11/2023 04:33:01
+791,7,Jeans,480.22,03/29/2022 04:27:58
+792,0,"Jeans, Watch, T-shirt, Sneakers",1201.11,12/07/2022 11:18:15
+793,7,"Jacket, Sneakers",275.51,12/29/2022 13:55:03
+794,20,Jeans,184.62,02/15/2023 08:47:05
+795,14,Watch,221.89,06/29/2022 21:37:11
+796,9,"Jeans, Jacket, T-shirt",626.09,02/11/2022 15:54:35
+797,9,"Sneakers, T-shirt",95.32,05/05/2022 14:08:37
+798,5,Jeans,453.58,09/30/2022 00:46:20
+799,,"Jeans, Sneakers, Jacket, Watch",1073.49,03/14/2022 22:37:39
+800,2,"Sneakers, Jacket, T-shirt, Jeans, Watch",1200.47,07/03/2022 19:42:49
+958,20,"Jacket, Watch",721.69,07/13/2022 08:06:30
+802,13,"Sneakers, T-shirt, Jeans, Watch, Jacket",1549.08,05/16/2022 10:02:37
+803,13,"Watch, Jeans, Jacket, Sneakers, T-shirt",1206.74,05/24/2022 04:01:44
+804,4,Jeans,289.89,04/21/2022 01:21:03
+805,22,"Sneakers, T-shirt, Jeans, Jacket",1153.07,02/26/2023 10:26:42
+806,8,"Watch, Sneakers",587.5,01/2022/01 01:00:00
+807,16,"Jeans, Watch, T-shirt, Sneakers, Jacket",1652.72,06/07/2022 20:59:20
+808,16,Jacket,206.15,10/01/2022 15:54:23
+809,3,Sneakers,140.06,02/10/2022 20:05:39
+810,3,"Jeans, Jacket, T-shirt",732.53,10/25/2022 20:35:35
+811,22,"Jacket, Jeans, Watch, T-shirt, Sneakers",1505.97,09/27/2022 20:13:46
+812,5,"Jacket, Sneakers, Jeans, Watch, T-shirt",1376.39,12/17/2022 17:21:02
+813,18,"T-shirt, Jacket, Sneakers, Jeans",1018.3,05/14/2022 20:54:29
+814,19,"Watch, Sneakers, Jeans, Jacket, T-shirt",1219.46,02/02/2022 15:57:25
+815,7,"Watch, Jacket, Sneakers, T-shirt",10000,04/13/2022 15:58:40
+816,10,"Watch, T-shirt, Sneakers",708.84,01/03/2022 20:07:20
+817,1,Watch,413.54,01/22/2022 19:17:38
+818,11,"T-shirt, Jacket, Jeans, Sneakers",1114.92,04/10/2022 10:44:53
+819,4,"Jacket, T-shirt, Jeans, Watch, Sneakers",1272.13,01/2022/01 01:00:00
+820,13,"Jeans, Sneakers, Jacket, Watch, T-shirt",1143.03,06/17/2022 07:36:43
+821,11,"T-shirt, Jeans",545.51,09/01/2022 04:11:28
+822,10,"T-shirt, Jacket, Jeans",1018.9,01/13/2023 22:15:27
+823,11,"T-shirt, Sneakers, Watch, Jacket, Jeans",1263.74,12/07/2022 00:28:12
+824,20,"T-shirt, Jeans, Watch, Sneakers",1167.33,01/22/2023 21:27:59
+825,20,"Sneakers, Jeans, Jacket, T-shirt",704.41,09/07/2022 08:24:07
+826,3,"Sneakers, T-shirt, Jacket, Watch",904.75,12/24/2022 15:57:06
+827,17,Watch,422.51,12/29/2022 04:32:13
+828,3,"Jacket, Sneakers, T-shirt",755.18,04/30/2022 17:21:49
+829,8,"Sneakers, Watch, Jacket",694.68,07/18/2022 01:25:50
+830,4,"Watch, Sneakers, Jacket",1003.67,07/05/2022 09:14:58
+831,16,"Sneakers, Jeans",500.25,06/28/2022 08:53:45
+832,19,"T-shirt, Jacket, Watch",1119.56,02/01/2023 10:06:12
+833,0,T-shirt,320.93,02/07/2022 11:15:26
+834,1,,225.59,08/12/2022 23:01:19
+835,13,Jacket,346.97,03/11/2023 23:14:17
+836,4,"Jacket, Jeans",468.4,11/24/2022 22:39:13
+837,9,Sneakers,156.08,01/02/2023 08:28:34
+838,2,"Jacket, Sneakers, T-shirt, Watch",643.14,01/30/2022 03:19:11
+839,13,"Sneakers, Watch, Jeans",978.61,01/15/2022 12:26:52
+840,8,"Jeans, Watch",559.52,09/09/2022 09:26:02
+841,11,"T-shirt, Watch",529.16,12/11/2022 02:57:53
+842,12,"Jacket, Watch, T-shirt",1186.51,01/26/2022 18:25:17
+843,5,T-shirt,481.28,09/01/2022 23:17:39
+844,9,"Sneakers, Jacket",381.87,04/18/2022 13:02:55
+845,13,"Watch, Sneakers, T-shirt",898.23,12/21/2022 20:46:38
+846,20,"T-shirt, Watch, Jacket",700.73,09/08/2022 12:16:40
+847,21,"Jeans, Watch, Jacket",1141.33,01/15/2023 13:25:41
+848,16,"Jeans, Jacket, Sneakers, Watch",1157.03,03/06/2022 14:36:47
+849,4,"Sneakers, Jacket, T-shirt, Watch",954.65,11/29/2022 18:06:25
+850,3,"Jeans, T-shirt",477.96,07/29/2022 05:43:43
+851,14,Jacket,433.79,03/09/2023 03:45:12
+852,15,"Jacket, Sneakers, T-shirt",802.34,09/19/2022 10:05:46
+853,4,"Jacket, Jeans, Watch",927.48,09/27/2022 17:36:42
+854,9,"Sneakers, Jacket, T-shirt, Watch",1604.28,02/17/2022 17:48:40
+855,16,"Watch, Sneakers, T-shirt, Jacket, Jeans",1357.42,05/19/2022 11:41:41
+856,21,"Watch, Jacket, Jeans, T-shirt",1036.05,01/19/2022 02:32:28
+857,7,"T-shirt, Watch",794.78,09/09/2022 22:50:30
+858,14,"Jacket, Sneakers, Jeans, Watch, T-shirt",1571.57,10/18/2022 13:08:10
+859,9,"Jeans, Watch, T-shirt, Jacket",1240.03,10/12/2022 14:11:27
+860,11,"Jeans, Jacket, T-shirt, Sneakers",1231.64,01/21/2022 15:21:32
+861,14,"Jacket, Sneakers, Jeans, Watch, T-shirt",1196.11,11/08/2022 03:14:54
+862,21,"Sneakers, T-shirt, Watch, Jeans",891.98,03/02/2022 16:23:53
+863,,Sneakers,286.97,03/10/2023 11:46:03
+864,8,"Watch, Jacket, T-shirt, Jeans, Sneakers",1618.7,11/10/2022 10:06:10
+865,13,Jacket,360.75,10/31/2022 04:40:25
+866,6,"Jeans, Sneakers, T-shirt, Jacket, Watch",1552.27,03/21/2022 20:18:05
+867,17,"Sneakers, T-shirt, Jeans, Watch, Jacket",720.0,07/02/2022 00:21:43
+868,13,"Watch, Sneakers",721.78,09/01/2022 11:06:56
+869,4,"Jeans, Sneakers, Jacket, T-shirt",1074.14,07/29/2022 07:12:07
+870,19,"Jeans, Sneakers, T-shirt",879.5,02/02/2022 18:20:56
+871,13,"Jacket, Watch, Jeans, T-shirt, Sneakers",1400.77,09/07/2022 20:39:04
+872,12,"Jacket, Watch, Sneakers, Jeans",961.79,07/25/2022 03:40:53
+873,1,"Watch, Jeans, Sneakers, Jacket",1052.27,09/16/2022 05:56:27
+874,15,"Watch, Sneakers, Jacket, Jeans, T-shirt",1238.31,05/17/2022 19:25:30
+875,18,"Sneakers, Jeans",448.19,09/21/2022 22:33:47
+876,20,"T-shirt, Jacket, Jeans",1090.85,05/06/2022 16:37:47
+877,22,"T-shirt, Jacket",399.85,03/02/2022 15:30:08
+878,6,"Watch, T-shirt, Sneakers, Jacket",680.63,07/21/2022 16:58:36
+879,0,"Watch, Jacket, Sneakers, Jeans",787.73,10/14/2022 01:47:21
+880,7,"Watch, Jacket, Sneakers, T-shirt, Jeans",1478.92,11/09/2022 17:31:38
+881,17,"T-shirt, Jeans, Sneakers, Jacket, Watch",902.22,04/18/2022 01:20:03
+882,6,"Watch, T-shirt, Jacket",763.27,11/27/2022 23:03:09
+883,1,Watch,460.57,01/06/2023 17:38:45
+884,9,"T-shirt, Watch",637.99,08/22/2022 02:34:37
+885,8,"Sneakers, Jacket",552.1,03/26/2022 01:28:35
+886,17,Jeans,77.8,02/02/2023 08:10:26
+887,4,"Sneakers, Jacket, Jeans, Watch",1126.13,03/07/2022 09:59:07
+888,8,"Jeans, Jacket, Watch",793.95,05/28/2022 20:17:46
+889,20,,443.08,10/22/2022 23:11:57
+890,22,"Jeans, Jacket, T-shirt, Watch, Sneakers",1085.11,01/20/2023 18:57:59
+891,7,Sneakers,97.96,07/08/2022 00:44:10
+892,9,"Jeans, Watch, Sneakers, Jacket",662.74,11/25/2022 12:45:48
+893,15,"Watch, Jacket, Jeans",369.73,12/07/2022 11:58:35
+894,21,"Jacket, T-shirt",810.93,11/16/2022 13:12:05
+895,12,"Watch, T-shirt, Jacket",870.65,05/20/2022 02:14:17
+896,9,"Jacket, Jeans, T-shirt",1179.05,12/27/2022 08:09:58
+897,0,"Jeans, T-shirt",451.39,09/14/2022 13:21:32
+898,4,Sneakers,289.63,04/15/2022 20:17:32
+899,4,"Jacket, Jeans",571.7,03/08/2023 10:08:57
+900,22,"Jeans, Sneakers, T-shirt, Watch",1408.26,04/08/2022 15:45:02
+901,10,Watch,484.82,01/10/2022 20:02:28
+902,20,"Sneakers, Jacket",556.48,10/08/2022 14:15:41
+903,8,Jacket,494.75,10/24/2022 15:03:25
+904,1,"T-shirt, Jacket, Jeans, Watch",1237.65,03/22/2022 13:55:54
+905,14,"Jeans, T-shirt, Watch, Sneakers, Jacket",1496.4,05/07/2022 01:10:32
+906,3,"Watch, T-shirt, Sneakers",687.7,01/24/2023 05:43:22
+907,7,T-shirt,460.97,07/19/2022 22:54:33
+908,8,"Jacket, Watch, Jeans, T-shirt",769.12,01/30/2023 22:03:31
+909,9,"Sneakers, Jacket, T-shirt, Jeans, Watch",1316.52,11/20/2022 23:13:04
+910,1,"Jeans, T-shirt, Jacket, Watch, Sneakers",934.5,05/26/2022 11:11:04
+911,5,"T-shirt, Sneakers, Jeans, Watch, Jacket",1223.87,07/15/2022 00:02:08
+912,1,"T-shirt, Jeans",335.02,02/22/2023 01:46:46
+913,18,"Sneakers, Watch, T-shirt, Jeans",1009.38,03/26/2022 18:36:26
+914,3,"Watch, Sneakers",796.84,02/09/2023 08:22:00
+915,14,Watch,360.19,02/14/2023 04:23:56
+916,2,"Watch, Sneakers, Jeans, Jacket, T-shirt",1589.04,02/08/2022 19:27:40
+917,17,"T-shirt, Jacket, Sneakers, Jeans, Watch",1476.32,05/08/2022 15:40:42
+918,3,"Sneakers, T-shirt, Jeans, Jacket",868.43,10/30/2022 10:03:37
+919,15,"Jeans, Jacket",397.24,03/19/2022 16:36:18
+920,2,Jacket,373.32,09/20/2022 06:39:56
+921,9,"Jacket, T-shirt",743.58,02/24/2023 07:48:25
+922,14,"T-shirt, Sneakers, Jeans, Watch, Jacket",1167.05,03/05/2022 06:11:37
+923,11,"Jeans, Watch, Sneakers",907.72,02/23/2023 17:15:13
+924,15,"Watch, T-shirt, Jacket, Sneakers, Jeans",1746.76,06/09/2022 07:53:46
+925,3,"T-shirt, Jeans, Watch, Sneakers",1021.04,07/07/2022 01:48:57
+926,6,"Jeans, Watch, Sneakers, Jacket, T-shirt",1182.15,03/09/2022 10:26:29
+927,21,"Watch, Jacket, Jeans",366.26,11/09/2022 14:24:56
+928,22,"Jeans, Watch, Jacket",708.42,08/28/2022 12:11:07
+929,9,"Sneakers, T-shirt, Watch",10000,04/09/2022 14:20:37
+930,18,"Sneakers, Jeans, Watch",776.98,10/12/2022 14:03:29
+931,15,"T-shirt, Jeans, Jacket, Sneakers, Watch",1829.17,07/16/2022 20:04:24
+932,0,"Watch, T-shirt, Jacket, Sneakers",701.12,05/03/2022 11:39:51
+933,20,"Watch, T-shirt, Jeans",1142.29,09/03/2022 03:15:43
+934,5,"Jacket, Sneakers",238.17,06/27/2022 19:51:29
+935,9,"Jacket, Watch, Jeans, Sneakers",1148.78,12/25/2022 07:00:44
+936,10,"Jeans, Sneakers, Jacket, T-shirt, Watch",1182.27,04/04/2022 23:18:35
+937,6,"Watch, T-shirt",484.27,08/28/2022 16:32:20
+938,19,"Watch, Jeans, T-shirt",382.16,06/11/2022 08:00:07
+939,16,"Watch, Sneakers",42.68,05/28/2022 01:32:15
+940,1,T-shirt,35.66,03/13/2023 09:20:57
+941,18,"Jeans, Watch, Jacket",760.89,12/30/2022 15:45:23
+942,14,"Jeans, Watch",10000,12/08/2022 15:02:08
+943,18,"Jeans, Watch, Sneakers",535.22,10/12/2022 13:23:34
+944,0,"T-shirt, Sneakers, Jeans, Jacket",1370.74,12/19/2022 17:58:19
+945,21,"Jeans, Sneakers, Watch",1004.1,10/23/2022 07:22:14
+946,19,"Watch, Jeans, Jacket, Sneakers, T-shirt",955.01,01/03/2023 00:05:10
+947,22,Jacket,359.32,12/20/2022 15:25:57
+948,11,T-shirt,441.55,06/09/2022 14:37:19
+949,14,Jacket,99.6,01/11/2023 03:46:16
+950,8,"Jacket, Watch, Jeans",642.55,04/03/2022 22:38:51
+951,12,"Jacket, T-shirt, Watch",989.93,09/11/2022 02:15:40
+952,20,"Sneakers, Jeans, Watch",610.15,02/26/2023 12:06:19
+953,1,Sneakers,260.72,12/28/2022 22:33:05
+954,19,"Jeans, T-shirt",10000,11/06/2022 05:40:58
+955,11,"Jacket, Watch, T-shirt, Jeans, Sneakers",1363.36,09/05/2022 18:50:15
+956,15,"Watch, Jacket",434.94,02/06/2023 00:38:29
+957,16,"Jacket, Jeans",405.21,01/02/2023 19:19:46
+958,4,"Sneakers, Watch, T-shirt, Jacket",754.27,01/28/2023 22:45:02
+959,11,"Jeans, Jacket, Watch",536.56,10/28/2022 16:36:33
+960,15,"Jacket, T-shirt, Watch",953.7,12/22/2022 19:53:56
+961,10,Jacket,109.6,01/22/2023 18:55:44
+962,17,"Sneakers, Jeans, T-shirt",1188.21,12/29/2022 22:23:26
+963,9,"Watch, Jacket, Jeans, Sneakers",1084.24,04/01/2022 13:30:11
+964,5,"T-shirt, Jeans, Sneakers, Watch, Jacket",1053.35,08/20/2022 11:40:17
+965,20,"Sneakers, Jacket, T-shirt",417.86,07/03/2022 17:29:50
+966,20,Watch,99.32,03/07/2022 19:41:09
+967,16,Jacket,235.43,11/21/2022 05:34:12
+968,12,Sneakers,332.96,11/12/2022 10:23:55
+969,19,"T-shirt, Watch, Sneakers",784.5,11/11/2022 17:20:05
+970,9,Watch,362.48,10/03/2022 20:48:55
+971,17,"Jeans, Jacket, T-shirt, Watch, Sneakers",1258.39,02/21/2022 18:54:24
+972,8,"Jacket, Jeans",779.77,08/13/2022 10:47:20
+973,8,Watch,381.7,08/16/2022 08:15:20
+974,17,"T-shirt, Jacket, Sneakers, Watch",1174.98,04/10/2022 16:33:06
+975,20,"Sneakers, Jeans, T-shirt, Jacket",737.64,01/2022/01 01:00:00
+976,19,T-shirt,167.87,10/03/2022 15:47:39
+977,14,Sneakers,84.01,02/27/2023 22:53:06
+978,13,Sneakers,493.4,01/24/2022 18:39:50
+979,22,Jeans,157.35,12/11/2022 00:34:37
+980,4,Jeans,479.54,06/28/2022 01:56:09
+981,19,"T-shirt, Jeans, Jacket",886.78,08/24/2022 05:32:13
+982,6,"Jacket, T-shirt",453.65,03/04/2023 01:15:13
+983,22,Watch,24.02,12/24/2022 10:15:03
+984,3,"T-shirt, Jeans, Watch, Jacket, Sneakers",831.28,05/25/2022 17:06:13
+985,,"Sneakers, Jeans, T-shirt",992.45,04/18/2022 08:57:42
+986,20,"Jacket, Sneakers",420.48,02/04/2023 23:36:45
+987,4,"Jeans, Jacket",468.36,01/01/2022 22:41:04
+988,19,"Jacket, T-shirt, Jeans",473.99,05/17/2022 05:53:52
+989,19,"Jeans, Jacket, Sneakers",537.22,03/12/2023 07:57:45
+990,6,Jeans,285.95,10/06/2022 10:37:54
+991,20,"Sneakers, Jeans",414.06,12/14/2022 10:26:52
+992,11,"Jeans, T-shirt, Jacket, Sneakers",1087.97,10/28/2022 14:48:12
+993,3,Watch,440.21,03/13/2023 11:11:27
+994,21,Watch,148.61,05/05/2022 20:26:39
+995,18,"Jeans, Sneakers, Jacket",950.47,10/05/2022 01:11:00
+996,10,"Watch, Jacket, Sneakers, T-shirt, Jeans",1578.12,08/09/2022 15:49:57
+997,8,"Jacket, Sneakers",352.92,11/25/2022 09:51:26
+998,19,"Jeans, T-shirt, Sneakers, Watch, Jacket",1166.3,01/24/2023 15:34:57
+999,13,Sneakers,15.6,05/26/2022 21:36:11
+1000,13,"Jeans, Jacket, Watch, T-shirt, Sneakers",885.63,12/24/2022 01:39:08
