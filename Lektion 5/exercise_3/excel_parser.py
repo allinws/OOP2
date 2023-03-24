@@ -87,11 +87,6 @@ worksheet.cell(row=1, column=2, value="Sales")
 for cell in worksheet[1]:
     cell.font = openpyxl.styles.Font(bold=True, color='FFFFFF', size=14)
 
-# Skriv in datan för försäljning per region
-for index, (name, sales) in enumerate(sorted(region_sales.items()), start=2):
-    worksheet.cell(row=index, column=1, value=name)
-    worksheet.cell(row=index, column=2, value=sales).number_format = "#,##0"
-
 # Definiera hur stort vårt ark skall vara
 table_range = f"A1:B{len(region_sales) + 1}"
 
@@ -111,7 +106,12 @@ table.tableStyleInfo = style
 # Lägg till tabellen till arket
 worksheet.add_table(table)
 
-# Skapa diagram för regionsförsäljningen
+# Skriv in datan för försäljning per region
+for index, (name, sales) in enumerate(sorted(region_sales.items()), start=2):
+    worksheet.cell(row=index, column=1, value=name)
+    worksheet.cell(row=index, column=2, value=sales).number_format = "#,##0"
+
+""" DIAGRAM """
 
 # Skapa en datareferens till försäljningsdata
 data = Reference(worksheet, min_col=2, min_row=1, max_col=2, max_row=worksheet.max_row)
