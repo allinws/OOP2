@@ -38,7 +38,7 @@ class Schema:
         """
         self.conn.execute(query)
 
-class User:
+class UserModel:
     TABLENAME = "User"
 
     def __init__(self):
@@ -46,8 +46,18 @@ class User:
         self.conn.row_factory = sqlite3.Row
 
     def create(self, name, email):
-        query = f'insert into {self.TABLENAME} ' \
-                f'(name, email) ' \
-                f"values ('{name}','{email}')"
-        result = self.conn.execute(query)
-        return result
+        with self.conn:
+            self.conn.execute(f"INSERT INTO {self.TABLENAME} (name, email) VALUES (?, ?)", (name, email))
+            row = self.conn.execute("SELECT * FROM {} WHERE rowid = last_insert_rowid()".format(self.TABLENAME)).fetchone()
+            return dict(row)
+        
+    def update(self, user_id, name, email):
+        with self.conn:
+            self.conn.execute(f"UPDATE {self.TABLENAME} SET name = ?, email = ? WHERE id = ?", (name, email, user_id))
+            row = self.conn.execute(f"SELECT * FROM {self.TABLENAME} WHERE id = ?", (user_id,)).fetchone()
+            return dict(row) if row else None
+    
+    def delete(self, id):
+        with self.conn:
+            self.conn.execute(f"DELETE FROM {self.TABLENAME} WHERE id = ?", (id,))
+            return f"User with id {id} has been deleted."
