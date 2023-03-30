@@ -37,3 +37,17 @@ class Schema:
         );
         """
         self.conn.execute(query)
+
+class User:
+    TABLENAME = "User"
+
+    def __init__(self):
+        self.conn = sqlite3.connect('todo/todo.db')
+        self.conn.row_factory = sqlite3.Row
+
+    def create(self, name, email):
+        query = f'insert into {self.TABLENAME} ' \
+                f'(name, email) ' \
+                f"values ('{name}','{email}')"
+        result = self.conn.execute(query)
+        return result
