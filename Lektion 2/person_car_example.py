@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine, ForeignKey, Column, String, Integer
+from sqlalchemy import create_engine, ForeignKey, Column, String, Integer, func
 from sqlalchemy.orm import sessionmaker, declarative_base
 
 # Import SQLAlchemy's base class to be inherited from all python classes
@@ -124,9 +124,9 @@ print('\n')
 
 
 # QUERY 2: Get all cars and their owners' full names:
-cars = session.query(Car, Person).join(Person, Car.owner == Person.personal_number).all()
+results = session.query(Car, Person).join(Person, Car.owner == Person.personal_number).all()
 print('\n QUERY 2: ALL CARS AND OWNERS FULL NAMES')
-for car, person in cars:
+for car, person in results:
     print(f'{car} - {person.first_name} {person.last_name}')
 print('\n')
 
@@ -138,7 +138,6 @@ print(cars)
 print('\n')
 
 # QUUERY 4: Get number of cars owned by each person
-from sqlalchemy import func
 car_counts = session.query(Person.first_name, Person.last_name, func.count(Car.id)).join(Car).group_by(Person.personal_number).all()
 print('\n QUERY 4: NUMBER OF CARS OWNED BY EACH PERSON')
 for first_name, last_name, count in car_counts:
@@ -152,6 +151,9 @@ print('\n QUERY 5: PERSON AGE BEFORE UPDATE')
 print(person_to_update.age)
 person_to_update.age = 33
 session.commit()
-print('\n QUERY 5: PERSON AGE UPDATED')
-print(person_to_update.age)
+
+# QERY 6: Get the updated person
+updated_person = session.query(Person).filter_by(personal_number='900806-2020').first()
+print('\n QUERY 6: PERSON AGE AFTER UPDATE')
+print(updated_person.age)
 print('\n')
