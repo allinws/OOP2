@@ -30,6 +30,12 @@ def delete_user(user_id):
     user = user_service.delete(user_id=user_id)
     return user, 204
 
+@app.route('/users/', methods=["GET"])
+def get_all_users():
+    user_service = service.UserService()
+    users = user_service.get_all()
+    return jsonify(users), 200
+
 if __name__ == "__main__":
     models.Schema()
     app.run(debug=True)

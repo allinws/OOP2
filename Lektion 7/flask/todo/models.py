@@ -61,3 +61,8 @@ class UserModel:
         with self.conn:
             self.conn.execute(f"DELETE FROM {self.TABLENAME} WHERE id = ?", (id,))
             return f"User with id {id} has been deleted."
+           
+    def get_all(self):
+        with self.conn:
+            rows = self.conn.execute(f"SELECT * FROM {self.TABLENAME}").fetchall()
+            return [dict(row) for row in rows]

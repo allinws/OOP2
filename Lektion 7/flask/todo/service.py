@@ -13,3 +13,6 @@ class UserService:
     
     def delete(self, user_id):
         return self.model.delete(user_id)
+    
+    def get_all(self):
+        return self.model.get_all()
