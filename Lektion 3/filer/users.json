@@ -1,0 +1,10 @@
+[
+  { "name": "Stan Marsh", "age": 10, "occupation": "Student" },
+  { "name": "Kyle Broflovski", "age": 10, "occupation": "Student" },
+  { "name": "Eric Cartman", "age": 10, "occupation": "Student" },
+  { "name": "Kenny McCormick", "age": 10, "occupation": "Student" },
+  { "name": "Butters Stotch", "age": 10, "occupation": "Student" },
+  { "name": "Randy Marsh", "age": 40, "occupation": "Geologist" },
+  { "name": "Sharon Marsh", "age": 39, "occupation": "Housewife" },
+  { "name": "Chef", "age": 45, "occupation": "School Cafeteria Worker" }
+]
