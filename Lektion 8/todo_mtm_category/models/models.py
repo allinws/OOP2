@@ -34,7 +34,7 @@ class Todo(db.Model):
     created_on = db.Column(db.DateTime, server_default=db.func.now())
     due_date = db.Column(db.DateTime)
     user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
-    categories = db.relationship('Category', secondary=todo_category, backref='todos', lazy='dynamic')
+    categories = db.relationship('Category', secondary=todo_category, backref='todo_categories', lazy='dynamic')
 
 
     def __repr__(self):
@@ -54,7 +54,7 @@ class Todo(db.Model):
 class Category(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(50), nullable=False)
-    todos = db.relationship('Todo', secondary=todo_category, backref='categories', lazy='dynamic')
+    todos = db.relationship('Todo', secondary=todo_category, backref='todo_categories', lazy='dynamic')
 
     def __repr__(self):
         return f'<Category {self.name}>'

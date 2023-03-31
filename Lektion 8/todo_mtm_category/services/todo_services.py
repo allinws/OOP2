@@ -1,20 +1,30 @@
-from models.models import Todo, db
+from models.models import Todo, Category, db
 
 class TodoService:
     
-    def create(self, user_id, title, description, due_date):
+    def create(self, user_id, title, description, due_date, category_ids=None):
         todo = Todo(user_id=user_id, title=title, description=description, due_date=due_date)
+        if category_ids:
+            categories = Category.query.filter(Category.id.in_(category_ids)).all()
+            todo.categories.extend(categories)
         db.session.add(todo)
         db.session.commit()
         return todo
     
-    def update(self, todo_id, title, description, is_completed, due_date):
+    def update(self, todo_id, title=None, description=None, is_completed=None, due_date=None, category_ids=None):
         todo = Todo.query.get(todo_id)
         if todo:
-            todo.title = title
-            todo.description = description
-            todo.due_date = due_date
-            todo.is_completed = is_completed
+            if title:
+                todo.title = title
+            if description:
+                todo.description = description
+            if due_date:
+                todo.due_date = due_date
+            if is_completed is not None:
+                todo.is_completed = is_completed
+            if category_ids:
+                categories = Category.query.filter(Category.id.in_(category_ids)).all()
+                todo.categories = categories
             db.session.commit()
             return todo
         return None

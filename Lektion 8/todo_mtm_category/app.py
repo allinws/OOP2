@@ -1,6 +1,6 @@
 from flask import Flask
 from models.models import db
-from routes import hello, users, todos
+from routes import hello, users, todos, categories
 
 def create_app():
     app = Flask(__name__)
@@ -10,7 +10,8 @@ def create_app():
         db.create_all() # Skapa alla tables (det vi gjorde med Schema förut)
     app.register_blueprint(users.bp)
     app.register_blueprint(hello.bp)
-    app.register_blueprint(todos.bp)    
+    app.register_blueprint(todos.bp)  
+    app.register_blueprint(categories.bp)
     return app
 
 if __name__ == "__main__":

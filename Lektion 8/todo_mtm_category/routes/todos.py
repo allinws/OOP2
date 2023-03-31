@@ -11,9 +11,10 @@ def create_todo():
     description = request.form['description']
     due_date = request.form.get('due_date')
     user_id = request.form.get('user_id')
+    category_id = request.form.get('category_id')
     if due_date:
         due_date = datetime.strptime(due_date, '%Y-%m-%d %H:%M:%S')
-    todo = todo_service.create(title=title, description=description, due_date=due_date, user_id=user_id)
+    todo = todo_service.create(title=title, description=description, due_date=due_date, user_id=user_id, category_id=category_id)
     todo_dict = todo.to_dict()
     return jsonify(todo_dict), 201
 
@@ -24,9 +25,10 @@ def update_todo(todo_id):
     description = request.form.get('description')
     is_completed = request.form.get('is_completed').lower() == 'true'
     due_date = request.form.get('due_date')
+    category_id = request.form.get('category_id')
     if due_date:
         due_date = datetime.strptime(due_date, '%Y-%m-%d %H:%M:%S')
-    todo = todo_service.update(todo_id=todo_id, title=title, description=description, is_completed=is_completed, due_date=due_date)
+    todo = todo_service.update(todo_id=todo_id, title=title, description=description, is_completed=is_completed, due_date=due_date, category_id=category_id)
     todo_dict = todo.to_dict()
     return jsonify(todo_dict), 200
 
