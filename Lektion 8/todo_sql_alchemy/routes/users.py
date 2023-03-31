@@ -11,7 +11,8 @@ def create_user():
     email = request.form['email']
     password = request.form['password']
     user = user_service.create(name=name, email=email, password=password)
-    return user, 201
+    user_dict = user.to_dict()
+    return jsonify(user_dict), 201
 
 @bp.route('/users/<int:user_id>/', methods=["PUT"])
 def update_user(user_id):
@@ -19,19 +20,21 @@ def update_user(user_id):
     name = request.form.get('name')
     email = request.form.get('email')
     user = user_service.update(user_id=user_id, name=name, email=email)
-    return user, 200
+    user_dict = user.to_dict()
+    return jsonify(user_dict), 200
 
 @bp.route('/users/<int:user_id>/', methods=["DELETE"])
 def delete_user(user_id):
     user_service = UserService()
-    user = user_service.delete(user_id=user_id)
-    return user, 204
+    user_service.delete(user_id=user_id)
+    return 'User deleted', 204
 
 @bp.route('/users/', methods=["GET"])
 def get_all_users():
     user_service = UserService()
     users = user_service.get_all()
-    return jsonify(users), 200
+    user_dicts = [user.to_dict() for user in users]
+    return jsonify(user_dicts), 200
 
 @bp.route('/login/', methods=["POST"])
 def login():

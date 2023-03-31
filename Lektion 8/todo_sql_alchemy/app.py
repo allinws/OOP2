@@ -1,11 +1,13 @@
 from flask import Flask
-from models.models import db
+from models.models import db, User, Todo
 from routes import hello, users
 
 def create_app():
     app = Flask(__name__)
-    app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///todo/todo.db'
+    app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///todo.db'
     db.init_app(app)
+    with app.app_context():
+        db.create_all()
     app.register_blueprint(users.bp)
     app.register_blueprint(hello.bp)
     return app
