@@ -32,7 +32,8 @@ class Schema:
         CREATE TABLE IF NOT EXISTS "User" (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         name TEXT NOT NULL,
-        email TEXT,
+        email TEXT NOT NULL,
+        password TEXT NOT NULL,
         created_on Date default CURRENT_DATE
         );
         """
@@ -45,9 +46,9 @@ class UserModel:
         self.conn = sqlite3.connect('todo/todo.db')
         self.conn.row_factory = sqlite3.Row
 
-    def create(self, name, email):
+    def create(self, name, email, password):
         with self.conn:
-            self.conn.execute(f"INSERT INTO {self.TABLENAME} (name, email) VALUES (?, ?)", (name, email))
+            self.conn.execute(f"INSERT INTO {self.TABLENAME} (name, email, password) VALUES (?, ?, ?)", (name, email, password))
             row = self.conn.execute("SELECT * FROM {} WHERE rowid = last_insert_rowid()".format(self.TABLENAME)).fetchone()
             return dict(row)
         
@@ -66,3 +67,8 @@ class UserModel:
         with self.conn:
             rows = self.conn.execute(f"SELECT * FROM {self.TABLENAME}").fetchall()
             return [dict(row) for row in rows]
+        
+    def get_by_email_and_password(self, email, password):
+        with self.conn:
+            row = self.conn.execute(f"SELECT * FROM {self.TABLENAME} WHERE email = ? AND password = ?", (email, password)).fetchone()
+            return dict(row) if row else None
