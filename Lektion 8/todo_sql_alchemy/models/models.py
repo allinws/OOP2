@@ -8,6 +8,7 @@ class User(db.Model):
     email = db.Column(db.String(120), nullable=False) #unique=True,
     password = db.Column(db.String(120), nullable=False)
     created_on = db.Column(db.DateTime, server_default=db.func.now())
+    todos = db.relationship('Todo', backref='user', lazy=True)
 
     def __repr__(self):
         return f'<User {self.name}>'
