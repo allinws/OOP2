@@ -1,4 +1,5 @@
 import requests
+from pprint import pprint
 
 # URL till API-endpointet för att skapa en ny användare
 url = 'https://jsonplaceholder.typicode.com/users'
@@ -13,9 +14,11 @@ data = {
 # Skicka en POST-förfrågan till API:et med den nya datan
 response = requests.post(url, json=data)
 
-# Om förfrågan var framgångsrik (statuskod 201), visa den nya användardatan
+# Om förfrågan var framgångsrik (statuskod 201 Created), 
+# visa den nya användardatan
 if response.status_code == 201:
     new_data = response.json()
-    print('Ny användare:', new_data)
+    print('Ny användare:')
+    pprint(new_data, indent=4)
 else:
     print('Det gick inte att skapa en ny användare.')

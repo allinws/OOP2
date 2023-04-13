@@ -1,5 +1,4 @@
 import requests
-import requests.exceptions
 from pprint import pprint
 
 # URL till API-endpointet för att uppdatera användaren med ID 1
