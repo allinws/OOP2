@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine, ForeignKey, Column, String, Integer, func
+from sqlalchemy import create_engine, Column, String, Integer
 from sqlalchemy.orm import sessionmaker, declarative_base
 
 # Import SQLAlchemy's base class to be inherited from all python classes
@@ -9,7 +9,7 @@ Base = declarative_base()
 engine = create_engine('sqlite:///student.db', echo=True)
 
 class Student(Base):
-    __tablename__ = 'people'
+    __tablename__ = 'students'
 
     personal_number = Column('personal_number', String(11), primary_key=True)
     first_name = Column('first_name', String)
