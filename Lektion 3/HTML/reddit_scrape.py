@@ -12,8 +12,12 @@ for post in soup.find_all("div", class_="Post"):
     comments = post.find("span", class_="FHCV02u6Cp2zYL0fhQPsO").text
     number = int(comments.split()[0])
     obj = {'title': title, 'comments_count': number}
-    posts.append(obj)
+    if number > 0:
+        posts.append(obj)
 
 posts = sorted(posts, key=lambda x: x['comments_count'], reverse=True)
 
-pprint.pprint(posts, indent=4)
+for post in posts:
+    print(f"Reddit post count: {post['comments_count']}")
+    print(f"Title: {post['title']}")
+    print('\n')
