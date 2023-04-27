@@ -39,7 +39,7 @@ class Product(Base):
     name = Column(String)
     price = Column(Integer)
 
-    orders = relationship('Order', secondary='order_items')
+    orders = relationship('Order', secondary='order_items', back_populates='products')
 
 class Order(Base):
     __tablename__ = 'orders'
@@ -47,7 +47,7 @@ class Order(Base):
     id = Column(Integer, primary_key=True)
     customer_id = Column(Integer, ForeignKey('customers.id'))
 
-    products = relationship('Product', secondary='order_items')
+    products = relationship('Product', secondary='order_items',  back_populates='orders')
     customer = relationship('Customer', back_populates='orders')
 
 class Customer(Base):
