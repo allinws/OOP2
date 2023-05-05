@@ -2,8 +2,8 @@ import csv
 
 # Skapa en lista med data som vi vill skriva till filen
 data = [
-    ['John', 'Doe', 'johndoe@example.com'],
-    ['Jane', 'Doe', 'janedoe@example.com'],
+    ['John', 'Åke', 'johndoe@example.com'],
+    ['Pär', 'Doe', 'janedoe@example.com'],
     ['Bob', 'Smith', 'bobsmith@example.com']
 ]
 
