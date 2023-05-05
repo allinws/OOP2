@@ -100,7 +100,7 @@ for index, (name, sales) in enumerate(sorted(region_sales.items()), start=2):
 data = openpyxl.chart.Reference(worksheet, min_col=2, min_row=1, max_col=2, max_row=worksheet.max_row)
 
 # Skapa en kategorireferens till regioner
-categories = openpyxl.chart.Reference(worksheet, min_col=1, min_row=1, max_row=worksheet.max_row)
+categories = openpyxl.chart.Reference(worksheet, min_col=1, min_row=2, max_col=1, max_row=worksheet.max_row)
 
 # Skapa ett stapeldiagram
 chart = openpyxl.chart.BarChart()
