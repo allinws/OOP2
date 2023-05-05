@@ -94,8 +94,10 @@ for index, (name, sales) in enumerate(sorted(region_sales.items()), start=2):
     worksheet.cell(row=index, column=1, value=name)
     worksheet.cell(row=index, column=2, value=sales).number_format = "#,##0"
 
+""" SKAPA DIAGRAM """
+
 # Skapa en datareferens till försäljningsdata
-data = openpyxl.chart.reference.Reference(worksheet, min_col=2, min_row=1, max_col=2, max_row=worksheet.max_row)
+data = openpyxl.chart.Reference(worksheet, min_col=2, min_row=1, max_col=2, max_row=worksheet.max_row)
 
 # Skapa en kategorireferens till regioner
 categories = openpyxl.chart.Reference(worksheet, min_col=1, min_row=1, max_row=worksheet.max_row)

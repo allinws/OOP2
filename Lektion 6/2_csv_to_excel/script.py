@@ -15,7 +15,7 @@ worksheet = workbook.active
 worksheet.title = SALES_SHEET_NAME
 
 # Skapa Sales sheet
-sales_sheet = workbook[SALES_SHEET_NAME]
+sales_sheet = workbook['Sales_sheet']
 
 # Öppna CSV-filen och läs datan
 with open(csv_path) as csv_file:
@@ -24,10 +24,20 @@ with open(csv_path) as csv_file:
 
 # Sätt rubrikerna på första raden
 headers = data[0]
+
 for column_index, header in enumerate(headers):
-    worksheet.cell(row=1, column=column_index+1, value=str(header))
+    worksheet.cell(row=1, column=column_index+1, value=header)
 
 data = sorted(data[1:], key=lambda x: datetime.datetime.strptime(x[0], "%Y-%m-%d"))
+
+# En lambda funktion är en funktion vi skriver på en rad
+# nedan är en funktion som vi är vana vid att se den, dessa
+# fungerar på samma sätt
+
+# def sort_list(x):
+#     datetime_x = datetime.datetime.strptime(x,  "%Y-%m-%d")
+#     # sorterat efter datetime_x
+
 
 # Skriv data till Excel resterande av dokumentet
 for row_index, row_data in enumerate(data[1:], start=2):
