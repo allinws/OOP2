@@ -86,7 +86,7 @@ for x in range(14):
     orders[random_index(len(orders)- 1)]['product_list'] = ''
     orders[random_index(len(orders)- 1)]['total_price'] = 10000
     orders[random_index(len(orders)- 1)]['customer_id'] = ''
-    orders[random_index(len(orders)- 1)]['order_date'] = '01/2022/01 01:00:00'
+    orders[random_index(len(orders)- 1)]['order_date'] = '2022/01/01 01:00:00'
 
 for x in range(6):
     rand_index = random_index(len(orders)- 1)
