@@ -1,4 +1,3 @@
-
 import pandas as pd
 
 df1 = pd.DataFrame({'id': [1, 2, 3], 'value': [10, 20, 30]})

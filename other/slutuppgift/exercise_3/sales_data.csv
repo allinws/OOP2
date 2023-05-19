@@ -1,0 +1,1001 @@
+order_id,customer_address,product_list,total_price,order_date
+1,"123 Main St, New York, NY","Scarf, Wallet, Jeans, Hat, Jacket",1232.1,2022-07-27 12:25:25
+2,"135 Aspen St, Miami, FL","Jacket, Sneakers, Belt",927.26,2022-09-08 05:32:34
+3,"135 Aspen St, Miami, FL","Watch, Sunglasses",872.47,2022-05-29 02:36:21
+4,"321 Elm St, Chicago, IL","Sunglasses, Wallet, Hat, Jacket",1100.03,2022-05-20 04:13:00
+5,"654 Pine St, Boston, MA","Scarf, Sneakers",258.21,2022-03-08 22:10:07
+6,"369 Redwood St, Portland, OR","Watch, Sneakers, Jeans",972.44,2022-01-27 09:56:13
+7,"147 Cherry St, Philadelphia, PA","Wallet, T-shirt, Jacket, Jeans",887.3299999999999,2022-03-11 09:29:52
+8,"321 Elm St, Chicago, IL",Jacket,236.05,2022-11-15 02:54:16
+9,"864 Spruce St, Denver, CO","Jacket, Sunglasses, Scarf, Belt",433.28000000000003,2022-12-24 13:59:06
+10,"246 Birch St, Seattle, WA","Sneakers, T-shirt, Hat, Wallet",973.0,2022-08-15 11:53:09
+11,"321 Walnut St, Houston, TX","Scarf, Hat, Sneakers",330.07,2022-07-02 11:38:16
+12,"798 Willow St, Atlanta, GA",Sunglasses,345.37,2023-02-08 23:04:50
+13,"798 Willow St, Atlanta, GA","Wallet, T-shirt, Jacket",1101.33,2022-02-05 14:49:28
+14,"456 Oak St, San Francisco, CA","Hat, Sneakers",525.54,2022-05-29 00:24:48
+15,"789 Maple St, Los Angeles, CA","Hat, Sunglasses",532.89,2022-06-07 17:39:21
+16,"321 Elm St, Chicago, IL","Sunglasses, Watch, Sneakers, Belt",10000,2022-02-01 06:17:08
+17,"951 Palm St, Phoenix, AZ","Wallet, Belt, Sunglasses",483.34000000000003,2022-11-16 15:36:51
+18,"456 Oak St, San Francisco, CA",Jeans,461.72,2022-10-22 15:29:10
+19,"654 Pine St, Boston, MA","Watch, T-shirt",101.77,2023-01-19 03:59:33
+20,"258 Hickory St, Dallas, TX","Hat, Sunglasses, Watch, Jeans",1606.6599999999999,2022-01-10 18:58:28
+21,"987 Cedar St, Austin, TX","Jeans, Wallet, Jacket, Scarf",655.5,2022-10-18 20:15:58
+22,"798 Willow St, Atlanta, GA","Jeans, T-shirt, Sunglasses, Belt, Watch",1456.75,2022-04-16 03:39:07
+23,"321 Walnut St, Houston, TX","Jeans, Hat, Belt",570.28,2022-12-19 11:18:49
+24,"951 Palm St, Phoenix, AZ","Belt, T-shirt, Sneakers, Watch",1161.47,2022-08-03 05:41:55
+25,"987 Cedar St, Austin, TX","Hat, Jeans",763.75,2022-02-17 05:25:38
+26,"147 Cherry St, Philadelphia, PA",Belt,91.65,2022-06-08 09:04:33
+27,"258 Hickory St, Dallas, TX",T-shirt,384.41,2022-04-06 20:04:42
+28,"864 Spruce St, Denver, CO","Hat, T-shirt, Sneakers, Sunglasses, Jeans",1077.74,2022-12-06 06:25:26
+29,"654 Pine St, Boston, MA","T-shirt, Sneakers, Watch, Jacket, Wallet",197.57999999999998,2022-01-21 23:29:17
+30,"456 Oak St, San Francisco, CA",Sunglasses,467.78,2023-03-05 01:01:18
+31,"369 Redwood St, Portland, OR","Jacket, T-shirt, Watch",80.83000000000001,2023-02-12 21:45:52
+32,"246 Birch St, Seattle, WA","Belt, Watch, Hat, Jacket, Sunglasses",1395.04,2023-02-22 20:15:29
+33,"321 Elm St, Chicago, IL","Scarf, Jeans, T-shirt",788.29,2022-07-28 19:35:45
+34,"147 Cherry St, Philadelphia, PA","Scarf, Jacket",744.34,2022-10-24 06:25:33
+35,"321 Elm St, Chicago, IL",Watch,491.15,2022-07-06 06:34:30
+36,"135 Aspen St, Miami, FL","Jeans, Scarf, Hat, Wallet",1075.35,2022-02-20 12:56:34
+37,"864 Spruce St, Denver, CO","Wallet, Scarf, T-shirt, Jeans",641.6099999999999,2022-05-13 11:31:08
+38,"654 Pine St, Boston, MA",Jeans,365.15,2023-02-01 23:26:03
+39,"456 Oak St, San Francisco, CA","Wallet, Watch, Sneakers, Belt",1072.49,2022-10-15 04:51:35
+40,"987 Cedar St, Austin, TX","Sneakers, Jacket, Sunglasses, Jeans",1136.8799999999999,2023-03-13 00:03:22
+41,"789 Maple St, Los Angeles, CA",,819.1099999999999,2022-01-21 05:12:46
+42,"258 Hickory St, Dallas, TX","Wallet, Scarf, Sneakers, Jacket, Belt",684.1999999999999,2022-11-20 04:20:50
+43,"951 Palm St, Phoenix, AZ","Wallet, Scarf, Sunglasses, Jeans",1031.15,2022-01-04 15:20:54
+44,"258 Hickory St, Dallas, TX","Sunglasses, Jeans, Watch, T-shirt",1123.96,2022-01-24 03:55:19
+45,"147 Cherry St, Philadelphia, PA","Jacket, Sneakers, Scarf, Wallet",1184.71,2022-05-20 00:49:11
+46,"789 Maple St, Los Angeles, CA","T-shirt, Belt, Wallet",435.36,2022-06-10 20:57:25
+47,"369 Redwood St, Portland, OR","Jeans, Scarf, Hat, Sneakers, Watch",1518.05,2022-07-25 04:38:57
+48,"654 Pine St, Boston, MA",Watch,325.0,2022-12-05 12:44:41
+49,"246 Birch St, Seattle, WA","Jeans, Watch, Hat",906.96,2022-01-02 03:24:16
+50,"321 Walnut St, Houston, TX",Watch,69.08,2022-03-17 17:57:07
+51,"456 Oak St, San Francisco, CA","Sunglasses, T-shirt, Belt",720.13,2022-04-10 11:41:41
+52,"246 Birch St, Seattle, WA","Belt, Hat, T-shirt, Scarf, Sneakers",1173.81,2022/01/01 01:00:00
+53,"987 Cedar St, Austin, TX",Sneakers,77.12,2022/01/01 01:00:00
+54,"369 Redwood St, Portland, OR","Belt, Sunglasses, Hat",927.4300000000001,2022-01-27 19:40:04
+55,"321 Walnut St, Houston, TX","Sunglasses, Jeans",450.97999999999996,2022-09-27 03:16:07
+56,"123 Main St, New York, NY",,213.41,2022-08-31 08:15:47
+57,"789 Maple St, Los Angeles, CA","Belt, Watch, Scarf, Hat, Sunglasses",1663.82,2022-06-16 07:29:49
+58,"147 Cherry St, Philadelphia, PA","Wallet, T-shirt, Scarf, Sunglasses, Sneakers",916.3100000000001,2023-01-15 12:51:47
+59,"369 Redwood St, Portland, OR","Scarf, Watch, Jacket, Jeans, Hat",1817.66,2022-07-13 03:44:29
+60,"246 Birch St, Seattle, WA","T-shirt, Jacket, Sneakers, Watch, Sunglasses",1259.5,2022-06-02 07:34:48
+61,"321 Elm St, Chicago, IL","Jeans, Jacket, Sunglasses, T-shirt",1003.0300000000001,2022-09-20 19:34:00
+62,"951 Palm St, Phoenix, AZ","Sneakers, Watch",229.8,2022-06-30 18:34:03
+63,"123 Main St, New York, NY","Jeans, Belt, T-shirt",588.97,2022-08-19 20:51:22
+64,"456 Oak St, San Francisco, CA",T-shirt,260.38,2022-04-07 06:29:16
+65,"135 Aspen St, Miami, FL","Scarf, Sneakers",843.1600000000001,2022-03-26 13:00:35
+66,"987 Cedar St, Austin, TX","Watch, T-shirt, Jacket, Belt, Hat",699.16,2023-01-15 05:17:51
+67,"246 Birch St, Seattle, WA","Scarf, Hat, Jacket, Sneakers, Sunglasses",981.75,2022-08-29 21:15:01
+68,"987 Cedar St, Austin, TX",Jacket,202.3,2023-02-13 20:06:09
+69,"321 Walnut St, Houston, TX",Hat,30.1,2022-08-07 05:36:32
+70,"951 Palm St, Phoenix, AZ","Belt, Sneakers, Watch, Jacket",1009.02,2022-12-21 04:37:33
+71,"369 Redwood St, Portland, OR","Hat, Watch, Wallet",696.45,2022-11-18 00:01:05
+72,"258 Hickory St, Dallas, TX","Wallet, Sunglasses",268.49,2022-05-21 08:40:08
+73,"987 Cedar St, Austin, TX",Jeans,288.36,2023-02-03 17:52:46
+74,"246 Birch St, Seattle, WA",Sneakers,494.02,2023-03-01 03:12:59
+75,"789 Maple St, Los Angeles, CA","Watch, Jeans, Jacket, Belt",882.8199999999999,2022-03-07 13:04:45
+76,"369 Redwood St, Portland, OR","Watch, Sneakers, Sunglasses, Hat",867.1600000000001,2022-04-25 21:07:35
+77,"864 Spruce St, Denver, CO","Jacket, Watch",455.82,2022-12-12 00:23:47
+78,"951 Palm St, Phoenix, AZ",Sneakers,88.2,2022-11-10 05:54:41
+79,"864 Spruce St, Denver, CO","Sneakers, Belt, T-shirt",833.51,2022-03-24 23:16:20
+80,"321 Elm St, Chicago, IL","T-shirt, Scarf, Hat, Wallet, Watch",1376.71,2022-02-15 08:33:54
+81,"798 Willow St, Atlanta, GA",Scarf,396.57,2022-03-26 11:48:00
+82,"864 Spruce St, Denver, CO","Scarf, Watch, T-shirt",1260.79,2022-06-27 08:15:26
+83,"864 Spruce St, Denver, CO","Sunglasses, Belt, Jeans, T-shirt",1313.8400000000001,2022-10-17 03:02:50
+84,"321 Elm St, Chicago, IL","Jacket, Sunglasses",685.5600000000001,2022-10-22 08:06:59
+85,"123 Main St, New York, NY","Belt, Wallet, Jeans, Jacket",758.8000000000001,2022-07-29 20:04:26
+86,"321 Elm St, Chicago, IL","Hat, Sneakers, Scarf",898.84,2022-08-27 19:49:22
+87,"951 Palm St, Phoenix, AZ","Belt, Sneakers, Jeans, Hat",1241.1,2022-09-07 07:00:18
+88,"987 Cedar St, Austin, TX","Hat, T-shirt, Scarf, Jacket",578.76,2022-01-17 15:22:42
+89,"321 Elm St, Chicago, IL","Scarf, T-shirt, Watch, Sunglasses, Jeans",918.9100000000001,2022-11-02 16:52:10
+90,"135 Aspen St, Miami, FL","Belt, Jeans, Jacket",1030.69,2022-01-07 21:39:07
+91,"369 Redwood St, Portland, OR","Hat, T-shirt",264.36,2022-03-31 19:44:28
+92,"798 Willow St, Atlanta, GA","Jacket, Sunglasses",469.45000000000005,2022-12-31 05:41:21
+93,"135 Aspen St, Miami, FL","Jeans, Wallet, Sunglasses",935.71,2022-02-23 21:00:03
+94,"246 Birch St, Seattle, WA","Watch, Sunglasses",653.96,2022-01-27 18:48:27
+95,"246 Birch St, Seattle, WA","Scarf, Jacket, Sneakers",817.19,2023-03-09 05:33:40
+96,"456 Oak St, San Francisco, CA","Belt, Jeans",670.28,2022-05-13 09:35:47
+97,"123 Main St, New York, NY","Watch, Hat, Sunglasses",496.3,2022-01-05 08:15:55
+98,"123 Main St, New York, NY","Sunglasses, Watch",450.29999999999995,2023-03-13 04:02:11
+99,,Sunglasses,354.76,2022-04-09 19:43:46
+100,"987 Cedar St, Austin, TX","Wallet, Jeans, Belt, Sunglasses, T-shirt",1398.0,2022-12-29 23:58:24
+101,"951 Palm St, Phoenix, AZ","T-shirt, Jacket, Scarf, Jeans, Sneakers",1178.6000000000001,2022-11-04 02:59:36
+102,"321 Walnut St, Houston, TX","Sunglasses, Sneakers, Jeans, Scarf, T-shirt",902.09,2022-08-17 20:51:01
+103,"321 Elm St, Chicago, IL","Hat, Jacket, Jeans",555.51,2022-12-19 13:03:30
+104,"456 Oak St, San Francisco, CA",Wallet,242.76,2022-11-05 23:11:22
+105,"369 Redwood St, Portland, OR","Sneakers, Belt",668.71,2022-05-11 07:13:45
+106,"147 Cherry St, Philadelphia, PA","Sneakers, Belt, Jeans",777.11,2022-07-06 22:42:26
+107,"147 Cherry St, Philadelphia, PA",Sunglasses,274.03,2023-02-01 14:36:04
+108,"258 Hickory St, Dallas, TX",,200.67,2022-05-14 22:14:26
+109,"456 Oak St, San Francisco, CA","Sunglasses, Jacket, Sneakers, Scarf, Wallet",1479.77,2022-12-30 05:43:22
+110,"321 Walnut St, Houston, TX","Wallet, Sunglasses, T-shirt, Belt, Watch",1572.78,2022-07-09 09:45:31
+111,"864 Spruce St, Denver, CO",Wallet,146.68,2022-03-11 18:04:06
+112,"123 Main St, New York, NY",Belt,439.84,2022-09-16 23:11:45
+113,"987 Cedar St, Austin, TX","Watch, Sneakers, Jacket, Hat, T-shirt",933.25,2022-04-18 15:09:31
+114,"135 Aspen St, Miami, FL",Jeans,96.24,2022-06-13 15:23:49
+115,"798 Willow St, Atlanta, GA","Hat, T-shirt, Jeans, Scarf",947.97,2022-08-20 00:46:18
+116,"258 Hickory St, Dallas, TX","Jeans, Jacket, Sneakers, Watch",1372.7500000000002,2022-08-08 19:04:14
+117,"987 Cedar St, Austin, TX",,193.37,2022-04-08 14:16:01
+118,"147 Cherry St, Philadelphia, PA",Wallet,295.33,2023-01-14 22:20:48
+119,"951 Palm St, Phoenix, AZ","Sunglasses, Jacket",813.9,2022-05-11 13:04:23
+120,"369 Redwood St, Portland, OR","Jacket, Watch, Belt, Scarf",749.93,2022-05-06 14:47:28
+121,"987 Cedar St, Austin, TX",Scarf,77.84,2022-10-27 12:04:21
+122,"951 Palm St, Phoenix, AZ","Scarf, Wallet, Watch",804.47,2022-12-17 19:37:38
+123,"987 Cedar St, Austin, TX",Sunglasses,182.97,2022-05-29 11:50:40
+124,"147 Cherry St, Philadelphia, PA",Sunglasses,26.82,2022-12-22 19:21:37
+125,"258 Hickory St, Dallas, TX","Scarf, Hat, Jacket",905.6,2022-03-22 12:31:34
+126,"798 Willow St, Atlanta, GA",Sneakers,50.12,2022-03-06 00:10:42
+127,"951 Palm St, Phoenix, AZ","Wallet, Sneakers",539.87,2022-01-31 01:14:30
+128,"456 Oak St, San Francisco, CA","Sneakers, Jacket, T-shirt, Sunglasses, Jeans",1618.65,2022-05-11 09:05:06
+129,"321 Elm St, Chicago, IL","Hat, T-shirt",313.33,2022-10-26 05:33:46
+130,"135 Aspen St, Miami, FL","Sunglasses, Hat, Wallet, T-shirt",647.41,2022-04-05 20:06:12
+131,"123 Main St, New York, NY","Scarf, Jeans",791.56,2022-11-07 07:25:05
+132,"369 Redwood St, Portland, OR","Sneakers, Belt, Watch, T-shirt, Jeans",1336.6599999999999,2023-01-15 21:41:20
+133,"987 Cedar St, Austin, TX","Hat, Jacket",488.40999999999997,2022-10-28 14:08:29
+134,"798 Willow St, Atlanta, GA","Belt, Sneakers, Hat, Jeans, Watch",1486.5,2022-01-13 12:42:26
+135,"123 Main St, New York, NY","Jeans, Jacket, T-shirt, Hat",1062.1399999999999,2022-09-25 06:03:34
+136,"246 Birch St, Seattle, WA",T-shirt,173.07,2022-06-16 10:32:53
+137,"258 Hickory St, Dallas, TX","Sunglasses, Sneakers, Scarf, Wallet",794.52,2022-05-01 00:32:10
+138,"321 Walnut St, Houston, TX","Watch, Sneakers",586.2,2022-05-24 15:42:18
+139,"654 Pine St, Boston, MA","Hat, T-shirt",679.3,2022-01-24 11:43:05
+140,"123 Main St, New York, NY","Scarf, Wallet",197.54,2022-12-03 13:43:33
+141,"321 Walnut St, Houston, TX","Jacket, Watch, Wallet, Sunglasses, Sneakers",1379.38,2023-02-22 01:48:49
+142,"987 Cedar St, Austin, TX","Wallet, Sunglasses, Belt",198.71,2022-06-11 15:54:52
+143,"951 Palm St, Phoenix, AZ","Jacket, Wallet",417.27,2022-10-31 16:06:14
+144,"321 Walnut St, Houston, TX","T-shirt, Belt, Wallet",836.69,2022-03-28 19:14:45
+145,"456 Oak St, San Francisco, CA",Belt,251.26,2023-03-16 04:33:31
+146,"987 Cedar St, Austin, TX","Jeans, Jacket, Hat, Belt",953.25,2022-04-07 01:13:29
+147,"798 Willow St, Atlanta, GA","Scarf, T-shirt, Sunglasses, Hat",938.02,2023-02-01 01:31:47
+148,"258 Hickory St, Dallas, TX",Sunglasses,143.6,2022-07-16 07:47:01
+149,"135 Aspen St, Miami, FL","T-shirt, Belt, Watch, Hat",734.4000000000001,2022-07-13 18:55:57
+150,"135 Aspen St, Miami, FL","Sneakers, Watch, Jacket, Hat",1341.77,2022-06-22 16:23:39
+151,"369 Redwood St, Portland, OR","Belt, Jeans, Sunglasses",909.65,2022-12-21 04:28:04
+152,"147 Cherry St, Philadelphia, PA","Belt, Jeans, Hat, Watch, Wallet",2072.7,2023-02-13 09:36:05
+153,"258 Hickory St, Dallas, TX","Sneakers, Watch, Belt",924.7,2022-06-24 04:33:43
+154,"369 Redwood St, Portland, OR","Jacket, T-shirt, Sunglasses, Wallet",701.14,2023-01-14 02:43:53
+155,"246 Birch St, Seattle, WA",Sunglasses,212.78,2023-01-19 12:06:52
+156,"798 Willow St, Atlanta, GA","Jacket, Scarf",590.52,2023-02-16 22:42:42
+157,"864 Spruce St, Denver, CO","Scarf, Wallet, Watch, T-shirt, Belt",1084.45,2022-11-15 13:41:56
+158,"246 Birch St, Seattle, WA","Jeans, T-shirt, Scarf",533.34,2023-01-27 21:59:35
+159,"123 Main St, New York, NY","Jacket, Belt",648.21,2022-12-17 15:07:44
+160,"321 Walnut St, Houston, TX",Watch,130.75,2023-01-20 18:11:46
+161,"123 Main St, New York, NY","Watch, Jacket",622.4200000000001,2022-03-25 20:23:55
+162,"321 Walnut St, Houston, TX","Hat, Sneakers, Jeans",787.97,2022-06-03 20:18:58
+163,"135 Aspen St, Miami, FL","Watch, Wallet, Hat",759.8199999999999,2022-11-14 15:45:43
+164,"798 Willow St, Atlanta, GA","Wallet, T-shirt, Watch, Hat, Sunglasses",1215.77,2023-02-10 10:49:51
+165,"789 Maple St, Los Angeles, CA","Belt, Sunglasses",394.8,2023-02-25 10:58:12
+166,"951 Palm St, Phoenix, AZ","Hat, Sneakers, Watch, T-shirt, Sunglasses",1308.01,2022-05-13 09:05:07
+167,"798 Willow St, Atlanta, GA",Belt,443.68,2022-04-11 04:17:08
+168,"987 Cedar St, Austin, TX","Watch, Sunglasses, Hat, Belt",899.34,2023-01-01 03:17:00
+169,"789 Maple St, Los Angeles, CA","T-shirt, Belt",272.69,2023-01-17 05:52:39
+170,"456 Oak St, San Francisco, CA","Sneakers, Jeans, Scarf",971.45,2022-10-07 17:17:46
+171,"654 Pine St, Boston, MA",Jacket,249.6,2022-05-29 22:52:34
+172,"654 Pine St, Boston, MA","Hat, Scarf, Jeans, T-shirt",1097.54,2022-12-15 22:53:03
+173,"147 Cherry St, Philadelphia, PA",Sneakers,427.98,2022-01-13 05:01:51
+174,"321 Elm St, Chicago, IL","Wallet, T-shirt, Jeans, Watch",981.76,2022-02-10 00:28:51
+175,,"Jacket, T-shirt, Jeans",1314.66,2022-12-19 18:02:02
+176,"951 Palm St, Phoenix, AZ","Hat, Watch, T-shirt",875.15,2022-12-05 09:56:44
+177,"321 Elm St, Chicago, IL","Jacket, Belt, Wallet, T-shirt, Sneakers",1001.23,2022-05-06 01:46:23
+178,"987 Cedar St, Austin, TX",Wallet,189.09,2022-02-14 15:13:45
+179,"123 Main St, New York, NY",Belt,77.12,2022-01-23 22:12:29
+180,"789 Maple St, Los Angeles, CA","T-shirt, Hat, Watch, Wallet, Belt",543.88,2022-10-02 15:41:09
+181,"798 Willow St, Atlanta, GA","Scarf, Belt, Wallet, Hat",1130.2199999999998,2023-01-18 08:37:38
+182,"147 Cherry St, Philadelphia, PA",Sunglasses,237.21,2023-02-03 17:42:50
+183,"321 Elm St, Chicago, IL",Belt,316.37,2022-11-13 08:56:57
+184,"135 Aspen St, Miami, FL","Wallet, Jacket",108.60000000000001,2022-02-24 20:43:09
+185,"123 Main St, New York, NY","Scarf, Hat, Sunglasses",965.8900000000001,2022-12-25 21:00:52
+186,"798 Willow St, Atlanta, GA","Belt, Scarf, Jeans, Hat",1066.33,2022-07-06 08:54:49
+187,"987 Cedar St, Austin, TX","T-shirt, Hat, Sunglasses",724.17,2022-06-22 16:56:04
+188,"147 Cherry St, Philadelphia, PA",Hat,109.86,2023-01-11 06:31:47
+189,"456 Oak St, San Francisco, CA","Hat, Sunglasses, Jacket, T-shirt",897.0,2023-02-08 12:21:27
+190,"456 Oak St, San Francisco, CA","Sunglasses, Jeans",620.12,2022-06-26 20:31:24
+191,"798 Willow St, Atlanta, GA",Hat,336.76,2022-09-24 04:55:35
+192,"987 Cedar St, Austin, TX","T-shirt, Sneakers, Sunglasses, Hat, Jeans",580.92,2023-01-25 00:30:21
+193,"864 Spruce St, Denver, CO","Watch, Sunglasses",680.08,2022-01-16 15:54:24
+194,"369 Redwood St, Portland, OR","Jeans, Wallet, T-shirt, Hat, Sneakers",771.14,2022-12-19 22:26:59
+195,"864 Spruce St, Denver, CO","Wallet, Sunglasses",332.32,2022-06-11 09:04:06
+196,"456 Oak St, San Francisco, CA","Wallet, Sneakers",762.29,2022-05-18 16:16:46
+197,"987 Cedar St, Austin, TX","Watch, Sneakers, Hat, T-shirt, Wallet",1225.6599999999999,2022-01-12 13:00:00
+198,"123 Main St, New York, NY","Watch, Hat, Jeans, Scarf, Sneakers",1183.56,2022-06-03 03:22:49
+199,"369 Redwood St, Portland, OR","Wallet, T-shirt, Scarf, Jacket, Watch",1442.4399999999998,2022-02-06 10:26:06
+200,"798 Willow St, Atlanta, GA","Wallet, Sunglasses, Belt, Hat",1363.74,2022-08-17 18:51:37
+201,"321 Elm St, Chicago, IL",Wallet,253.46,2022-08-17 08:19:33
+202,"135 Aspen St, Miami, FL","Scarf, Jeans, Sunglasses",911.24,2022-09-29 16:57:12
+203,"246 Birch St, Seattle, WA","Wallet, Jeans, T-shirt, Jacket, Watch",1615.5800000000002,2022-10-07 03:17:45
+204,"789 Maple St, Los Angeles, CA","Watch, T-shirt, Sneakers, Wallet, Hat",1885.78,2022-12-19 05:11:00
+205,"951 Palm St, Phoenix, AZ","Wallet, Jeans, T-shirt",825.2,2022-06-10 17:33:38
+206,"864 Spruce St, Denver, CO",T-shirt,416.33,2023-02-18 21:34:14
+207,"369 Redwood St, Portland, OR","Jeans, Watch",526.97,2022-09-18 17:03:12
+208,"258 Hickory St, Dallas, TX","Jeans, Scarf, Hat, Jacket",1165.3,2022-05-07 13:48:29
+209,"456 Oak St, San Francisco, CA",Scarf,88.46,2022-04-01 08:53:25
+210,"864 Spruce St, Denver, CO","Scarf, Sunglasses",482.30999999999995,2023-01-08 04:10:45
+211,"123 Main St, New York, NY","T-shirt, Hat",789.25,2022-03-18 08:13:57
+212,"258 Hickory St, Dallas, TX","T-shirt, Wallet",387.86,2022-11-15 10:42:34
+213,"951 Palm St, Phoenix, AZ","Wallet, Jeans",449.08,2023-01-03 16:26:04
+214,"135 Aspen St, Miami, FL","Sneakers, Belt, Jacket",837.9100000000001,2022-06-18 15:14:25
+215,"789 Maple St, Los Angeles, CA","Scarf, Jacket, Jeans",459.90000000000003,2023-02-01 07:02:52
+216,"246 Birch St, Seattle, WA","Wallet, Belt, T-shirt, Jeans",1337.58,2022-01-26 10:21:24
+217,"321 Elm St, Chicago, IL","Watch, Jacket",552.4,2022-03-02 08:38:04
+218,"246 Birch St, Seattle, WA","Wallet, Belt, Jacket",832.45,2022-07-27 13:19:38
+219,"246 Birch St, Seattle, WA","Scarf, Belt",816.67,2022-08-17 00:10:33
+220,"654 Pine St, Boston, MA","Jacket, Hat, Wallet, Watch",1123.1999999999998,2022-04-14 12:22:34
+221,"369 Redwood St, Portland, OR","T-shirt, Belt",470.88,2022-09-19 17:50:49
+222,"321 Elm St, Chicago, IL","Watch, Wallet",390.89,2022-08-10 10:24:16
+223,"654 Pine St, Boston, MA","Watch, Sneakers, Sunglasses",700.04,2022-04-01 21:27:55
+224,"258 Hickory St, Dallas, TX",Jeans,165.21,2022/01/01 01:00:00
+225,"951 Palm St, Phoenix, AZ","T-shirt, Jacket, Wallet",525.21,2022-05-07 14:46:02
+226,"864 Spruce St, Denver, CO","Jeans, Sneakers",941.75,2022-03-18 11:44:31
+227,"246 Birch St, Seattle, WA",Belt,183.42,2022-12-17 09:19:24
+228,"654 Pine St, Boston, MA","Hat, Jacket, Jeans",610.02,2022-11-17 02:16:06
+229,"456 Oak St, San Francisco, CA","Sunglasses, T-shirt, Scarf, Hat, Jacket",1591.3899999999999,2022-07-03 16:27:36
+230,"456 Oak St, San Francisco, CA","Belt, T-shirt, Jeans, Hat, Jacket",1261.52,2023-03-09 06:57:29
+231,"456 Oak St, San Francisco, CA","Watch, Sneakers, Jeans",887.2399999999999,2023-03-09 20:10:49
+232,"951 Palm St, Phoenix, AZ","Sunglasses, Sneakers",779.69,2022-08-03 04:07:08
+233,"789 Maple St, Los Angeles, CA","Jeans, Belt, Sneakers, Jacket",1552.7,2022-12-25 15:32:44
+234,"321 Walnut St, Houston, TX","T-shirt, Wallet, Jeans",740.6300000000001,2022-06-27 20:02:14
+235,"147 Cherry St, Philadelphia, PA","Scarf, Sunglasses, Wallet",875.3100000000001,2022-03-25 23:18:37
+236,"147 Cherry St, Philadelphia, PA",Belt,17.31,2022-04-28 16:00:56
+237,"789 Maple St, Los Angeles, CA","Watch, Sneakers, Belt",1002.63,2022-07-20 02:40:19
+238,"654 Pine St, Boston, MA","Jeans, Jacket, Sunglasses, Wallet, Belt",948.58,2022-06-02 13:45:30
+239,"321 Elm St, Chicago, IL","Jacket, Hat, Watch, Sneakers, T-shirt",1239.13,2023-02-15 02:26:15
+240,"456 Oak St, San Francisco, CA",Hat,408.3,2022-04-06 09:05:14
+241,"456 Oak St, San Francisco, CA","T-shirt, Jeans, Belt, Hat, Watch",1478.8200000000002,2022-06-15 11:01:55
+242,"951 Palm St, Phoenix, AZ","Wallet, Jeans, Sneakers, Watch, Hat",1484.79,2022-10-04 20:44:47
+243,"987 Cedar St, Austin, TX","Belt, Hat, Jacket, Sunglasses, Scarf",1029.35,2022-11-21 05:20:48
+244,"123 Main St, New York, NY","Belt, Wallet",324.52000000000004,2022-08-15 19:54:55
+245,"654 Pine St, Boston, MA","T-shirt, Sunglasses, Jacket, Scarf",895.6600000000001,2023-03-05 13:16:08
+246,"798 Willow St, Atlanta, GA","Wallet, Jeans, Jacket, T-shirt, Scarf",1397.65,2022-10-08 17:39:44
+247,"246 Birch St, Seattle, WA","Hat, Belt, Wallet, Jeans",1003.08,2022-08-20 07:39:11
+248,"987 Cedar St, Austin, TX","T-shirt, Jeans, Hat, Belt",1187.79,2022-01-02 19:49:02
+249,"864 Spruce St, Denver, CO","T-shirt, Belt",677.3399999999999,2023-01-11 00:00:57
+250,"987 Cedar St, Austin, TX","Sunglasses, Hat",311.99,2022-04-24 11:15:42
+251,"798 Willow St, Atlanta, GA","Jacket, Jeans, Belt, Watch, Hat",1462.45,2022-12-03 20:49:23
+252,"147 Cherry St, Philadelphia, PA","Wallet, Sneakers, Sunglasses",1053.3700000000001,2022-10-16 01:57:07
+253,"987 Cedar St, Austin, TX",Sunglasses,226.7,2022-01-09 04:01:02
+973,"654 Pine St, Boston, MA","Jacket, Wallet, Sunglasses, Watch, T-shirt",1372.16,2022-08-29 04:28:14
+255,"246 Birch St, Seattle, WA",Sunglasses,359.11,2022-09-17 11:53:47
+256,"258 Hickory St, Dallas, TX","Jeans, Jacket",747.3199999999999,2022-07-17 05:25:54
+257,"654 Pine St, Boston, MA","Wallet, Sunglasses, Sneakers",571.16,2022-02-15 09:19:59
+258,"951 Palm St, Phoenix, AZ","Watch, Scarf, Sneakers",741.4000000000001,2022-06-25 13:30:37
+259,"789 Maple St, Los Angeles, CA","Jeans, Belt, Sneakers, T-shirt",1353.47,2023-01-20 08:33:46
+260,"258 Hickory St, Dallas, TX","Jeans, Scarf, Sunglasses, T-shirt",1238.6699999999998,2023-01-15 18:05:13
+261,"864 Spruce St, Denver, CO","Sunglasses, Wallet, Jacket, Sneakers, Belt",964.05,2022-06-17 20:32:23
+262,"951 Palm St, Phoenix, AZ","T-shirt, Jeans, Scarf, Jacket",1357.9299999999998,2022-02-03 11:35:10
+263,"456 Oak St, San Francisco, CA","Jeans, T-shirt, Hat, Sneakers, Wallet",1084.84,2022-05-02 04:45:16
+264,"369 Redwood St, Portland, OR","T-shirt, Scarf, Sneakers",582.5600000000001,2022-07-03 21:21:09
+265,"798 Willow St, Atlanta, GA","Scarf, Wallet, Sneakers, Jeans",488.14,2022-05-18 08:32:47
+266,"789 Maple St, Los Angeles, CA",Scarf,108.77,2022-07-14 04:25:28
+267,"369 Redwood St, Portland, OR","Hat, Belt, Jeans",496.12,2022/01/01 01:00:00
+268,"654 Pine St, Boston, MA","Sneakers, Jeans",171.86,2022-05-16 04:06:15
+269,"864 Spruce St, Denver, CO","Hat, Scarf, Belt, Watch, Sneakers",1675.19,2022-05-09 05:54:24
+270,"258 Hickory St, Dallas, TX","Jacket, Belt, Jeans, Sneakers",721.76,2022-03-08 22:52:50
+271,"798 Willow St, Atlanta, GA","T-shirt, Watch",648.73,2023-02-23 09:06:39
+272,"321 Elm St, Chicago, IL","Belt, Sunglasses, Jeans, T-shirt, Wallet",1844.8799999999999,2023-02-12 21:40:12
+273,"147 Cherry St, Philadelphia, PA","Watch, Jacket, Belt, Jeans",1132.3899999999999,2022-01-26 00:48:11
+274,"456 Oak St, San Francisco, CA","Wallet, Sneakers, Sunglasses, Hat",942.97,2022-07-10 08:23:48
+275,"951 Palm St, Phoenix, AZ","Wallet, Sunglasses, Belt, T-shirt, Scarf",1022.1399999999999,2023-02-18 04:33:24
+276,"987 Cedar St, Austin, TX","Jacket, Hat, Wallet",744.79,2023-01-31 12:12:44
+277,"321 Walnut St, Houston, TX","Jacket, Sneakers, Belt, T-shirt",799.5400000000001,2022-08-29 21:46:32
+278,"321 Elm St, Chicago, IL","Jacket, Scarf, Belt",724.29,2022-07-18 07:55:23
+279,"654 Pine St, Boston, MA","Jeans, Belt, Jacket, Scarf, Watch",1282.78,2022-01-03 03:15:15
+280,"321 Elm St, Chicago, IL",,687.25,2022-05-14 11:45:41
+281,"798 Willow St, Atlanta, GA","Sneakers, Watch, Belt, Sunglasses",1262.21,2022-11-05 02:52:28
+282,"864 Spruce St, Denver, CO","Belt, Wallet, Hat, Sunglasses, Jacket",1641.5800000000002,2023-01-16 05:17:22
+283,"789 Maple St, Los Angeles, CA","Watch, Scarf, Wallet",966.49,2023-01-15 02:48:37
+284,"321 Elm St, Chicago, IL","Scarf, Wallet, Belt, Hat, Jeans",1749.1699999999998,2023-02-13 19:32:14
+285,"135 Aspen St, Miami, FL","Sneakers, Scarf, Watch",976.9300000000001,2023-01-03 22:25:01
+286,"798 Willow St, Atlanta, GA",Scarf,266.66,2022-11-05 12:12:45
+287,"321 Walnut St, Houston, TX",,1268.6200000000001,2022-03-18 19:42:07
+288,"456 Oak St, San Francisco, CA",Belt,337.95,2023-01-02 10:53:38
+289,"321 Walnut St, Houston, TX","Belt, Jacket",853.1,2022-09-07 19:09:37
+455,"951 Palm St, Phoenix, AZ","Sneakers, Wallet, Scarf",233.8,2022-02-28 00:49:33
+291,"789 Maple St, Los Angeles, CA","Sneakers, Jeans, Scarf",601.6500000000001,2022-02-21 23:53:19
+292,"789 Maple St, Los Angeles, CA","Sneakers, Scarf, Sunglasses, Jeans",997.07,2022-06-22 02:02:00
+293,"987 Cedar St, Austin, TX","Wallet, Hat, Scarf",918.73,2022-08-15 10:36:18
+294,"951 Palm St, Phoenix, AZ","Sneakers, Wallet",860.5799999999999,2022-12-17 19:27:07
+295,"369 Redwood St, Portland, OR","Sunglasses, Wallet, Jacket, Sneakers, T-shirt",1274.7,2022-11-24 03:55:25
+296,"321 Elm St, Chicago, IL",Wallet,87.12,2022-02-06 04:24:51
+297,"951 Palm St, Phoenix, AZ","Sneakers, Scarf, Watch",744.03,2022-06-03 15:07:20
+298,"135 Aspen St, Miami, FL","T-shirt, Sneakers, Jeans, Scarf, Jacket",1172.44,2022-08-13 10:46:29
+299,"147 Cherry St, Philadelphia, PA","Jeans, Belt, Watch, T-shirt",1032.5,2023-02-11 21:31:45
+300,"789 Maple St, Los Angeles, CA","Hat, Jeans",518.71,2022-04-01 03:16:51
+301,"456 Oak St, San Francisco, CA","Wallet, Jacket",288.68,2022-02-03 15:16:38
+302,"987 Cedar St, Austin, TX",Sneakers,433.51,2022-02-26 18:53:56
+303,"789 Maple St, Los Angeles, CA","Scarf, Sunglasses, T-shirt",818.61,2022-08-29 05:20:47
+304,"246 Birch St, Seattle, WA","Sneakers, Jeans, Scarf, Jacket, Watch",1054.79,2023-03-05 23:51:34
+305,"258 Hickory St, Dallas, TX","Sneakers, Jeans",702.09,2022-04-17 15:48:24
+306,"987 Cedar St, Austin, TX","T-shirt, Watch, Jeans, Hat",889.5699999999999,2022-03-11 12:46:10
+420,"987 Cedar St, Austin, TX","Hat, Jeans, Sneakers, Scarf",1087.81,2022-01-24 15:17:19
+308,"864 Spruce St, Denver, CO","T-shirt, Wallet",797.09,2023-02-18 23:24:27
+309,,Jacket,169.18,2022-01-08 16:22:55
+310,"123 Main St, New York, NY","Watch, Sneakers, Scarf",1042.3300000000002,2022-04-30 08:00:24
+311,"654 Pine St, Boston, MA","Belt, Hat",713.5,2022-12-18 00:31:09
+312,"135 Aspen St, Miami, FL","Scarf, Jacket, Belt, Sunglasses",1371.42,2023-03-03 09:39:54
+313,"987 Cedar St, Austin, TX",Sneakers,483.76,2022-10-23 14:14:02
+314,"246 Birch St, Seattle, WA","Jeans, Scarf",365.19,2022-09-27 18:54:01
+315,"147 Cherry St, Philadelphia, PA","Scarf, Hat",594.3299999999999,2022-09-25 20:30:35
+316,"147 Cherry St, Philadelphia, PA","Scarf, Belt, Jeans, Hat, Wallet",1430.3400000000001,2022-05-17 19:36:24
+317,"456 Oak St, San Francisco, CA","Jacket, Hat, T-shirt",411.52,2023-01-07 05:53:15
+318,"321 Walnut St, Houston, TX",Belt,254.01,2022-01-23 19:46:22
+319,"321 Elm St, Chicago, IL","Wallet, Scarf",712.53,2022-03-04 07:24:17
+320,"987 Cedar St, Austin, TX","Belt, Sneakers",300.78000000000003,2022-01-02 20:00:10
+321,"147 Cherry St, Philadelphia, PA","Watch, Belt, Sunglasses",524.6700000000001,2022-12-02 06:01:50
+322,"135 Aspen St, Miami, FL","Scarf, Belt, Wallet, T-shirt",557.3199999999999,2022-03-05 15:14:29
+323,"864 Spruce St, Denver, CO","Belt, T-shirt",650.6,2022-10-12 12:44:20
+324,"951 Palm St, Phoenix, AZ",Belt,78.3,2022-10-27 12:16:48
+325,"147 Cherry St, Philadelphia, PA","Scarf, Hat, Watch",661.65,2022-01-24 10:11:25
+326,"951 Palm St, Phoenix, AZ",Belt,449.08,2022-08-02 05:40:49
+327,"654 Pine St, Boston, MA",Sunglasses,439.2,2022-04-30 03:02:17
+328,"135 Aspen St, Miami, FL","Wallet, Jeans, Jacket, Scarf, Sunglasses",1670.9899999999998,2022-10-29 01:19:16
+329,"987 Cedar St, Austin, TX","Sneakers, Hat, Watch, Jacket, Sunglasses",1214.19,2023-02-21 03:58:37
+330,"135 Aspen St, Miami, FL","Belt, Jeans",497.39,2022-08-01 21:04:18
+331,"864 Spruce St, Denver, CO",Belt,374.16,2022-10-23 18:52:24
+332,"147 Cherry St, Philadelphia, PA","Sneakers, Belt",564.99,2022-03-16 19:06:12
+333,"789 Maple St, Los Angeles, CA","Sunglasses, Belt, Watch, Wallet, Jacket",1025.46,2022-08-09 08:54:08
+334,"798 Willow St, Atlanta, GA",Belt,269.35,2022-02-18 13:56:46
+335,"147 Cherry St, Philadelphia, PA","Sneakers, Jeans",770.78,2022-02-25 09:13:27
+336,"987 Cedar St, Austin, TX","Sneakers, T-shirt, Jacket, Jeans, Wallet",1445.57,2022-06-20 11:27:53
+337,"456 Oak St, San Francisco, CA","Jacket, Sneakers, Belt, Jeans",1069.65,2022-12-03 08:55:06
+338,"135 Aspen St, Miami, FL","T-shirt, Wallet, Sneakers",706.78,2022-05-14 10:33:22
+339,"321 Elm St, Chicago, IL","Sneakers, Hat",276.64,2022-07-13 23:47:38
+340,"321 Walnut St, Houston, TX","Wallet, Sunglasses, Watch, Belt",953.52,2022-03-26 19:10:01
+341,"135 Aspen St, Miami, FL","Watch, Sneakers, Belt, Sunglasses",1134.1100000000001,2022-01-14 09:41:49
+342,"864 Spruce St, Denver, CO","Watch, Jacket",666.3199999999999,2022-02-22 08:03:12
+343,"369 Redwood St, Portland, OR","Wallet, Watch, Jacket, Hat, Belt",1756.81,2022-04-04 20:11:12
+344,"798 Willow St, Atlanta, GA","Scarf, Jeans, Watch, T-shirt",1144.75,2022-10-03 09:35:58
+345,"258 Hickory St, Dallas, TX","Hat, Belt",617.94,2022-04-15 23:57:32
+346,"246 Birch St, Seattle, WA","Watch, Scarf, Hat, Sunglasses",803.6099999999999,2022-09-29 09:05:18
+347,"246 Birch St, Seattle, WA","T-shirt, Sneakers, Belt, Jeans, Wallet",1578.97,2022-03-09 14:54:07
+348,"654 Pine St, Boston, MA","Sunglasses, Hat, Jeans",10000,2023-02-26 22:45:24
+349,"246 Birch St, Seattle, WA","Watch, Jeans, Hat",621.67,2022-06-19 19:30:59
+350,"246 Birch St, Seattle, WA","Wallet, Sunglasses",339.59,2022-01-11 05:23:11
+351,"123 Main St, New York, NY","Scarf, Sneakers, Jeans, T-shirt",1473.98,2022-10-01 16:04:54
+352,"123 Main St, New York, NY",Jeans,329.27,2022-03-16 09:17:43
+353,"798 Willow St, Atlanta, GA","Sneakers, T-shirt, Belt",812.46,2023-02-09 08:47:54
+354,"123 Main St, New York, NY","Belt, Wallet, Jacket",901.6800000000001,2022-03-18 21:58:15
+355,"147 Cherry St, Philadelphia, PA","Jacket, Hat, Scarf, Jeans",820.8199999999999,2022-03-06 05:40:24
+356,"798 Willow St, Atlanta, GA","Wallet, Scarf",350.76,2022-06-29 11:58:50
+357,"654 Pine St, Boston, MA","Jeans, Belt",535.9,2023-02-02 14:37:46
+358,"369 Redwood St, Portland, OR","Hat, Watch",636.19,2022-03-29 16:12:37
+359,"147 Cherry St, Philadelphia, PA","Scarf, Hat, Jeans",1098.1799999999998,2022-04-14 12:37:47
+360,"135 Aspen St, Miami, FL","Sneakers, Scarf, Hat, Jeans",1118.98,2023-03-05 02:02:52
+361,"369 Redwood St, Portland, OR","Hat, Watch",469.98,2022-03-05 15:22:28
+362,"987 Cedar St, Austin, TX","T-shirt, Watch, Jacket, Hat",690.7,2022-12-15 20:48:12
+363,"147 Cherry St, Philadelphia, PA","Sunglasses, Watch, Sneakers",885.95,2023-02-14 12:21:10
+364,"321 Elm St, Chicago, IL","Wallet, Sunglasses, Watch",810.06,2022-06-25 03:05:24
+365,"123 Main St, New York, NY","Jacket, Hat",951.4300000000001,2022-03-30 20:09:42
+366,"321 Elm St, Chicago, IL","Sunglasses, Sneakers, Scarf",956.69,2022-06-26 20:54:27
+367,"798 Willow St, Atlanta, GA","Belt, T-shirt",723.59,2022-11-28 13:15:06
+368,"147 Cherry St, Philadelphia, PA","Hat, Belt, T-shirt",413.14,2022-07-02 02:49:35
+369,"864 Spruce St, Denver, CO","Wallet, Jeans, Watch, Hat, Sneakers",1213.44,2023-02-26 12:02:52
+370,"864 Spruce St, Denver, CO",Scarf,73.92,2023-01-31 23:05:59
+371,"864 Spruce St, Denver, CO","Sneakers, Scarf, Wallet",947.57,2023-03-08 00:54:23
+372,"135 Aspen St, Miami, FL","Hat, Jeans, Jacket, Sneakers",1023.5799999999999,2023-02-28 23:02:28
+373,"135 Aspen St, Miami, FL","Scarf, Hat, Jeans, Belt",912.8799999999999,2022-10-01 05:39:08
+374,"789 Maple St, Los Angeles, CA","Belt, Scarf, Wallet, Sunglasses, Jacket",1098.42,2022-02-01 00:07:34
+375,"321 Walnut St, Houston, TX","Jacket, Scarf, Belt, Wallet",1133.17,2022-01-02 00:10:07
+376,"987 Cedar St, Austin, TX","Belt, Wallet, Jeans, T-shirt",1475.02,2022-03-28 01:23:50
+377,"951 Palm St, Phoenix, AZ","Hat, Jeans",518.85,2023-02-14 00:33:29
+378,"654 Pine St, Boston, MA","Jacket, Watch, Hat, Sunglasses, Jeans",808.8799999999999,2022-11-23 11:31:57
+379,"321 Elm St, Chicago, IL","Wallet, Sneakers",290.87,2022-10-08 08:07:58
+380,"864 Spruce St, Denver, CO","Wallet, Jacket",10000,2022-04-05 02:43:26
+381,"456 Oak St, San Francisco, CA","Wallet, Sneakers, Hat, Jacket",1090.83,2022-03-17 21:58:28
+382,"987 Cedar St, Austin, TX","Jacket, T-shirt, Sunglasses",10000,2022-02-14 02:06:10
+383,"456 Oak St, San Francisco, CA","Scarf, Wallet, Sneakers, Jeans",1109.76,2022-04-02 14:34:43
+384,"654 Pine St, Boston, MA","Jacket, Sneakers, Hat, Wallet",991.45,2023-03-01 03:24:16
+385,"456 Oak St, San Francisco, CA","Hat, Jacket",226.99,2022-03-05 12:09:23
+386,"147 Cherry St, Philadelphia, PA",Jeans,280.32,2023-03-11 22:09:11
+387,"789 Maple St, Los Angeles, CA","Wallet, Jeans",130.52,2022-05-07 09:48:04
+388,"789 Maple St, Los Angeles, CA","Watch, Jeans, Sneakers, Scarf, Sunglasses",1113.99,2022-04-22 09:13:10
+389,"147 Cherry St, Philadelphia, PA","Watch, T-shirt, Hat",1302.99,2022-06-11 13:07:47
+390,"798 Willow St, Atlanta, GA","Jeans, Sneakers, Scarf, Jacket",190.96999999999997,2022-07-22 21:12:28
+391,"654 Pine St, Boston, MA","Jacket, Wallet",404.2,2022-02-01 14:36:45
+392,"321 Walnut St, Houston, TX",Hat,424.03,2022-01-31 17:03:15
+393,"987 Cedar St, Austin, TX","Belt, T-shirt, Watch",879.55,2022-05-13 20:04:23
+394,,"Watch, Sneakers",374.83000000000004,2022-03-25 00:54:40
+395,"147 Cherry St, Philadelphia, PA","Sunglasses, Watch, Belt, Jeans",1089.3,2022-07-27 02:28:08
+396,"258 Hickory St, Dallas, TX","Jeans, Jacket",735.72,2022-08-08 19:12:13
+397,"321 Elm St, Chicago, IL","Jeans, Hat",265.95,2022-09-06 06:51:15
+398,"654 Pine St, Boston, MA","Belt, T-shirt",350.3,2022-04-05 15:16:12
+399,"654 Pine St, Boston, MA",Sunglasses,353.43,2023-02-25 05:14:43
+400,"321 Walnut St, Houston, TX","Jacket, Watch, Sneakers, Jeans",1178.7,2022-10-25 16:42:50
+401,"987 Cedar St, Austin, TX","Belt, Watch, Hat, Sunglasses, Jeans",1629.02,2022-03-06 05:31:43
+402,"987 Cedar St, Austin, TX","Sneakers, Sunglasses, Jacket, Jeans",344.11,2023-02-10 12:06:50
+403,"987 Cedar St, Austin, TX","T-shirt, Jeans, Belt, Scarf, Watch",1759.08,2022-11-04 10:30:49
+404,"135 Aspen St, Miami, FL","Watch, Jacket",532.7,2023-02-13 01:57:49
+405,"321 Walnut St, Houston, TX","T-shirt, Belt, Jeans",937.9,2022-11-19 06:40:54
+406,"135 Aspen St, Miami, FL","Belt, Sunglasses, Jeans",1178.71,2022-11-07 20:44:53
+407,"864 Spruce St, Denver, CO","Watch, Scarf, Jeans, Sneakers, Belt",1028.5,2022-11-01 05:27:28
+408,"864 Spruce St, Denver, CO","Watch, Sunglasses",384.89,2022-03-29 02:44:59
+409,"654 Pine St, Boston, MA","Sneakers, Jeans, Belt, Jacket, Watch",787.8299999999999,2022-08-22 03:15:30
+410,"147 Cherry St, Philadelphia, PA",Wallet,419.47,2022-05-19 16:52:39
+411,"951 Palm St, Phoenix, AZ",Jeans,457.55,2022-01-14 21:00:39
+412,"987 Cedar St, Austin, TX","Belt, Hat",257.43,2023-01-01 14:58:35
+413,"147 Cherry St, Philadelphia, PA",Scarf,277.55,2022-02-23 20:34:15
+414,"147 Cherry St, Philadelphia, PA","Sunglasses, Jacket, Watch",1013.51,2022-04-28 07:29:56
+415,"987 Cedar St, Austin, TX","Scarf, Belt, Wallet, Watch",902.96,2022-12-28 12:40:36
+416,"798 Willow St, Atlanta, GA","Sneakers, Wallet, Belt, Jacket",539.0699999999999,2022-05-31 23:52:33
+417,"951 Palm St, Phoenix, AZ","Sunglasses, Scarf, Wallet, Watch",892.74,2022-02-17 05:43:32
+418,"321 Elm St, Chicago, IL","Jeans, Scarf, Sunglasses, Hat",1385.5700000000002,2023-01-11 02:03:57
+419,"258 Hickory St, Dallas, TX","Belt, Sunglasses",441.96,2022-08-14 13:53:46
+420,"864 Spruce St, Denver, CO","T-shirt, Hat, Jacket",594.3,2022-01-22 17:47:21
+421,"321 Elm St, Chicago, IL","Jacket, Sneakers",715.47,2022-06-10 10:31:26
+422,"456 Oak St, San Francisco, CA",,784.31,2023-02-22 02:38:28
+423,"951 Palm St, Phoenix, AZ","Jacket, Watch, Sunglasses, Belt",1210.5,2022-08-07 08:27:28
+424,"147 Cherry St, Philadelphia, PA","Watch, T-shirt, Sneakers",808.3199999999999,2023-01-07 07:20:00
+425,"369 Redwood St, Portland, OR","T-shirt, Jacket",495.16,2022-11-27 17:11:43
+426,"369 Redwood St, Portland, OR","Belt, Jacket, Wallet, Sneakers",1283.67,2022-01-08 16:35:08
+427,"369 Redwood St, Portland, OR","Jeans, Hat, Sneakers, Wallet",1022.5600000000001,2022-12-25 11:28:32
+428,"369 Redwood St, Portland, OR","Jacket, Scarf, T-shirt, Belt",1348.23,2022-01-05 04:10:32
+429,"147 Cherry St, Philadelphia, PA","Jeans, Scarf",186.28,2022-05-29 07:39:21
+430,"321 Walnut St, Houston, TX","Jeans, Hat, Belt, Scarf",958.5600000000001,2022-06-21 12:27:17
+431,"147 Cherry St, Philadelphia, PA","Watch, Scarf, Belt, Sneakers",618.5500000000001,2022-04-24 19:23:20
+432,"258 Hickory St, Dallas, TX","Scarf, Wallet, Watch, Jeans",1171.08,2022-01-17 04:05:36
+433,"951 Palm St, Phoenix, AZ","Sunglasses, Wallet, Sneakers",914.25,2023-02-03 19:57:36
+434,"789 Maple St, Los Angeles, CA","Sunglasses, Sneakers",523.99,2022-04-12 13:03:45
+435,"135 Aspen St, Miami, FL",Hat,82.75,2022-09-29 03:16:16
+436,"321 Elm St, Chicago, IL","Hat, Jacket",782.63,2023-01-31 20:05:06
+437,,Wallet,326.61,2022-02-28 03:20:32
+438,"123 Main St, New York, NY","Hat, Scarf, Jacket, Wallet, Watch",933.02,2022-11-06 19:50:03
+439,"123 Main St, New York, NY",Sneakers,111.78,2023-02-17 05:30:37
+440,"789 Maple St, Los Angeles, CA","Jeans, Jacket, Wallet, T-shirt",699.04,2022-05-23 16:18:27
+441,"987 Cedar St, Austin, TX","Sneakers, T-shirt, Scarf, Jacket",1023.7,2022-11-03 19:10:56
+442,"798 Willow St, Atlanta, GA","Watch, Hat, Jeans, Wallet, Sneakers",1493.38,2022-10-27 04:44:08
+443,"369 Redwood St, Portland, OR","Hat, Watch, T-shirt, Jeans",1152.04,2022-11-25 14:26:52
+444,"135 Aspen St, Miami, FL","Belt, Jacket, Watch, Jeans",858.36,2022-02-19 21:40:48
+445,"864 Spruce St, Denver, CO","Sneakers, Hat, Sunglasses, Scarf, T-shirt",1433.3,2022-11-23 19:33:29
+446,,"Sneakers, Jeans, T-shirt, Belt",1307.81,2022-02-07 17:59:44
+447,"798 Willow St, Atlanta, GA","Jeans, Belt, Jacket",645.19,2022-10-25 15:11:22
+448,"123 Main St, New York, NY","Sunglasses, Scarf, Belt, Jeans",1412.07,2022-11-03 05:18:00
+449,"123 Main St, New York, NY",T-shirt,490.78,2023-01-19 20:13:09
+450,"951 Palm St, Phoenix, AZ","Jeans, Scarf, T-shirt, Belt",954.75,2022-03-20 05:19:20
+451,"246 Birch St, Seattle, WA","T-shirt, Scarf, Sneakers, Wallet, Sunglasses",1370.84,2022-08-12 22:49:03
+452,"369 Redwood St, Portland, OR","Wallet, Jeans, T-shirt",865.3,2022-03-25 21:52:54
+453,"654 Pine St, Boston, MA","Watch, T-shirt, Belt, Sunglasses, Wallet",1562.88,2022-10-16 04:42:27
+454,"456 Oak St, San Francisco, CA","Watch, T-shirt, Wallet",421.42999999999995,2022-08-17 07:53:23
+455,"951 Palm St, Phoenix, AZ","Sunglasses, Wallet",356.44,2022-11-02 15:31:41
+456,"246 Birch St, Seattle, WA","Watch, Sunglasses, T-shirt",904.38,2022-09-19 11:51:46
+457,"321 Walnut St, Houston, TX","Belt, Jeans",441.52,2023-02-04 22:37:23
+567,"147 Cherry St, Philadelphia, PA","Wallet, Watch, T-shirt, Jeans, Hat",1244.87,2022-01-24 07:39:51
+459,"798 Willow St, Atlanta, GA","Sunglasses, Wallet, Scarf, Jeans",978.3700000000001,2023-03-03 12:01:39
+460,"789 Maple St, Los Angeles, CA",Watch,392.63,2022-01-07 18:52:04
+461,"321 Walnut St, Houston, TX","Scarf, Belt, Jacket, Hat",713.18,2022-08-29 05:42:11
+462,"951 Palm St, Phoenix, AZ","Hat, Belt, Sneakers",821.65,2023-02-28 06:22:40
+463,"864 Spruce St, Denver, CO","Hat, T-shirt, Sunglasses, Belt, Wallet",1251.04,2023-02-22 15:40:03
+464,"321 Walnut St, Houston, TX",Jacket,60.26,2022-09-02 10:50:37
+465,"258 Hickory St, Dallas, TX","Watch, Jeans, Wallet, Jacket",1379.95,2022-12-31 23:57:07
+466,"456 Oak St, San Francisco, CA",Watch,69.23,2022-09-25 01:26:35
+467,"369 Redwood St, Portland, OR","Hat, Sunglasses",736.13,2022-07-26 18:08:14
+468,"456 Oak St, San Francisco, CA","Sunglasses, Sneakers, Wallet",1023.93,2022-03-17 04:42:53
+469,"456 Oak St, San Francisco, CA","Scarf, Wallet, Sunglasses",676.0699999999999,2022-06-06 13:57:43
+470,"456 Oak St, San Francisco, CA","Jeans, Sunglasses",271.55,2022-01-06 13:26:09
+471,"864 Spruce St, Denver, CO","Belt, Hat",403.14,2022-10-23 06:29:45
+472,"951 Palm St, Phoenix, AZ","Wallet, Scarf, Sneakers, Watch",720.48,2023-01-10 18:23:35
+473,"798 Willow St, Atlanta, GA","T-shirt, Belt, Scarf, Jeans",1143.01,2022-01-29 23:43:15
+474,"456 Oak St, San Francisco, CA","Watch, T-shirt, Jeans",945.4200000000001,2022-04-25 07:23:09
+475,"321 Elm St, Chicago, IL","Jeans, Hat, Belt",327.48,2022-08-23 18:58:39
+476,"135 Aspen St, Miami, FL","Jeans, Scarf",405.41999999999996,2022-11-11 10:15:57
+477,"789 Maple St, Los Angeles, CA","Watch, Jacket, Jeans, Sunglasses",1394.88,2022-02-10 23:18:45
+478,"951 Palm St, Phoenix, AZ","T-shirt, Jacket",673.31,2022-08-03 13:29:06
+479,"321 Elm St, Chicago, IL","Jacket, Wallet, Jeans, Sneakers, T-shirt",1068.35,2022-07-22 23:16:35
+480,"987 Cedar St, Austin, TX",T-shirt,475.8,2022-06-17 17:37:19
+481,"789 Maple St, Los Angeles, CA","Sunglasses, Watch, Scarf, Jeans, Hat",1058.9900000000002,2022-02-03 09:46:39
+482,"123 Main St, New York, NY","T-shirt, Jeans, Wallet",504.02,2022-01-15 03:31:01
+483,"135 Aspen St, Miami, FL",Sunglasses,425.15,2023-02-13 05:34:44
+484,"654 Pine St, Boston, MA",Belt,98.0,2023-02-26 07:15:04
+485,"654 Pine St, Boston, MA","Wallet, Watch, Jacket, Sunglasses",1104.63,2022-09-04 17:05:46
+486,"654 Pine St, Boston, MA","T-shirt, Watch, Sneakers",1052.65,2022-08-31 14:10:18
+487,"135 Aspen St, Miami, FL",Sneakers,347.25,2023-02-04 01:08:08
+488,"456 Oak St, San Francisco, CA","Scarf, Hat, Wallet",736.8199999999999,2022-12-26 01:55:39
+489,"123 Main St, New York, NY","Wallet, Sunglasses",744.78,2022-05-17 19:20:36
+490,"789 Maple St, Los Angeles, CA","Scarf, Sneakers, T-shirt, Watch",1365.34,2022-11-06 15:04:37
+491,,"T-shirt, Wallet",865.31,2022-06-04 10:30:30
+492,"246 Birch St, Seattle, WA","Sunglasses, Scarf, Belt, Sneakers, Jacket",1139.97,2023-03-08 06:07:42
+493,"135 Aspen St, Miami, FL","Watch, Belt, Sneakers",500.0,2023-03-04 21:12:31
+494,"246 Birch St, Seattle, WA","Sunglasses, Belt, Scarf, T-shirt, Watch",1120.72,2022-02-07 08:32:28
+495,"864 Spruce St, Denver, CO","Hat, T-shirt, Wallet, Sunglasses, Jacket",939.18,2022-01-14 00:01:58
+496,"369 Redwood St, Portland, OR","Hat, Scarf",380.14,2023-03-10 18:31:48
+497,"951 Palm St, Phoenix, AZ",Jeans,434.02,2022-05-31 00:46:51
+498,"789 Maple St, Los Angeles, CA","T-shirt, Belt, Hat, Sunglasses",1155.2,2022-11-08 11:52:46
+499,"321 Elm St, Chicago, IL","Jeans, Watch, Wallet",883.1800000000001,2022-01-02 19:10:29
+500,"864 Spruce St, Denver, CO","Hat, Watch, Belt",567.62,2022-08-16 06:15:38
+501,"135 Aspen St, Miami, FL","Jeans, Sunglasses, Wallet",10000,2022-07-18 08:34:05
+502,"798 Willow St, Atlanta, GA",T-shirt,26.08,2022-01-24 05:06:44
+503,"321 Elm St, Chicago, IL","Belt, Watch, Hat, Sneakers, Jacket",1994.5100000000002,2022-11-27 08:37:30
+504,"321 Walnut St, Houston, TX","Sunglasses, Belt, T-shirt, Jeans",875.04,2022-04-11 16:13:53
+505,"258 Hickory St, Dallas, TX","Sunglasses, T-shirt",783.0699999999999,2022-11-17 17:25:55
+506,"123 Main St, New York, NY",Watch,472.64,2022-11-25 16:54:26
+507,"321 Elm St, Chicago, IL","Jeans, Sneakers",159.78,2022-06-15 02:27:39
+508,"654 Pine St, Boston, MA","Watch, Scarf, Belt",918.94,2022-06-17 20:16:10
+509,"321 Elm St, Chicago, IL",Jeans,383.03,2022-09-24 03:44:01
+510,"147 Cherry St, Philadelphia, PA",Hat,153.45,2022-11-04 10:43:19
+511,"123 Main St, New York, NY","Jeans, Jacket",10000,2022-06-22 04:21:43
+512,"321 Walnut St, Houston, TX","T-shirt, Belt",301.17999999999995,2022-10-02 21:32:11
+513,"258 Hickory St, Dallas, TX","T-shirt, Wallet",605.36,2022-10-12 12:12:21
+514,"789 Maple St, Los Angeles, CA","Jeans, Jacket, Sunglasses, Wallet, Scarf",937.65,2022-07-13 19:33:55
+515,"987 Cedar St, Austin, TX","Sunglasses, Hat, T-shirt, Jeans, Watch",1301.53,2022-12-27 18:37:11
+516,"147 Cherry St, Philadelphia, PA","Scarf, Sneakers, Watch",826.1199999999999,2022-03-05 03:53:40
+517,"864 Spruce St, Denver, CO","Belt, Watch",546.01,2022-06-13 06:11:11
+518,"456 Oak St, San Francisco, CA","Watch, Jacket",867.6199999999999,2022-06-14 11:11:16
+519,"654 Pine St, Boston, MA","T-shirt, Wallet",450.48,2023-03-06 12:57:48
+520,"135 Aspen St, Miami, FL","Scarf, Hat, Jeans",633.92,2023-03-01 22:39:04
+521,"369 Redwood St, Portland, OR","Sneakers, T-shirt, Jeans",682.8100000000001,2023-02-07 22:18:51
+522,"321 Elm St, Chicago, IL",Scarf,368.83,2022-11-26 23:13:28
+523,"369 Redwood St, Portland, OR","Scarf, Wallet, Sunglasses",1139.19,2022-04-15 17:57:58
+524,"987 Cedar St, Austin, TX",T-shirt,238.65,2022-10-25 16:17:21
+525,"135 Aspen St, Miami, FL","Watch, Sunglasses",450.27,2022-08-19 21:55:21
+526,"135 Aspen St, Miami, FL","Jacket, Watch, T-shirt, Wallet",879.7,2023-02-08 13:05:40
+527,"456 Oak St, San Francisco, CA","T-shirt, Wallet, Sunglasses, Watch, Belt",1098.69,2023-02-02 06:26:17
+528,"987 Cedar St, Austin, TX","Scarf, T-shirt, Jacket, Sunglasses, Hat",1239.5,2022-03-24 05:39:03
+529,"135 Aspen St, Miami, FL",T-shirt,348.7,2022-04-08 00:55:13
+530,"951 Palm St, Phoenix, AZ","Belt, Wallet",297.71000000000004,2022-06-04 02:11:37
+531,"654 Pine St, Boston, MA",T-shirt,283.23,2022-10-02 01:30:05
+532,"258 Hickory St, Dallas, TX","Sneakers, T-shirt, Belt, Sunglasses",1455.99,2022-04-23 13:15:15
+533,"246 Birch St, Seattle, WA","Hat, Belt, Jacket, Wallet, Sneakers",1211.37,2022-01-07 08:15:44
+534,"798 Willow St, Atlanta, GA","Hat, Sunglasses, Jeans, Belt",827.7900000000001,2022-04-21 20:50:58
+535,"789 Maple St, Los Angeles, CA","Jeans, Sneakers, Hat, Scarf",1520.5500000000002,2022-01-18 03:56:43
+536,"135 Aspen St, Miami, FL","Belt, Sneakers, T-shirt, Scarf",1402.23,2022-04-28 13:29:13
+537,"258 Hickory St, Dallas, TX","Belt, Wallet, Sneakers, Jacket, Sunglasses",1009.3299999999999,2022-03-31 12:12:50
+538,"456 Oak St, San Francisco, CA","Watch, Jacket",563.8,2022-09-25 19:44:55
+539,"654 Pine St, Boston, MA","Jacket, Hat, Jeans, Wallet",1595.21,2023-02-04 12:19:59
+540,"258 Hickory St, Dallas, TX","Sneakers, Belt",502.08,2022-06-01 10:29:23
+541,"147 Cherry St, Philadelphia, PA","Belt, Hat, Jeans, Watch, Sunglasses",1513.78,2022-03-06 23:27:35
+542,"864 Spruce St, Denver, CO","T-shirt, Jeans, Sneakers, Scarf",1098.83,2023-01-02 03:25:11
+543,,"Wallet, Watch, Jacket",431.55,2023-01-23 05:01:17
+544,"246 Birch St, Seattle, WA","Hat, Jacket, T-shirt",781.28,2022-08-09 21:09:45
+545,"456 Oak St, San Francisco, CA","Jeans, Sneakers, Wallet, Hat, Sunglasses",1258.6799999999998,2023-01-06 10:33:16
+546,"321 Walnut St, Houston, TX",Jacket,338.82,2022-05-22 13:50:03
+547,"789 Maple St, Los Angeles, CA","T-shirt, Jeans, Sunglasses",621.71,2022-04-10 18:14:30
+548,"258 Hickory St, Dallas, TX","Watch, Belt, Hat, T-shirt, Jeans",725.9000000000001,2022-05-24 11:24:56
+549,"864 Spruce St, Denver, CO",Wallet,12.49,2022-03-01 23:45:25
+550,"321 Elm St, Chicago, IL","Watch, Hat, Sneakers",1290.31,2022-04-09 18:56:12
+551,"321 Walnut St, Houston, TX","Sunglasses, Watch, T-shirt",680.87,2022-06-14 13:50:49
+552,"258 Hickory St, Dallas, TX","T-shirt, Hat",133.91,2022-01-05 13:24:28
+553,"135 Aspen St, Miami, FL","Sneakers, Belt",10000,2022-04-23 00:33:34
+554,"798 Willow St, Atlanta, GA","Sunglasses, Sneakers",771.88,2022-12-03 21:14:14
+555,"654 Pine St, Boston, MA",Jeans,282.1,2022-09-13 20:03:05
+556,"654 Pine St, Boston, MA",T-shirt,10000,2022-04-10 21:13:26
+557,"987 Cedar St, Austin, TX",Sneakers,10000,2022-07-05 07:37:57
+558,"321 Elm St, Chicago, IL","Sunglasses, Wallet, Belt",565.92,2023-01-26 19:41:47
+559,"987 Cedar St, Austin, TX","Watch, Jacket, T-shirt, Wallet",1127.54,2023-01-20 02:37:07
+560,"258 Hickory St, Dallas, TX","Jeans, Belt, Sunglasses, Watch, Sneakers",1168.0,2022-01-30 12:58:47
+561,"321 Walnut St, Houston, TX","Watch, Wallet, Jeans",1048.6,2022-03-19 04:30:14
+562,"123 Main St, New York, NY","Wallet, T-shirt",741.5699999999999,2022/01/01 01:00:00
+563,"789 Maple St, Los Angeles, CA","Wallet, Belt, Hat, Sneakers",1237.5,2022-10-03 14:22:31
+564,"135 Aspen St, Miami, FL","Sneakers, Belt, Watch, Wallet, Hat",1607.8700000000001,2022-08-01 20:28:35
+565,"864 Spruce St, Denver, CO",Hat,277.65,2022-03-13 01:31:56
+566,"258 Hickory St, Dallas, TX","Jeans, Hat, Watch, Sneakers",1012.33,2022-11-22 18:05:12
+567,"258 Hickory St, Dallas, TX",,860.35,2022-09-18 13:38:28
+568,"369 Redwood St, Portland, OR","Hat, Belt",921.25,2022-08-27 04:35:45
+569,"147 Cherry St, Philadelphia, PA","Watch, Sunglasses, Jeans, Scarf, Sneakers",670.68,2023-01-18 19:17:12
+570,"456 Oak St, San Francisco, CA","Sneakers, Scarf, Sunglasses, Jeans, Belt",815.6700000000001,2022-12-08 07:01:45
+571,"147 Cherry St, Philadelphia, PA","Jeans, T-shirt, Hat, Sneakers, Watch",1887.75,2022-10-11 10:44:50
+572,"369 Redwood St, Portland, OR","Jacket, Watch, Jeans, T-shirt",1215.74,2022-10-29 14:50:00
+573,"789 Maple St, Los Angeles, CA","Jacket, Sneakers, Hat, Sunglasses",741.4300000000001,2022-04-20 15:17:29
+574,"147 Cherry St, Philadelphia, PA","Hat, Sunglasses, Scarf",346.46999999999997,2022-08-21 18:39:05
+575,"951 Palm St, Phoenix, AZ",Belt,151.55,2022-04-13 03:53:27
+576,"246 Birch St, Seattle, WA","Wallet, Jeans",422.26,2022-08-01 09:12:13
+577,"798 Willow St, Atlanta, GA","Belt, Jacket",411.8,2022-10-15 00:44:24
+578,"951 Palm St, Phoenix, AZ",Sneakers,160.53,2022-06-25 07:55:39
+579,"246 Birch St, Seattle, WA","Watch, Sneakers, Scarf, Wallet",597.49,2023-01-27 03:53:16
+580,"369 Redwood St, Portland, OR",,1385.1899999999998,2022-04-29 00:00:37
+581,"321 Walnut St, Houston, TX","Wallet, T-shirt, Scarf, Watch",1030.6599999999999,2022-08-08 11:26:21
+582,"456 Oak St, San Francisco, CA","Jacket, T-shirt, Belt, Hat",495.99,2023-01-26 11:13:28
+583,"147 Cherry St, Philadelphia, PA","Jacket, Watch, Hat",908.73,2022-04-25 18:36:25
+584,"321 Elm St, Chicago, IL","Sunglasses, Watch",530.85,2022-12-24 13:44:30
+585,"369 Redwood St, Portland, OR","Wallet, T-shirt, Sneakers, Jeans, Jacket",1472.3000000000002,2022-04-01 04:35:23
+586,"951 Palm St, Phoenix, AZ",Belt,365.55,2022-06-26 11:31:05
+587,"147 Cherry St, Philadelphia, PA","T-shirt, Watch, Hat, Sunglasses, Sneakers",2048.2999999999997,2022-11-14 13:41:27
+588,"135 Aspen St, Miami, FL",T-shirt,410.56,2022-11-27 05:11:24
+589,"864 Spruce St, Denver, CO","Jacket, Wallet, Sneakers, Sunglasses",817.5,2022/01/01 01:00:00
+590,"258 Hickory St, Dallas, TX","Jeans, Scarf, Sneakers",330.17999999999995,2022-02-16 03:59:55
+591,"987 Cedar St, Austin, TX","Hat, Jeans, Sneakers, Sunglasses",670.65,2022-07-09 20:28:04
+592,"369 Redwood St, Portland, OR",Wallet,119.2,2022-11-15 08:42:27
+593,"798 Willow St, Atlanta, GA","T-shirt, Jacket, Watch, Belt",1164.98,2022-11-21 08:16:08
+594,"951 Palm St, Phoenix, AZ","Belt, Scarf",469.16,2022-03-25 05:57:10
+595,"258 Hickory St, Dallas, TX","Jacket, Wallet, Watch, Sneakers",762.15,2022-03-06 20:10:44
+596,"864 Spruce St, Denver, CO","Sunglasses, Sneakers, T-shirt, Jacket, Hat",1010.8700000000001,2022-07-23 17:36:09
+597,"258 Hickory St, Dallas, TX","Watch, Belt, Scarf, Hat",1092.0800000000002,2022-04-08 00:16:44
+598,"951 Palm St, Phoenix, AZ","Belt, Watch, Jacket, Hat",989.79,2022-11-14 19:02:15
+599,"456 Oak St, San Francisco, CA","Belt, T-shirt",575.44,2022-07-02 22:36:43
+600,"798 Willow St, Atlanta, GA","Sneakers, Wallet",579.9399999999999,2022-04-10 07:00:38
+601,"864 Spruce St, Denver, CO",Belt,340.98,2022-09-21 05:49:59
+602,"258 Hickory St, Dallas, TX","T-shirt, Jacket, Jeans",870.1500000000001,2022-08-25 20:05:23
+603,"456 Oak St, San Francisco, CA","Sunglasses, Jacket",426.62,2022-01-05 08:59:14
+604,"321 Walnut St, Houston, TX","Jeans, Belt, Sunglasses, Sneakers, Wallet",742.7700000000001,2022-12-07 03:31:50
+605,"258 Hickory St, Dallas, TX",Sneakers,341.06,2023-02-19 17:23:38
+606,"789 Maple St, Los Angeles, CA","Belt, Wallet, Sunglasses, Jacket",855.22,2022-07-13 00:22:12
+607,"135 Aspen St, Miami, FL","Sneakers, Scarf",492.13,2022-09-08 11:19:47
+608,"456 Oak St, San Francisco, CA","Jacket, Hat, Wallet, Belt, Watch",1613.2900000000002,2022-11-27 23:01:44
+609,"789 Maple St, Los Angeles, CA",Scarf,450.94,2022-11-11 08:41:29
+610,"135 Aspen St, Miami, FL","Wallet, Belt, Scarf",649.36,2022-02-08 19:20:04
+611,"864 Spruce St, Denver, CO",Sunglasses,364.15,2022-02-18 01:41:15
+612,"369 Redwood St, Portland, OR","Sneakers, Wallet, Jacket",976.51,2022-04-19 06:54:03
+613,"789 Maple St, Los Angeles, CA","Watch, Hat, Jeans, Jacket, Sneakers",2082.64,2022-08-05 03:42:07
+614,"864 Spruce St, Denver, CO","Belt, Scarf, T-shirt, Sneakers, Wallet",1109.24,2022-04-27 14:36:00
+615,"246 Birch St, Seattle, WA","Sneakers, Jeans",226.68,2022-03-04 04:28:52
+616,"135 Aspen St, Miami, FL","Wallet, T-shirt, Watch, Belt, Scarf",890.61,2022-02-05 23:24:53
+617,"798 Willow St, Atlanta, GA","Wallet, Scarf, Belt, Jeans, Hat",1049.8000000000002,2022-12-20 04:39:22
+618,"258 Hickory St, Dallas, TX","T-shirt, Belt, Hat, Jeans, Wallet",1398.17,2022-04-19 13:15:04
+619,"321 Elm St, Chicago, IL","Belt, T-shirt, Sunglasses, Scarf, Sneakers",1409.3000000000002,2022-10-24 03:53:46
+620,"258 Hickory St, Dallas, TX","Hat, Watch",758.71,2022-12-26 12:09:31
+621,"246 Birch St, Seattle, WA","Watch, Wallet, Sunglasses, Belt, T-shirt",1112.27,2023-01-15 20:52:29
+622,"798 Willow St, Atlanta, GA","Jacket, Scarf, Sneakers, Jeans, T-shirt",674.96,2022-03-27 21:47:36
+623,"987 Cedar St, Austin, TX","Sunglasses, Wallet, Watch, Scarf, T-shirt",1308.55,2022-05-12 06:30:11
+624,"951 Palm St, Phoenix, AZ","Hat, T-shirt",307.21,2022-08-08 08:42:09
+625,"951 Palm St, Phoenix, AZ","Hat, Watch, Belt",640.46,2022-04-21 01:17:18
+626,"147 Cherry St, Philadelphia, PA","Scarf, Sneakers, T-shirt, Jacket, Sunglasses",1262.07,2022/01/01 01:00:00
+627,"321 Walnut St, Houston, TX","Scarf, Wallet, Hat",412.51,2023-01-25 06:05:22
+628,"123 Main St, New York, NY","Sneakers, Watch",673.85,2022-11-07 20:05:25
+629,"258 Hickory St, Dallas, TX","Hat, Sneakers",478.29,2022/01/01 01:00:00
+630,"456 Oak St, San Francisco, CA","Wallet, Belt",735.1800000000001,2023-03-06 15:20:56
+631,"369 Redwood St, Portland, OR","Watch, Sneakers",873.39,2022-11-02 03:00:09
+632,"864 Spruce St, Denver, CO",Sneakers,183.5,2022-01-10 19:54:18
+633,"135 Aspen St, Miami, FL","Scarf, Jeans, Wallet, Watch",1002.8400000000001,2022-06-22 06:36:14
+634,"987 Cedar St, Austin, TX",Sneakers,297.09,2022-11-17 11:16:29
+635,"135 Aspen St, Miami, FL","Sneakers, Jacket, Jeans",829.61,2022-10-12 04:44:22
+636,"798 Willow St, Atlanta, GA","Wallet, Scarf, Sneakers",608.89,2022-12-29 04:01:17
+637,"987 Cedar St, Austin, TX","Sneakers, Watch, Scarf",798.5500000000001,2022-01-23 04:42:37
+638,"789 Maple St, Los Angeles, CA","Hat, Wallet, Scarf, Watch",621.36,2022-07-02 06:51:49
+639,"123 Main St, New York, NY","Jacket, Scarf, Watch, Belt, Jeans",829.75,2022-04-02 17:23:58
+640,"456 Oak St, San Francisco, CA","Jacket, Belt, T-shirt, Sneakers, Wallet",1429.2900000000002,2023-02-07 08:37:12
+641,"654 Pine St, Boston, MA","Hat, Wallet, Jeans, Watch",1328.4699999999998,2023-01-26 12:41:36
+642,"369 Redwood St, Portland, OR",Sunglasses,233.82,2022-01-15 20:52:14
+643,"789 Maple St, Los Angeles, CA","Watch, T-shirt, Sunglasses",840.66,2023-02-26 15:16:52
+644,"654 Pine St, Boston, MA",Hat,347.17,2023-01-13 01:28:52
+645,"246 Birch St, Seattle, WA","Watch, Sunglasses, Jeans",619.37,2022-07-08 22:27:42
+646,"369 Redwood St, Portland, OR","Wallet, Hat, Sunglasses, Belt",1049.37,2022-05-24 05:12:50
+647,"135 Aspen St, Miami, FL","Hat, Jeans, Wallet, Sneakers",818.1700000000001,2022-03-31 23:19:47
+648,"864 Spruce St, Denver, CO","Sunglasses, Belt, Scarf, Sneakers, Jacket",1223.21,2023-02-18 15:23:54
+649,"369 Redwood St, Portland, OR","Scarf, Hat, T-shirt",931.33,2023-02-15 00:09:28
+650,"951 Palm St, Phoenix, AZ","Hat, Wallet, Belt, Jeans, Sneakers",1485.8200000000002,2023-02-01 16:44:19
+651,"987 Cedar St, Austin, TX","Scarf, Jacket",468.03000000000003,2022-06-28 22:53:48
+652,"987 Cedar St, Austin, TX",Sunglasses,275.07,2022-12-23 02:19:01
+653,"864 Spruce St, Denver, CO","Belt, T-shirt",555.31,2022-09-08 14:36:31
+654,"864 Spruce St, Denver, CO",Wallet,181.58,2022-06-08 22:16:54
+655,"123 Main St, New York, NY","Watch, Jeans, Scarf, T-shirt, Sunglasses",968.6800000000001,2022-05-02 12:23:57
+656,"123 Main St, New York, NY","Sneakers, Wallet, Jacket",739.05,2022-12-25 02:46:54
+657,"147 Cherry St, Philadelphia, PA","T-shirt, Sneakers",361.13,2022-04-19 13:59:27
+658,"864 Spruce St, Denver, CO","Jacket, Sneakers, Watch",577.5899999999999,2022-05-18 16:02:47
+659,"147 Cherry St, Philadelphia, PA","Belt, T-shirt, Wallet, Watch, Sneakers",1525.7299999999998,2022-04-26 16:31:01
+660,"321 Elm St, Chicago, IL",Jacket,347.71,2022-07-05 13:07:56
+661,"258 Hickory St, Dallas, TX",,880.4200000000001,2022-08-20 16:39:07
+662,"123 Main St, New York, NY","Watch, Jacket",823.44,2022-06-06 09:19:38
+663,"123 Main St, New York, NY","Wallet, Watch, Sunglasses",513.73,2022-04-15 01:56:33
+664,"951 Palm St, Phoenix, AZ","Scarf, Sunglasses, Jacket, Jeans",1073.42,2022-04-05 09:03:44
+665,"951 Palm St, Phoenix, AZ","Jeans, Belt",709.23,2022-12-31 12:59:51
+666,"951 Palm St, Phoenix, AZ","Sneakers, Watch",579.4200000000001,2022-12-20 14:42:06
+667,"246 Birch St, Seattle, WA","Wallet, Jeans, Belt, Jacket, T-shirt",1212.57,2022-11-12 06:49:20
+668,"135 Aspen St, Miami, FL","Sunglasses, Jeans, Watch",790.25,2022-04-08 11:50:12
+669,"321 Elm St, Chicago, IL","Sunglasses, Jacket, Scarf, Watch",1130.6399999999999,2022-10-16 02:42:21
+670,"864 Spruce St, Denver, CO","Jeans, T-shirt, Jacket, Belt",1299.04,2022-12-02 05:13:52
+671,"864 Spruce St, Denver, CO","Belt, Sunglasses, Wallet",10000,2022-12-01 04:45:07
+672,"654 Pine St, Boston, MA","Watch, Jacket, Hat, Sneakers, Belt",1282.6100000000001,2022-10-31 20:11:05
+673,"321 Elm St, Chicago, IL","Sneakers, Jacket, Scarf, T-shirt",728.15,2022/01/01 01:00:00
+674,"123 Main St, New York, NY","Watch, Jacket, T-shirt",1083.71,2023-03-10 06:11:39
+675,"321 Elm St, Chicago, IL","Watch, Jacket, Sunglasses, Jeans",1085.9299999999998,2022-08-24 19:11:35
+676,"789 Maple St, Los Angeles, CA","Jeans, Watch, Sneakers, Belt, Jacket",902.73,2022-12-07 12:52:29
+677,"135 Aspen St, Miami, FL","Sunglasses, Jacket, Watch, Sneakers, Scarf",1260.72,2022-08-09 13:41:59
+678,"123 Main St, New York, NY",Jacket,86.88,2022-09-05 21:00:41
+679,"798 Willow St, Atlanta, GA","Wallet, Sunglasses",763.1800000000001,2023-01-29 02:17:12
+680,"789 Maple St, Los Angeles, CA",Sneakers,387.29,2022-10-09 16:13:08
+681,"864 Spruce St, Denver, CO","Sunglasses, Belt, T-shirt",860.06,2022-07-14 15:24:55
+682,"456 Oak St, San Francisco, CA","Belt, Sneakers, Watch",154.60000000000002,2023-03-14 23:04:14
+683,"654 Pine St, Boston, MA","Sunglasses, Belt, Jacket, Watch",450.87,2022-03-12 15:46:05
+684,"147 Cherry St, Philadelphia, PA","Sunglasses, Belt, Wallet",291.29,2022-09-21 16:55:25
+685,"456 Oak St, San Francisco, CA","Sneakers, Scarf, Hat",962.27,2022-01-31 10:30:35
+686,"987 Cedar St, Austin, TX","Sunglasses, T-shirt, Jeans, Scarf",869.9000000000001,2023-03-13 03:02:07
+687,"456 Oak St, San Francisco, CA","T-shirt, Jacket, Sunglasses, Hat, Watch",1293.96,2022-01-10 17:03:21
+688,"987 Cedar St, Austin, TX","Sneakers, Jacket",477.36,2022-02-10 20:27:24
+689,,"Scarf, T-shirt",521.3000000000001,2022-05-14 13:36:22
+690,"864 Spruce St, Denver, CO","Sneakers, Watch, Hat",195.92,2023-01-16 23:33:54
+691,"369 Redwood St, Portland, OR","Belt, Sunglasses, Jeans, Watch, Wallet",1434.26,2023-01-08 04:17:21
+692,"135 Aspen St, Miami, FL","Sneakers, Belt",268.21,2022-07-25 17:20:51
+693,"321 Elm St, Chicago, IL","Scarf, Hat, Wallet, Sunglasses",785.0300000000001,2022-09-08 21:53:34
+694,"654 Pine St, Boston, MA","Belt, Wallet",565.67,2023-01-23 12:16:00
+695,"258 Hickory St, Dallas, TX","Scarf, Jacket, Sunglasses, Hat",1463.85,2023-02-18 10:42:09
+696,"258 Hickory St, Dallas, TX","Jeans, Hat, Scarf, T-shirt, Wallet",2013.3600000000001,2022-02-27 13:53:23
+697,"987 Cedar St, Austin, TX",T-shirt,362.44,2022-10-23 06:53:46
+698,"135 Aspen St, Miami, FL",Scarf,89.92,2022-11-27 08:26:03
+699,"864 Spruce St, Denver, CO",,789.28,2023-01-04 08:04:35
+700,"654 Pine St, Boston, MA","Jeans, Wallet, Watch",1184.51,2022-09-28 23:17:16
+701,"258 Hickory St, Dallas, TX","Jacket, Wallet, Belt, Sunglasses",898.3599999999999,2022-05-31 20:06:05
+702,"369 Redwood St, Portland, OR",T-shirt,66.96,2023-03-15 06:21:06
+703,"654 Pine St, Boston, MA",Jacket,155.99,2022-01-26 03:47:17
+704,"147 Cherry St, Philadelphia, PA","Watch, Scarf, Belt",581.78,2022-08-24 00:42:26
+705,"864 Spruce St, Denver, CO","Hat, Wallet, Jeans, T-shirt, Sneakers",1115.6999999999998,2022-12-13 00:19:49
+706,"864 Spruce St, Denver, CO",Jacket,89.11,2022-10-02 03:56:50
+707,"135 Aspen St, Miami, FL","Jeans, Scarf, Wallet, T-shirt, Jacket",1612.04,2022-10-04 01:19:26
+708,"258 Hickory St, Dallas, TX","Sneakers, Wallet, T-shirt, Jacket",523.46,2022-05-21 02:49:39
+709,"369 Redwood St, Portland, OR",Jeans,439.64,2022-09-18 10:32:28
+710,"864 Spruce St, Denver, CO","T-shirt, Watch, Jeans, Scarf, Wallet",1533.79,2022-08-08 09:16:05
+711,"135 Aspen St, Miami, FL","Wallet, Scarf",779.4,2022-01-19 00:53:49
+712,"789 Maple St, Los Angeles, CA","Sneakers, Watch",614.97,2023-01-07 13:01:48
+713,"654 Pine St, Boston, MA","T-shirt, Hat, Watch, Wallet, Jacket",1369.6399999999999,2022-06-15 06:29:27
+714,"258 Hickory St, Dallas, TX","Sneakers, Belt",479.78000000000003,2022-02-20 01:46:09
+715,"321 Walnut St, Houston, TX","Scarf, Hat, Jeans, Sneakers, Jacket",1211.7,2022-03-16 18:21:08
+716,"123 Main St, New York, NY","Hat, T-shirt, Jacket, Wallet, Sunglasses",1099.97,2022-11-11 09:25:34
+717,"258 Hickory St, Dallas, TX","Jeans, T-shirt, Jacket",1018.19,2022-03-09 14:58:45
+718,"864 Spruce St, Denver, CO","Wallet, Sunglasses",466.06,2022-11-29 06:37:13
+719,"987 Cedar St, Austin, TX","Watch, Sneakers, T-shirt",956.8100000000001,2022-01-05 19:55:58
+720,"951 Palm St, Phoenix, AZ","T-shirt, Jacket, Hat, Sneakers",915.82,2022-09-15 08:21:44
+721,"864 Spruce St, Denver, CO","Wallet, Sunglasses, Belt",506.29999999999995,2022-08-12 12:26:06
+722,"654 Pine St, Boston, MA",Scarf,135.53,2022-04-12 21:06:36
+723,"987 Cedar St, Austin, TX","Jeans, Belt, Sneakers",1222.42,2022-07-16 02:32:12
+724,"135 Aspen St, Miami, FL","Watch, Hat",566.8,2023-02-14 18:20:35
+725,"864 Spruce St, Denver, CO","Sneakers, T-shirt, Jeans",303.56,2022-03-20 15:41:11
+726,"135 Aspen St, Miami, FL","Hat, Watch, Sneakers, Sunglasses",936.68,2022-03-02 01:16:14
+727,"864 Spruce St, Denver, CO",Hat,366.35,2022-01-30 09:13:46
+728,"135 Aspen St, Miami, FL","Scarf, Wallet, Watch, T-shirt, Jeans",1569.38,2022-11-06 03:27:48
+729,"951 Palm St, Phoenix, AZ","Sunglasses, Jacket, Jeans",316.71000000000004,2022-02-04 02:57:54
+730,"951 Palm St, Phoenix, AZ","Belt, Sneakers",574.98,2022-02-24 04:00:11
+731,"951 Palm St, Phoenix, AZ","Wallet, Sunglasses, T-shirt, Sneakers, Watch",1335.05,2022-09-14 22:31:51
+732,"789 Maple St, Los Angeles, CA","Jacket, T-shirt, Jeans, Sunglasses",646.67,2022/01/01 01:00:00
+733,"147 Cherry St, Philadelphia, PA","Wallet, Sneakers, Belt, Scarf, Jeans",1178.74,2022-12-27 00:04:02
+734,"321 Elm St, Chicago, IL","Hat, Jacket, Jeans, Wallet, T-shirt",1756.33,2022-10-03 21:31:46
+735,"258 Hickory St, Dallas, TX","T-shirt, Jeans, Jacket, Belt, Hat",1411.02,2022-02-12 13:57:26
+736,"951 Palm St, Phoenix, AZ","Watch, T-shirt",651.22,2022-10-23 01:59:52
+737,"987 Cedar St, Austin, TX","Sneakers, T-shirt, Jacket, Sunglasses",1805.4099999999999,2022-03-03 07:02:15
+738,"798 Willow St, Atlanta, GA","T-shirt, Scarf, Sneakers",1065.08,2022-05-12 16:37:23
+739,"951 Palm St, Phoenix, AZ","Sunglasses, Scarf",306.7,2022-06-13 12:14:42
+740,"135 Aspen St, Miami, FL",Sneakers,123.96,2023-02-18 19:33:05
+741,,"Scarf, Sneakers, Sunglasses",1137.85,2022-04-24 00:34:09
+742,"123 Main St, New York, NY",Watch,365.26,2022-08-08 06:49:07
+495,"987 Cedar St, Austin, TX","Hat, Wallet, Watch, Belt, Sunglasses",1119.07,2022-03-29 18:14:55
+744,"369 Redwood St, Portland, OR",Sneakers,226.83,2023-01-13 02:43:50
+745,"123 Main St, New York, NY","Sunglasses, Wallet, Jeans, Jacket",1009.38,2022-02-22 03:31:42
+746,"321 Elm St, Chicago, IL","Wallet, T-shirt",808.45,2023-02-09 22:43:14
+747,"246 Birch St, Seattle, WA","Jeans, Watch, Scarf",956.95,2022-03-23 02:42:09
+748,"789 Maple St, Los Angeles, CA","Sneakers, Belt, T-shirt",967.58,2022-12-25 10:34:27
+749,"864 Spruce St, Denver, CO","Watch, Sneakers, T-shirt, Hat",683.14,2022-09-16 16:31:05
+750,"951 Palm St, Phoenix, AZ","Watch, Wallet",697.67,2022-02-12 21:59:44
+751,"246 Birch St, Seattle, WA","Watch, Wallet, Scarf, Hat",691.25,2022-05-11 16:18:23
+752,"135 Aspen St, Miami, FL","Watch, Belt, Sunglasses",554.98,2022-11-30 02:29:02
+753,"798 Willow St, Atlanta, GA","Jeans, T-shirt, Wallet, Belt",1091.47,2022-04-22 02:55:07
+754,"369 Redwood St, Portland, OR","Scarf, Jacket, Watch, Hat, Sneakers",1255.1200000000001,2022-10-05 17:45:35
+755,"798 Willow St, Atlanta, GA","Jacket, Jeans, Belt",306.02,2022-01-24 17:51:39
+756,"864 Spruce St, Denver, CO","T-shirt, Watch, Jacket, Belt",1084.3700000000001,2022-07-10 21:48:48
+757,"864 Spruce St, Denver, CO","Jeans, Belt, Watch",634.2099999999999,2022-06-30 07:07:49
+758,"147 Cherry St, Philadelphia, PA","Watch, T-shirt",491.31000000000006,2023-02-16 19:37:06
+759,"987 Cedar St, Austin, TX","Jacket, Sunglasses, Wallet, Watch",10000,2023-02-23 00:38:23
+760,"123 Main St, New York, NY","Sunglasses, Watch, Wallet",1153.1599999999999,2022-01-27 16:12:38
+761,"147 Cherry St, Philadelphia, PA","Hat, Belt, Jeans",703.95,2022-06-01 19:27:14
+762,"789 Maple St, Los Angeles, CA","Jeans, Belt, Hat, Wallet, Sneakers",1055.35,2022-05-04 00:17:53
+763,"321 Elm St, Chicago, IL","Watch, Sneakers, Sunglasses, Wallet, T-shirt",1655.56,2022-11-13 06:55:44
+764,"147 Cherry St, Philadelphia, PA","Wallet, T-shirt, Watch, Sneakers",1189.43,2023-02-02 16:35:21
+765,"456 Oak St, San Francisco, CA","Hat, T-shirt",360.83,2022-06-23 05:01:22
+766,"456 Oak St, San Francisco, CA","Sunglasses, Jeans",597.47,2023-02-25 02:51:17
+767,"369 Redwood St, Portland, OR","Jacket, Watch, Scarf",834.85,2023-02-23 16:16:08
+768,"864 Spruce St, Denver, CO","Watch, Scarf, Wallet, T-shirt, Hat",1014.79,2022-03-30 23:42:18
+769,"321 Elm St, Chicago, IL","Jacket, T-shirt",187.81,2022-04-16 20:15:59
+770,"798 Willow St, Atlanta, GA","T-shirt, Sneakers",215.88,2022-03-03 14:44:34
+771,"456 Oak St, San Francisco, CA","Scarf, Watch, T-shirt, Wallet",1220.95,2022-01-25 03:21:56
+772,"654 Pine St, Boston, MA",Wallet,315.59,2022-02-17 06:02:16
+773,"987 Cedar St, Austin, TX","Scarf, T-shirt",387.6,2022-06-16 07:14:47
+774,"798 Willow St, Atlanta, GA","Wallet, Jacket, Watch, Belt",590.4200000000001,2022-11-13 14:49:52
+775,"123 Main St, New York, NY",Belt,151.58,2022-06-01 10:23:25
+776,"864 Spruce St, Denver, CO","Wallet, T-shirt, Sunglasses, Belt",908.5899999999999,2022-07-10 03:22:20
+777,"456 Oak St, San Francisco, CA","Watch, Scarf, Sunglasses, Hat, Jeans",635.11,2022-09-13 07:41:38
+778,"654 Pine St, Boston, MA","Watch, Sunglasses, Scarf, Sneakers, Jacket",1062.0,2022-11-19 00:43:01
+779,"321 Elm St, Chicago, IL","Sunglasses, Jeans, Scarf, T-shirt, Wallet",1368.12,2022-07-10 22:12:27
+780,"864 Spruce St, Denver, CO",Hat,366.86,2022-08-08 06:32:24
+781,"456 Oak St, San Francisco, CA",T-shirt,460.28,2023-03-01 02:29:01
+782,"456 Oak St, San Francisco, CA","T-shirt, Hat",401.22,2022-03-17 20:27:38
+783,"951 Palm St, Phoenix, AZ",Sneakers,159.92,2022-07-21 21:43:45
+784,"864 Spruce St, Denver, CO","Sneakers, Scarf, Hat, Watch",984.9499999999999,2022-01-04 16:52:39
+785,"456 Oak St, San Francisco, CA",Wallet,113.24,2023-03-14 00:37:00
+786,"798 Willow St, Atlanta, GA","T-shirt, Hat",198.21,2022-04-03 22:03:34
+787,"123 Main St, New York, NY","Scarf, T-shirt",68.11,2022-03-17 23:01:51
+788,"798 Willow St, Atlanta, GA","Jeans, Watch",391.13,2023-01-12 05:18:35
+789,"456 Oak St, San Francisco, CA",Sunglasses,383.43,2022-05-15 19:44:06
+790,"123 Main St, New York, NY","Sunglasses, Sneakers, Hat, T-shirt, Scarf",1105.83,2022-05-24 06:56:55
+791,"654 Pine St, Boston, MA",Scarf,452.8,2023-01-19 05:25:58
+792,"135 Aspen St, Miami, FL","Hat, Belt, Jeans, Sneakers, Scarf",753.1,2023-03-12 14:55:00
+793,"258 Hickory St, Dallas, TX","Belt, Jeans",318.62,2022-10-15 13:40:47
+794,"951 Palm St, Phoenix, AZ","Belt, Watch, T-shirt, Sneakers",1061.01,2022-06-23 11:00:00
+795,"798 Willow St, Atlanta, GA","Hat, Scarf",552.11,2022-12-11 19:59:23
+796,"864 Spruce St, Denver, CO",Sneakers,181.33,2022-05-13 13:58:34
+797,"135 Aspen St, Miami, FL","Hat, Watch, Scarf",653.99,2023-02-21 04:49:15
+798,"456 Oak St, San Francisco, CA","Jacket, Scarf, Sneakers, Hat, Wallet",1689.67,2022-08-10 16:09:20
+799,"798 Willow St, Atlanta, GA","T-shirt, Scarf",511.07,2022-01-07 09:33:20
+800,"864 Spruce St, Denver, CO","Belt, Sunglasses",42.77,2023-01-03 15:07:57
+801,"369 Redwood St, Portland, OR",Wallet,190.48,2022-12-03 05:41:17
+802,"654 Pine St, Boston, MA","T-shirt, Belt, Sunglasses, Wallet",1286.7,2022-03-19 03:28:06
+803,"369 Redwood St, Portland, OR","T-shirt, Sunglasses, Jeans",253.7,2022-02-04 04:09:15
+804,"654 Pine St, Boston, MA","Hat, Sunglasses, Wallet, Watch",929.5500000000001,2023-01-13 00:32:18
+805,"456 Oak St, San Francisco, CA",Sunglasses,93.07,2022/01/01 01:00:00
+806,"147 Cherry St, Philadelphia, PA","Jeans, Jacket, Sneakers, T-shirt, Wallet",1347.29,2022-10-20 09:15:26
+807,"456 Oak St, San Francisco, CA","Sneakers, T-shirt, Jeans",622.5,2022-06-28 18:20:28
+808,"798 Willow St, Atlanta, GA","Jeans, T-shirt",526.91,2022-06-17 04:11:44
+809,,"T-shirt, Jeans, Jacket, Sunglasses, Scarf",1368.42,2022-09-20 18:45:20
+810,"135 Aspen St, Miami, FL",Scarf,305.42,2023-03-16 10:05:37
+811,"321 Walnut St, Houston, TX",Sneakers,432.44,2022-06-18 14:57:25
+812,"147 Cherry St, Philadelphia, PA","Watch, Belt, Jacket",417.71,2022-07-17 23:54:13
+813,"135 Aspen St, Miami, FL","T-shirt, Sneakers",790.4300000000001,2022-09-21 15:07:19
+814,"951 Palm St, Phoenix, AZ","Sunglasses, Wallet, Belt, T-shirt",935.27,2022-10-31 23:55:38
+815,"864 Spruce St, Denver, CO","Sneakers, Sunglasses, Jacket",1044.02,2022-04-30 21:30:45
+816,"456 Oak St, San Francisco, CA","Sunglasses, Sneakers, Jacket, Hat, Watch",1241.5500000000002,2022-12-14 21:17:51
+817,"123 Main St, New York, NY",T-shirt,188.35,2022-05-02 10:18:32
+818,"135 Aspen St, Miami, FL","Sunglasses, Sneakers, Belt, Jacket",1443.85,2023-02-18 05:24:10
+819,"798 Willow St, Atlanta, GA","Watch, Jeans, Scarf, Sunglasses, Hat",1135.5,2022-07-06 08:54:54
+820,"798 Willow St, Atlanta, GA","T-shirt, Sneakers, Scarf, Wallet, Jeans",1015.8000000000001,2023-02-25 11:16:39
+821,"123 Main St, New York, NY","Wallet, Scarf, Hat, Jeans",1078.68,2022-01-13 02:12:53
+822,"123 Main St, New York, NY","Watch, Jacket, Jeans, Wallet",1664.97,2023-03-03 01:41:02
+823,"147 Cherry St, Philadelphia, PA","Hat, Scarf, Sunglasses, Jacket, Sneakers",1141.1,2022-08-21 07:55:53
+824,"135 Aspen St, Miami, FL","T-shirt, Jeans, Wallet",1169.08,2023-03-08 03:31:04
+825,"789 Maple St, Los Angeles, CA","Belt, Sneakers, Scarf",506.24,2022-10-08 19:20:18
+826,"864 Spruce St, Denver, CO",Belt,205.24,2023-01-05 18:19:01
+827,"369 Redwood St, Portland, OR","Wallet, Jeans, Belt, Scarf, Jacket",1229.18,2022/01/01 01:00:00
+828,"258 Hickory St, Dallas, TX",T-shirt,281.26,2022-10-28 08:34:27
+829,"798 Willow St, Atlanta, GA","Wallet, T-shirt, Jacket, Hat, Sunglasses",1810.5700000000002,2022-12-25 01:43:40
+830,"864 Spruce St, Denver, CO","Sneakers, Wallet, Scarf, T-shirt",566.2099999999999,2022-01-28 12:04:09
+831,"123 Main St, New York, NY",Wallet,471.55,2023-02-23 19:46:45
+832,"258 Hickory St, Dallas, TX","Jeans, Jacket",597.75,2023-02-17 17:08:09
+833,"987 Cedar St, Austin, TX","T-shirt, Sneakers, Wallet, Jeans, Watch",1476.52,2022-12-28 04:58:27
+834,"321 Walnut St, Houston, TX",Sunglasses,147.26,2023-03-13 23:15:19
+835,"951 Palm St, Phoenix, AZ","Sneakers, Hat",449.94,2022-06-13 11:02:59
+836,"246 Birch St, Seattle, WA","Wallet, Scarf, Jeans, T-shirt, Belt",1650.99,2022-07-02 01:44:34
+837,"654 Pine St, Boston, MA",Wallet,321.5,2022-01-25 04:39:58
+838,"951 Palm St, Phoenix, AZ","Hat, Sneakers, Scarf, Jacket, Jeans",1377.68,2022-02-17 07:34:48
+839,"654 Pine St, Boston, MA","T-shirt, Jacket, Sunglasses, Scarf, Jeans",722.29,2022-07-12 18:30:08
+840,,"Jacket, Wallet, Scarf",445.25999999999993,2023-01-02 03:55:57
+841,"258 Hickory St, Dallas, TX","Watch, T-shirt",550.76,2023-01-19 21:03:23
+842,"789 Maple St, Los Angeles, CA",Sneakers,66.93,2022-02-16 04:08:32
+843,"258 Hickory St, Dallas, TX","Sunglasses, Watch, Scarf, Jeans",643.5300000000001,2023-02-04 16:55:58
+844,"135 Aspen St, Miami, FL",Hat,60.7,2022-06-02 08:28:30
+845,"987 Cedar St, Austin, TX","Wallet, Scarf, Sneakers, Jeans, Belt",1514.4,2023-02-22 06:25:51
+846,"456 Oak St, San Francisco, CA","Scarf, Jeans",498.75,2022-03-18 18:43:00
+847,"789 Maple St, Los Angeles, CA","Sneakers, Belt, T-shirt",946.75,2022-10-16 23:42:50
+848,"987 Cedar St, Austin, TX","Sneakers, Jeans, Scarf",600.42,2022-06-26 05:01:44
+849,"798 Willow St, Atlanta, GA","Belt, Sunglasses",244.79,2022-11-05 08:48:31
+850,"369 Redwood St, Portland, OR","Sneakers, T-shirt, Jacket, Watch, Jeans",1900.51,2022-01-27 21:24:34
+851,"369 Redwood St, Portland, OR","Jacket, Sneakers",647.36,2023-03-04 18:55:08
+852,"135 Aspen St, Miami, FL","Wallet, T-shirt, Belt, Scarf",669.1300000000001,2022-07-19 11:18:21
+853,"987 Cedar St, Austin, TX",Wallet,174.41,2022-11-02 17:00:57
+854,"135 Aspen St, Miami, FL",T-shirt,341.68,2022-07-11 03:47:07
+855,"321 Walnut St, Houston, TX",,422.47,2022-09-05 01:04:08
+856,"147 Cherry St, Philadelphia, PA","Belt, Watch",489.86,2022-03-01 05:39:42
+857,"798 Willow St, Atlanta, GA","Hat, Wallet, Sunglasses, Watch, Jeans",1697.84,2022-10-24 05:09:15
+858,"135 Aspen St, Miami, FL","T-shirt, Belt, Watch, Hat",1347.2800000000002,2022-02-15 07:55:56
+859,"123 Main St, New York, NY","Hat, Wallet, Jeans, Belt, Watch",1771.3999999999999,2022-01-23 19:58:46
+860,"864 Spruce St, Denver, CO","Jeans, Jacket, Wallet, Belt, Scarf",1087.29,2022-07-23 05:06:06
+861,"123 Main St, New York, NY",Jacket,43.31,2022-03-30 16:25:07
+862,"789 Maple St, Los Angeles, CA",Wallet,420.92,2022-05-25 13:27:42
+863,"321 Elm St, Chicago, IL","Watch, Sunglasses",404.76,2022-11-28 14:49:35
+864,"654 Pine St, Boston, MA","T-shirt, Sneakers, Hat",642.08,2022-01-21 01:59:47
+865,"864 Spruce St, Denver, CO","Hat, Jacket, Sunglasses, Jeans, T-shirt",990.21,2023-01-26 01:09:08
+866,"987 Cedar St, Austin, TX","Hat, Sneakers, T-shirt, Watch",1172.64,2022-04-23 15:47:24
+867,"789 Maple St, Los Angeles, CA","Sunglasses, Sneakers, T-shirt",336.52,2022-05-07 23:30:38
+868,"135 Aspen St, Miami, FL",,1781.39,2022-08-21 07:03:25
+869,"321 Elm St, Chicago, IL","T-shirt, Sneakers, Watch, Scarf",1069.3300000000002,2022-06-23 22:24:37
+870,"135 Aspen St, Miami, FL","Hat, Belt",198.35,2023-01-25 16:33:38
+871,"321 Elm St, Chicago, IL","Belt, T-shirt, Sunglasses, Wallet, Scarf",1646.5700000000002,2022-06-28 16:20:35
+872,"321 Elm St, Chicago, IL","Jeans, T-shirt",398.46,2022-09-11 03:10:52
+873,"123 Main St, New York, NY","Hat, Jeans",909.6800000000001,2022-06-07 05:43:34
+874,"654 Pine St, Boston, MA","Sneakers, Wallet, Scarf, Jeans, Jacket",603.42,2022-10-01 20:51:45
+875,"987 Cedar St, Austin, TX",Jacket,336.1,2022-06-13 09:44:38
+876,"123 Main St, New York, NY","Hat, Jacket",234.45999999999998,2022-12-03 21:12:07
+877,"456 Oak St, San Francisco, CA","T-shirt, Jacket, Wallet, Sunglasses",685.91,2022-10-29 06:28:01
+878,"654 Pine St, Boston, MA","Belt, Jeans, Watch",376.88,2022-12-20 10:38:52
+879,"321 Walnut St, Houston, TX",Jacket,484.23,2022-05-02 05:03:00
+880,"864 Spruce St, Denver, CO","T-shirt, Hat, Sneakers, Sunglasses",1565.96,2022-06-21 01:23:48
+881,"246 Birch St, Seattle, WA","Jeans, Jacket, Sneakers, Sunglasses",1038.24,2023-03-04 07:40:07
+882,"456 Oak St, San Francisco, CA","Jacket, Jeans",182.35999999999999,2022-02-05 05:12:53
+883,"987 Cedar St, Austin, TX","Belt, T-shirt",584.02,2022-11-02 03:40:25
+884,"321 Elm St, Chicago, IL","Sunglasses, Jacket, T-shirt",1133.34,2022-01-09 01:01:32
+885,"789 Maple St, Los Angeles, CA","Wallet, Sneakers, T-shirt, Watch",879.31,2022-10-28 19:49:47
+886,"789 Maple St, Los Angeles, CA","Belt, Watch, Jeans, Hat",928.2500000000001,2022-10-26 21:09:30
+887,"987 Cedar St, Austin, TX","Watch, Jeans, Hat, T-shirt, Sunglasses",1454.09,2022-11-19 00:47:15
+888,"798 Willow St, Atlanta, GA","Belt, Wallet, Jacket, Sunglasses, Hat",1501.06,2022-11-06 00:47:39
+889,"456 Oak St, San Francisco, CA","Wallet, Hat, Watch, Belt",713.81,2023-01-14 03:04:50
+890,"369 Redwood St, Portland, OR","Sneakers, Wallet",700.6,2022-06-23 21:01:40
+891,"123 Main St, New York, NY","Wallet, Belt, Jeans, Hat, Sneakers",1164.34,2022-05-23 02:37:35
+892,"864 Spruce St, Denver, CO",Belt,211.05,2022-10-29 11:37:20
+893,"147 Cherry St, Philadelphia, PA","T-shirt, Wallet, Sunglasses, Sneakers",1022.6,2023-02-04 02:29:22
+894,"321 Elm St, Chicago, IL","T-shirt, Wallet, Jeans, Scarf",1145.6100000000001,2022-10-07 08:18:27
+895,"951 Palm St, Phoenix, AZ","T-shirt, Wallet",170.18,2022-06-11 16:28:05
+896,"864 Spruce St, Denver, CO","Belt, Sunglasses",43.45,2022-07-07 05:05:40
+897,"135 Aspen St, Miami, FL","Wallet, Sunglasses, Belt, Watch, Sneakers",1421.11,2022-09-15 03:29:06
+898,"654 Pine St, Boston, MA","Hat, Wallet, Belt, Sneakers",491.38,2023-02-27 17:51:15
+899,"321 Walnut St, Houston, TX","Belt, Sneakers, Scarf, T-shirt, Wallet",1977.2,2022-11-14 20:00:30
+900,"789 Maple St, Los Angeles, CA","Sneakers, T-shirt",881.51,2022-06-28 20:42:51
+901,"654 Pine St, Boston, MA",Sunglasses,33.37,2023-03-16 13:40:15
+902,"798 Willow St, Atlanta, GA","Sneakers, Scarf, Sunglasses, T-shirt, Jacket",1636.3100000000002,2022-04-26 19:11:55
+903,"369 Redwood St, Portland, OR","Sneakers, T-shirt, Watch",87.15,2022-12-06 05:11:35
+904,"798 Willow St, Atlanta, GA","Sunglasses, Hat",192.69,2022-04-25 18:11:47
+905,"147 Cherry St, Philadelphia, PA",Watch,26.17,2022-01-17 21:08:48
+906,"654 Pine St, Boston, MA",Sneakers,11.39,2022-04-15 19:45:00
+907,"123 Main St, New York, NY","Watch, T-shirt, Sunglasses",1368.28,2023-02-05 13:58:37
+908,"456 Oak St, San Francisco, CA","Watch, Scarf, Jacket, Belt",915.62,2023-02-04 01:50:09
+909,"789 Maple St, Los Angeles, CA","Watch, T-shirt, Hat",559.8900000000001,2022-06-25 16:11:26
+910,"321 Walnut St, Houston, TX","Sneakers, Watch, Belt, Jeans, Scarf",1160.69,2022-10-05 20:08:29
+911,"123 Main St, New York, NY","Hat, Sunglasses, Scarf, Jeans",1198.44,2023-03-09 16:50:44
+912,"987 Cedar St, Austin, TX","Wallet, Sneakers, Jeans, Sunglasses, T-shirt",1724.56,2022-09-27 04:57:34
+913,"456 Oak St, San Francisco, CA","Hat, Wallet, Watch",640.2,2022-01-11 20:14:51
+914,"147 Cherry St, Philadelphia, PA","Sunglasses, Jeans",627.62,2022-02-08 09:41:03
+915,"246 Birch St, Seattle, WA","Hat, Jeans, Scarf, Jacket",985.7800000000001,2022-01-11 18:46:54
+916,"321 Walnut St, Houston, TX","Sunglasses, Belt, Hat, Jacket",963.87,2022-06-26 15:58:25
+917,"258 Hickory St, Dallas, TX","Hat, Sunglasses, Jacket, Jeans",626.3,2022-09-19 16:20:45
+918,"258 Hickory St, Dallas, TX","Hat, T-shirt, Scarf, Watch",749.79,2022-09-08 22:06:23
+919,"123 Main St, New York, NY",Jeans,332.23,2022-01-15 08:51:14
+920,"135 Aspen St, Miami, FL","Scarf, Sunglasses, Sneakers, Belt, Jacket",1233.31,2022-06-23 22:23:08
+921,"369 Redwood St, Portland, OR","Jacket, Sneakers, T-shirt, Sunglasses",1269.6399999999999,2022-07-02 03:28:32
+922,"321 Walnut St, Houston, TX","Scarf, Jeans, Wallet, Watch, T-shirt",1432.4,2022-10-22 19:16:04
+923,"789 Maple St, Los Angeles, CA","T-shirt, Sunglasses, Sneakers",413.0,2023-01-24 21:31:28
+924,"258 Hickory St, Dallas, TX","Watch, Scarf, Hat, Wallet",1563.0800000000002,2023-01-08 01:15:05
+925,"321 Elm St, Chicago, IL","Wallet, T-shirt, Sunglasses, Jacket, Belt",1387.54,2022-10-17 03:17:22
+926,"369 Redwood St, Portland, OR","Jeans, Watch, Hat, T-shirt, Scarf",1558.64,2023-01-24 07:46:39
+660,"456 Oak St, San Francisco, CA","T-shirt, Jeans, Sunglasses",1102.79,2022-12-03 00:32:11
+928,"987 Cedar St, Austin, TX","Watch, Wallet, Jacket",1162.8600000000001,2022-12-10 16:00:15
+929,"369 Redwood St, Portland, OR","Watch, Scarf, Jeans, Hat",955.82,2022-12-08 12:15:29
+930,"798 Willow St, Atlanta, GA","Sneakers, Watch",566.23,2023-03-01 10:18:28
+931,"951 Palm St, Phoenix, AZ","Jacket, T-shirt",420.07000000000005,2023-01-31 07:24:24
+932,"456 Oak St, San Francisco, CA",Sneakers,175.89,2022-08-13 17:45:50
+933,"864 Spruce St, Denver, CO",Sneakers,68.2,2022-02-13 03:18:29
+934,"789 Maple St, Los Angeles, CA",Jacket,358.6,2023-01-18 20:54:10
+935,"321 Walnut St, Houston, TX","Sneakers, Watch",404.24,2023-03-02 12:58:51
+936,"321 Elm St, Chicago, IL","Jacket, Sunglasses, Watch, Sneakers, Wallet",1556.74,2022-01-04 14:26:45
+937,"456 Oak St, San Francisco, CA","Jacket, Scarf, Jeans, T-shirt",1448.8799999999999,2022-10-17 09:23:23
+938,"321 Walnut St, Houston, TX","Sneakers, Jacket",527.47,2023-03-09 18:11:19
+939,"147 Cherry St, Philadelphia, PA",T-shirt,29.27,2023-02-17 07:42:21
+940,"321 Walnut St, Houston, TX","Jeans, Watch, Belt",537.28,2023-03-02 18:17:11
+941,"987 Cedar St, Austin, TX","Wallet, Hat, Jacket, T-shirt, Scarf",1472.55,2022-12-18 23:35:55
+942,"798 Willow St, Atlanta, GA","Belt, Sunglasses, Sneakers",446.76,2022-05-25 19:12:25
+943,"321 Elm St, Chicago, IL","Jacket, Watch, Jeans, Hat",716.34,2022-06-28 21:24:23
+944,"798 Willow St, Atlanta, GA","Wallet, Watch, Sneakers",599.81,2022-07-04 14:09:07
+945,"321 Elm St, Chicago, IL","Watch, T-shirt, Hat",1045.27,2022-09-08 11:00:36
+946,"456 Oak St, San Francisco, CA","T-shirt, Belt, Jacket, Sunglasses, Watch",1275.01,2022-11-04 19:00:38
+947,"987 Cedar St, Austin, TX","Belt, Jeans, Watch",867.2299999999999,2022-09-25 20:44:04
+948,"321 Elm St, Chicago, IL","Jacket, Wallet, Scarf",675.13,2022-11-29 13:39:23
+949,"321 Walnut St, Houston, TX","Scarf, Sunglasses, Watch, T-shirt",704.69,2022-05-26 20:46:19
+950,"258 Hickory St, Dallas, TX","Wallet, Jeans, Scarf, T-shirt, Sunglasses",746.85,2022-10-09 00:51:45
+951,"135 Aspen St, Miami, FL","Jacket, Belt, Jeans, Hat",699.01,2022-06-21 07:28:01
+952,"369 Redwood St, Portland, OR","T-shirt, Watch",812.99,2022-06-19 17:39:45
+953,"987 Cedar St, Austin, TX","Hat, Sneakers",386.81,2022-04-17 00:44:53
+954,"123 Main St, New York, NY","Belt, Wallet",535.92,2022-03-04 07:30:26
+955,"951 Palm St, Phoenix, AZ","Jacket, Jeans, Watch, Sunglasses",843.5700000000002,2022-09-30 09:36:14
+956,"951 Palm St, Phoenix, AZ","Sneakers, Hat",445.85,2022-06-29 20:00:33
+957,"789 Maple St, Los Angeles, CA","Wallet, Scarf, Belt",1020.53,2022-11-21 18:29:47
+958,"258 Hickory St, Dallas, TX","Scarf, Belt, Jacket, Jeans",813.01,2022-03-27 13:18:44
+959,"456 Oak St, San Francisco, CA","Jacket, Sunglasses",337.92999999999995,2022-01-04 21:29:23
+960,"456 Oak St, San Francisco, CA","T-shirt, Belt, Sunglasses, Watch, Jeans",1400.77,2022-05-10 08:08:47
+961,"321 Elm St, Chicago, IL",Sunglasses,100.98,2022-03-04 16:50:31
+962,"456 Oak St, San Francisco, CA","Hat, Sneakers, Belt, Watch",1145.6,2022-03-24 10:09:11
+963,"987 Cedar St, Austin, TX","Hat, Scarf",475.48,2022-07-30 02:47:21
+964,"654 Pine St, Boston, MA",T-shirt,391.77,2023-01-18 20:12:38
+965,"864 Spruce St, Denver, CO","Jeans, Sneakers, T-shirt, Watch, Wallet",1147.77,2022-09-17 22:55:29
+966,"654 Pine St, Boston, MA","Wallet, Jacket, Belt",1035.72,2023-03-01 19:27:38
+967,"456 Oak St, San Francisco, CA","T-shirt, Sneakers, Scarf, Hat",791.0699999999999,2022-03-11 20:44:46
+968,"369 Redwood St, Portland, OR",Belt,300.68,2022-10-11 19:08:51
+969,"123 Main St, New York, NY",Belt,220.98,2022/01/01 01:00:00
+970,"864 Spruce St, Denver, CO","Sneakers, T-shirt",747.79,2023-01-05 18:48:01
+971,"123 Main St, New York, NY","Hat, Watch, Sneakers, Jacket, Sunglasses",1164.7800000000002,2022-10-26 11:52:02
+972,"864 Spruce St, Denver, CO","T-shirt, Wallet, Sunglasses, Hat",1063.09,2022-08-01 06:55:48
+973,"789 Maple St, Los Angeles, CA","Jacket, Scarf, Hat, T-shirt, Wallet",1293.56,2022-06-05 19:47:06
+974,"147 Cherry St, Philadelphia, PA","Belt, Watch, Sunglasses, Jeans",908.88,2023-01-22 10:07:14
+975,"123 Main St, New York, NY","Belt, Wallet, Jacket, Sneakers",1183.6999999999998,2022-03-22 15:29:15
+976,"321 Walnut St, Houston, TX","T-shirt, Wallet, Jeans, Hat",398.77,2022-04-03 11:48:12
+977,"369 Redwood St, Portland, OR","Jacket, T-shirt, Sunglasses, Watch",1273.9900000000002,2022-01-27 09:02:30
+978,"321 Walnut St, Houston, TX","Jeans, T-shirt",654.16,2022-10-14 13:27:53
+979,"654 Pine St, Boston, MA","Sneakers, Wallet",560.53,2022-02-21 22:55:57
+980,"321 Elm St, Chicago, IL","Hat, Belt, Wallet",895.0,2022-04-30 07:14:08
+981,"798 Willow St, Atlanta, GA","Hat, Scarf, Sneakers, Wallet",850.96,2022-12-17 09:17:33
+982,"789 Maple St, Los Angeles, CA",,815.5699999999999,2022-08-02 00:32:20
+983,"321 Elm St, Chicago, IL","Hat, Scarf, Sneakers",10000,2023-01-19 05:57:45
+984,"456 Oak St, San Francisco, CA","Watch, Sunglasses",811.29,2022-02-16 20:29:04
+985,"798 Willow St, Atlanta, GA","Belt, Scarf, Sunglasses",787.32,2022-01-10 02:07:27
+986,"369 Redwood St, Portland, OR","Jacket, Belt, Sunglasses, Hat",846.55,2022-08-27 10:22:16
+987,,"Sneakers, Wallet, Belt, T-shirt",1232.54,2022-06-03 14:39:19
+988,"135 Aspen St, Miami, FL","Belt, Jeans, Jacket",10000,2022-08-04 15:08:01
+989,,"Sunglasses, Sneakers, Scarf",833.1,2022-01-26 22:41:21
+990,"258 Hickory St, Dallas, TX",Jacket,75.2,2022-11-17 20:33:20
+991,"123 Main St, New York, NY","Wallet, Sunglasses",689.26,2022-07-17 00:39:16
+992,"135 Aspen St, Miami, FL","Jeans, Scarf, Belt, Sunglasses",1177.31,2022-06-21 17:10:21
+993,"789 Maple St, Los Angeles, CA","Sneakers, Hat, T-shirt, Jacket",1114.98,2022-04-05 16:16:41
+994,"987 Cedar St, Austin, TX","Belt, Scarf, Hat, Sunglasses, T-shirt",1772.25,2022-11-13 01:54:00
+995,"321 Elm St, Chicago, IL","Wallet, Scarf, Sneakers",795.79,2022-08-15 06:40:19
+996,"147 Cherry St, Philadelphia, PA",Jacket,10000,2022-05-30 14:26:19
+997,"789 Maple St, Los Angeles, CA","Sunglasses, Sneakers, Scarf, Belt, Watch",698.47,2022-06-20 16:17:53
+998,"258 Hickory St, Dallas, TX","Jeans, Wallet, Sunglasses",680.5699999999999,2022/01/01 01:00:00
+999,"258 Hickory St, Dallas, TX",Jacket,87.69,2022-11-20 20:14:38
+1000,"654 Pine St, Boston, MA","Sunglasses, Jacket",873.28,2022-06-20 13:59:35
