@@ -1,4 +1,6 @@
+/venv
 *.db
 *env
 *.pyc
 *.DS_STORE
+*.sqlite
