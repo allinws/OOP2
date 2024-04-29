@@ -46,14 +46,10 @@ class UserModel:
 
     def __init__(self):
         self.conn = sqlite3.connect('todo.sqlite')
+        self.conn.row_factory = sqlite3.Row # Convert tuples to objects
 
     def create(self, name, email):
         with self.conn:
             self.conn.execute(f"INSERT INTO {self.TABLENAME} (name, email) VALUES (?, ?)", (name, email))
             row = self.conn.execute("SELECT * FROM {} WHERE rowid = last_insert_rowid()".format(self.TABLENAME)).fetchone()
-            return {
-                "id": row[0],
-                "name": row[1],
-                "email": row[2],
-                "created_on": row[3]
-            }
+            return dict(row)
