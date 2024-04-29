@@ -46,7 +46,7 @@ class UserModel:
 
     def __init__(self):
         self.conn = sqlite3.connect('todo.sqlite')
-        self.conn.row_factory = sqlite3.Row # Convert tuples to objects
+        self.conn.row_factory = sqlite3.Row # Convert tuples to objects when we fetch data from the db
 
     def create(self, name, email):
         with self.conn:
