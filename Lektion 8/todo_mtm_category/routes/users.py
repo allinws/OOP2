@@ -1,6 +1,6 @@
 from flask import Blueprint, request, jsonify, render_template
 
-from services.user_service import UserService
+from ..services.user_service import UserService
 
 bp = Blueprint('users', __name__)
 

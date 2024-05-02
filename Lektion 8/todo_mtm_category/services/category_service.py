@@ -1,4 +1,4 @@
-from models.models import Category, db
+from ..models.models import Category, db
 
 class CategoryService:
     

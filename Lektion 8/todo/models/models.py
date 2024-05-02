@@ -3,7 +3,7 @@ import sqlite3
 
 class Schema:
     def __init__(self):
-        self.conn = sqlite3.connect('todo/todo.db')
+        self.conn = sqlite3.connect('../todo.sqlite')
         self.create_user_table()
         self.create_to_do_table()
 
@@ -43,7 +43,7 @@ class UserModel:
     TABLENAME = "User"
 
     def __init__(self):
-        self.conn = sqlite3.connect('todo/todo.db')
+        self.conn = sqlite3.connect('../todo.sqlite')
         self.conn.row_factory = sqlite3.Row
 
     def create(self, name, email, password):
