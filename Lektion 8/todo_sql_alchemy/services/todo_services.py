@@ -1,4 +1,4 @@
-from models.models import Todo, db
+from ..models.models import Todo, db
 
 class TodoService:
     

@@ -1,6 +1,6 @@
 from flask import Blueprint, request, jsonify
 from datetime import datetime
-from services.todo_services import TodoService
+from ..services.todo_services import TodoService
 
 bp = Blueprint('todos', __name__)
 
@@ -40,7 +40,10 @@ def delete_todo(todo_id):
 def get_all_todos():
     todo_service = TodoService()
     todos = todo_service.get_all()
-    todo_dicts = [todo.to_dict() for todo in todos]
+    # todo_dicts = [todo.to_dict() for todo in todos]
+    todo_dicts = []
+    for todo in todos:
+        todo_dicts.append(todo.to_dict())
     return jsonify(todo_dicts), 200
 
 @bp.route('/todos/completed/', methods=["GET"])

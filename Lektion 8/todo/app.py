@@ -1,6 +1,6 @@
 from flask import Flask
-from models import models
-from routes import hello, users
+from .models import models
+from .routes import hello, users
 
 
 def create_app():

@@ -1,4 +1,4 @@
-from models import models
+from ..models import models
 
 class UserService:
     
