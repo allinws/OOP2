@@ -2,6 +2,17 @@ from flask_sqlalchemy import SQLAlchemy
 
 db = SQLAlchemy()
 
+class TodoCategory(db.Model):
+    __tablename__ = 'todo_category'
+    todo_id = db.Column(db.Integer, db.ForeignKey('todo.id'), primary_key=True)
+    category_id = db.Column(db.Integer, db.ForeignKey('category.id'), primary_key=True)
+
+    todo = db.relationship('Todo', backref=db.backref('todo_categories', lazy='dynamic'))
+    category = db.relationship('Category', backref=db.backref('todo_categories', lazy='dynamic'))
+
+    def __repr__(self):
+        return f"<TodoCategory todo_id={self.todo_id}, category_id={self.category_id}>"
+
 class User(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(50), nullable=False)
@@ -30,6 +41,11 @@ class Todo(db.Model):
     due_date = db.Column(db.DateTime)
     user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
 
+    categories = db.relationship('Category', secondary='todo_category', backref='todos', lazy='dynamic')
+
+    # categories = db.relationship('Category', secondary='todo_category', backref='todo_categories', lazy='dynamic')
+
+
     def __repr__(self):
         return f'<Todo {self.title}>'
     
@@ -41,5 +57,22 @@ class Todo(db.Model):
             'is_completed': self.is_completed,
             'created_on': self.created_on.isoformat(),
             'due_date': self.due_date.isoformat() if self.due_date else None,
-            'user_id': self.user_id
+            'user_id': self.user_id,
+            'categories': [category.to_dict() for category in self.categories]
+        }
+
+
+class Category(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(50), nullable=False)
+    
+    # todos = db.relationship('Todo', secondary='todo_category', backref='todo_categories', lazy='dynamic')
+
+    def __repr__(self):
+        return f'<Category {self.name}>'
+    
+    def to_dict(self):
+        return {
+            'id': self.id,
+            'name': self.name,
         }
