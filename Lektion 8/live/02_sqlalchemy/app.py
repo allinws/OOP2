@@ -21,7 +21,7 @@ def create_user():
     user_dict = user.to_dict()
     return jsonify(user_dict), 201
 
-@app.route('/users/<int:user_id>/', methods=["PUT"])
+@app.route('/users/<int:user_id>/', methods=["PATCH"])
 def update_user(user_id):
     user_service = UserService()
     body = request.get_json()
@@ -54,7 +54,7 @@ def login():
     if user:
         return render_template('logged_in.html', error=None, user=user)
     else:
-        return render_template('logged_in.html', error="Invalid username/password"), 401
+        return render_template('logged_in.html', error="Invalid username/password", user=None), 401
 
 if __name__ == "__main__":
     app.run(debug=True)
