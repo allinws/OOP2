@@ -7,9 +7,6 @@ class TodoCategory(db.Model):
     todo_id = db.Column(db.Integer, db.ForeignKey('todo.id'), primary_key=True)
     category_id = db.Column(db.Integer, db.ForeignKey('category.id'), primary_key=True)
 
-    todo = db.relationship('Todo', backref=db.backref('todo_categories', lazy='dynamic'))
-    category = db.relationship('Category', backref=db.backref('todo_categories', lazy='dynamic'))
-
     def __repr__(self):
         return f"<TodoCategory todo_id={self.todo_id}, category_id={self.category_id}>"
 
