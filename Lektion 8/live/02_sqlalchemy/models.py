@@ -43,9 +43,6 @@ class Todo(db.Model):
 
     categories = db.relationship('Category', secondary='todo_category', backref='todos', lazy='dynamic')
 
-    # categories = db.relationship('Category', secondary='todo_category', backref='todo_categories', lazy='dynamic')
-
-
     def __repr__(self):
         return f'<Todo {self.title}>'
     
