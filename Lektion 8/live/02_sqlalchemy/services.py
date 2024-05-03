@@ -25,6 +25,9 @@ class UserService:
             return f"User with id {user_id} has been deleted."
         return None
     
+    def get_by_id(self, user_id):
+        return User.query.get(user_id)
+    
     def get_all(self):
         return User.query.all()
     
